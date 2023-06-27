@@ -1,154 +1,175 @@
 {
   "pokemon": [
     {
-      "id": 151,
+      "id": 1,
+      "num": 151,
       "name": "Mew",
       "img": "https://www.serebii.net/pokemon/art/151.png",
       "type": ["Psychic"],
       "next_evolution": []
     },
     {
-      "id": 251,
+      "id": 2,
+      "num": 251,
       "name": "Celebi",
       "img": "https://www.serebii.net/pokemon/art/251.png",
       "type": ["Psychic", "Grass"],
       "next_evolution": []
     },
     {
-      "id": 385,
+      "id": 3,
+      "num": 385,
       "name": "Jirachi",
       "img": "https://www.serebii.net/pokemon/art/385.png",
       "type": ["Steel", "Psychic"],
       "next_evolution": []
     },
     {
-      "id": 386,
+      "id": 4,
+      "num": 386,
       "name": "Deoxys",
       "img": "https://www.serebii.net/pokemon/art/386.png",
       "type": ["Psychic"],
       "next_evolution": []
     },
     {
-      "id": 489,
+      "id": 5,
+      "num": 489,
       "name": "Phione",
       "img": "https://www.serebii.net/pokemon/art/489.png",
       "type": ["Water"],
       "next_evolution": []
     },
     {
-      "id": 490,
+      "id": 6,
+      "num": 490,
       "name": "Manaphy",
       "img": "https://www.serebii.net/pokemon/art/490.png",
       "type": ["Water"],
       "next_evolution": []
     },
     {
-      "id": 491,
+      "id": 7,
+      "num": 491,
       "name": "Darkrai",
       "img": "https://www.serebii.net/pokemon/art/491.png",
       "type": ["Dark"],
       "next_evolution": []
     },
     {
-      "id": 492,
+      "id": 8,
+      "num": 492,
       "name": "Shaymin",
       "img": "https://www.serebii.net/pokemon/art/492.png",
       "type": ["Grass"],
       "next_evolution": []
     },
-    {
-      "id": 493,
+      "id": 9,
+      "num": 493,
       "name": "Arceus",
       "img": "https://www.serebii.net/pokemon/art/493.png",
       "type": ["Normal"],
       "next_evolution": []
     },
     {
-      "id": 494,
+      "id": 10,
+      "num": 494,
       "name": "Victini",
       "img": "https://www.serebii.net/pokemon/art/494.png",
       "type": ["Psychic", "Fire"],
       "next_evolution": []
     },
     {
-      "id": 647,
+      "id": 11,
+      "num": 647,
       "name": "Keldeo",
       "img": "https://www.serebii.net/pokemon/art/647.png",
       "type": ["Water", "Fighting"],
       "next_evolution": []
     },
     {
-      "id": 648,
+      "id": 12,
+      "num": 648,
       "name": "Meloetta",
       "img": "https://www.serebii.net/pokemon/art/648.png",
       "type": ["Normal", "Psychic"],
       "next_evolution": []
     },
     {
-      "id": 649,
+      "id": 13,
+      "num": 649,
       "name": "Genesect",
       "img": "https://www.serebii.net/pokemon/art/649.png",
       "type": ["Bug", "Steel"],
       "next_evolution": []
     },
     {
-      "id": 719,
+      "id": 14,
+      "num": 719,
       "name": "Diancie",
       "img": "https://www.serebii.net/pokemon/art/719.png",
       "type": ["Rock", "Fairy"],
       "next_evolution": []
     },
     {
-      "id": 720,
+      "id": 15,
+      "num": 720,
       "name": "Hoopa",
       "img": "https://www.serebii.net/pokemon/art/720.png",
       "type": ["Psychic", "Ghost"],
       "next_evolution": []
     },
     {
-      "id": 721,
+      "id": 16,
+      "num": 721,
       "name": "Volcanion",
       "img": "https://www.serebii.net/pokemon/art/721.png",
       "type": ["Fire", "Water"],
       "next_evolution": []
     },
     {
-      "id": 801,
+      "id": 17,
+      "num": 801,
       "name": "Magearna",
       "img": "https://www.serebii.net/pokemon/art/801.png",
       "type": ["Steel", "Fairy"],
       "next_evolution": []
     },
     {
-      "id": 802,
+      "id": 18,
+      "num": 802,
       "name": "Marshadow",
       "img": "https://www.serebii.net/pokemon/art/802.png",
       "type": ["Fighting", "Ghost"],
       "next_evolution": []
     },
     {
-      "id": 807,
+      "id": 19,
+      "num": 807,
       "name": "Zeraora",
       "img": "https://www.serebii.net/pokemon/art/807.png",
       "type": ["Electric"],
       "next_evolution": []
     },
     {
-      "id": 808,
+      "id": 20,
+      "num": 808,
       "name": "Meltan",
       "img": "https://www.serebii.net/pokemon/art/808.png",
       "type": ["Steel"],
       "next_evolution": []
     },
     {
-      "id": 809,
+      "id": 21,
+      "num": 809,
       "name": "Melmetal",
       "img": "https://www.serebii.net/pokemon/art/809.png",
       "type": ["Steel"],
       "next_evolution": []
     },
     {
-      "id": 893,
+      "id": 22,
+      "num": 893,
       "name": "Zarude",
       "img": "https://www.serebii.net/pokemon/art/893.png",
       "type": ["Dark", "Grass"],
