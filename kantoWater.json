@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "img": "https://www.serebii.net/pokemon/art/007.png"
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "img": "https://www.serebii.net/pokemon/art/008.png"
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "img": "https://www.serebii.net/pokemon/art/009.png"
+    },
+    {
+      "id": 54,
+      "name": "Psyduck",
+      "img": "https://www.serebii.net/pokemon/art/054.png"
+    },
+    {
+      "id": 55,
+      "name": "Golduck",
+      "img": "https://www.serebii.net/pokemon/art/055.png"
+    },
+    {
+      "id": 60,
+      "name": "Poliwag",
+      "img": "https://www.serebii.net/pokemon/art/060.png"
+    },
+    {
+      "id": 61,
+      "name": "Poliwhirl",
+      "img": "https://www.serebii.net/pokemon/art/061.png"
+    },
+    {
+      "id": 62,
+      "name": "Poliwrath",
+      "img": "https://www.serebii.net/pokemon/art/062.png"
+    },
+    {
+      "id": 72,
+      "name": "Tentacool",
+      "img": "https://www.serebii.net/pokemon/art/072.png"
+    },
+    {
+      "id": 73,
+      "name": "Tentacruel",
+      "img": "https://www.serebii.net/pokemon/art/073.png"
+    },
+    {
+      "id": 79,
+      "name": "Slowpoke",
+      "img": "https://www.serebii.net/pokemon/art/079.png"
+    },
+    {
+      "id": 80,
+      "name": "Slowbro",
+      "img": "https://www.serebii.net/pokemon/art/080.png"
+    },
+    {
+      "id": 86,
+      "name": "Seel",
+      "img": "https://www.serebii.net/pokemon/art/086.png"
+    },
+    {
+      "id": 87,
+      "name": "Dewgong",
+      "img": "https://www.serebii.net/pokemon/art/087.png"
+    },
+    {
+      "id": 90,
+      "name": "Shellder",
+      "img": "https://www.serebii.net/pokemon/art/090.png"
+    },
+    {
+      "id": 91,
+      "name": "Cloyster",
+      "img": "https://www.serebii.net/pokemon/art/091.png"
+    },
+    {
+      "id": 98,
+      "name": "Krabby",
+      "img": "https://www.serebii.net/pokemon/art/098.png"
+    },
+    {
+      "id": 99,
+      "name": "Kingler",
+      "img": "https://www.serebii.net/pokemon/art/099.png"
+    },
+    {
+      "id": 116,
+      "name": "Horsea",
+      "img": "https://www.serebii.net/pokemon/art/116.png"
+    },
+    {
+      "id": 117,
+      "name": "Seadra",
+      "img": "https://www.serebii.net/pokemon/art/117.png"
+    },
+    {
+      "id": 118,
+      "name": "Goldeen",
+      "img": "https://www.serebii.net/pokemon/art/118.png"
+    },
+    {
+      "id": 119,
+      "name": "Seaking",
+      "img": "https://www.serebii.net/pokemon/art/119.png"
+    },
+    {
+      "id": 120,
+      "name": "Staryu",
+      "img": "https://www.serebii.net/pokemon/art/120.png"
+    },
+    {
+      "id": 121,
+      "name": "Starmie",
+      "img": "https://www.serebii.net/pokemon/art/121.png"
+    },
+    {
+      "id": 129,
+      "name": "Magikarp",
+      "img": "https://www.serebii.net/pokemon/art/129.png"
+    },
+    {
+      "id": 130,
+      "name": "Gyarados",
+      "img": "https://www.serebii.net/pokemon/art/130.png"
+    },
+    {
+      "id": 131,
+      "name": "Lapras",
+      "img": "https://www.serebii.net/pokemon/art/131.png"
+    },
+    {
+      "id": 134,
+      "name": "Vaporeon",
+      "img": "https://www.serebii.net/pokemon/art/134.png"
+    },
+    {
+      "id": 138,
+      "name": "Omanyte",
+      "img": "https://www.serebii.net/pokemon/art/138.png"
+    },
+    {
+      "id": 139,
+      "name": "Omastar",
+      "img": "https://www.serebii.net/pokemon/art/139.png"
+    },
+    {
+      "id": 140,
+      "name": "Kabuto",
+      "img": "https://www.serebii.net/pokemon/art/140.png"
+    },
+    {
+      "id": 141,
+      "name": "Kabutops",
+      "img": "https://www.serebii.net/pokemon/art/141.png"
+    }
+  ]
+}
