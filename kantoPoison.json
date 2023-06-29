@@ -1,0 +1,190 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/001.png"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/002.png"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/003.png"
+    },
+    {
+      "id": 13,
+      "name": "Weedle",
+      "types": ["Bug", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/013.png"
+    },
+    {
+      "id": 14,
+      "name": "Kakuna",
+      "types": ["Bug", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/014.png"
+    },
+    {
+      "id": 15,
+      "name": "Beedrill",
+      "types": ["Bug", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/015.png"
+    },
+    {
+      "id": 23,
+      "name": "Ekans",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/023.png"
+    },
+    {
+      "id": 24,
+      "name": "Arbok",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/024.png"
+    },
+    {
+      "id": 29,
+      "name": "Nidoran♀",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/029.png"
+    },
+    {
+      "id": 30,
+      "name": "Nidorina",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/030.png"
+    },
+    {
+      "id": 31,
+      "name": "Nidoqueen",
+      "types": ["Poison", "Ground"],
+      "img": "https://www.serebii.net/pokemon/art/031.png"
+    },
+    {
+      "id": 32,
+      "name": "Nidoran♂",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/032.png"
+    },
+    {
+      "id": 33,
+      "name": "Nidorino",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/033.png"
+    },
+    {
+      "id": 34,
+      "name": "Nidoking",
+      "types": ["Poison", "Ground"],
+      "img": "https://www.serebii.net/pokemon/art/034.png"
+    },
+    {
+      "id": 43,
+      "name": "Oddish",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/043.png"
+    },
+    {
+      "id": 44,
+      "name": "Gloom",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/044.png"
+    },
+    {
+      "id": 45,
+      "name": "Vileplume",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/045.png"
+    },
+    {
+      "id": 48,
+      "name": "Venonat",
+      "types": ["Bug", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/048.png"
+    },
+    {
+      "id": 49,
+      "name": "Venomoth",
+      "types": ["Bug", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/049.png"
+    },
+    {
+      "id": 69,
+      "name": "Bellsprout",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/069.png"
+    },
+    {
+      "id": 70,
+      "name": "Weepinbell",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/070.png"
+    },
+    {
+      "id": 71,
+      "name": "Victreebel",
+      "types": ["Grass", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/071.png"
+    },
+    {
+      "id": 72,
+      "name": "Tentacool",
+      "types": ["Water", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/072.png"
+    },
+    {
+      "id": 73,
+      "name": "Tentacruel",
+      "types": ["Water", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/073.png"
+    },
+    {
+      "id": 88,
+      "name": "Grimer",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/088.png"
+    },
+    {
+      "id": 89,
+      "name": "Muk",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/089.png"
+    },
+    {
+      "id": 92,
+      "name": "Gastly",
+      "types": ["Ghost", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/092.png"
+    },
+    {
+      "id": 93,
+      "name": "Haunter",
+      "types": ["Ghost", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/093.png"
+    },
+    {
+      "id": 94,
+      "name": "Gengar",
+      "types": ["Ghost", "Poison"],
+      "img": "https://www.serebii.net/pokemon/art/094.png"
+    },
+    {
+      "id": 109,
+      "name": "Koffing",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/109.png"
+    },
+    {
+      "id": 110,
+      "name": "Weezing",
+      "types": ["Poison"],
+      "img": "https://www.serebii.net/pokemon/art/110.png"
+    }
+  ]
+}
