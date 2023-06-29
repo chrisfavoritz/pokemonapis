@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "img": "https://www.serebii.net/pokemon/art/025.png"
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "img": "https://www.serebii.net/pokemon/art/026.png"
+    },
+    {
+      "id": 81,
+      "name": "Magnemite",
+      "img": "https://www.serebii.net/pokemon/art/081.png"
+    },
+    {
+      "id": 82,
+      "name": "Magneton",
+      "img": "https://www.serebii.net/pokemon/art/082.png"
+    },
+    {
+      "id": 100,
+      "name": "Voltorb",
+      "img": "https://www.serebii.net/pokemon/art/100.png"
+    },
+    {
+      "id": 101,
+      "name": "Electrode",
+      "img": "https://www.serebii.net/pokemon/art/101.png"
+    },
+    {
+      "id": 125,
+      "name": "Electabuzz",
+      "img": "https://www.serebii.net/pokemon/art/125.png"
+    },
+    {
+      "id": 135,
+      "name": "Jolteon",
+      "img": "https://www.serebii.net/pokemon/art/135.png"
+    },
+    {
+      "id": 145,
+      "name": "Zapdos",
+      "img": "https://www.serebii.net/pokemon/art/145.png"
+    }
+  ]
+}
