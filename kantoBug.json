@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 10,
+      "name": "Caterpie",
+      "img": "https://www.serebii.net/pokemon/art/010.png"
+    },
+    {
+      "id": 11,
+      "name": "Metapod",
+      "img": "https://www.serebii.net/pokemon/art/011.png"
+    },
+    {
+      "id": 12,
+      "name": "Butterfree",
+      "img": "https://www.serebii.net/pokemon/art/012.png"
+    },
+    {
+      "id": 13,
+      "name": "Weedle",
+      "img": "https://www.serebii.net/pokemon/art/013.png"
+    },
+    {
+      "id": 14,
+      "name": "Kakuna",
+      "img": "https://www.serebii.net/pokemon/art/014.png"
+    },
+    {
+      "id": 15,
+      "name": "Beedrill",
+      "img": "https://www.serebii.net/pokemon/art/015.png"
+    },
+    {
+      "id": 46,
+      "name": "Paras",
+      "img": "https://www.serebii.net/pokemon/art/046.png"
+    },
+    {
+      "id": 47,
+      "name": "Parasect",
+      "img": "https://www.serebii.net/pokemon/art/047.png"
+    },
+    {
+      "id": 48,
+      "name": "Venonat",
+      "img": "https://www.serebii.net/pokemon/art/048.png"
+    },
+    {
+      "id": 49,
+      "name": "Venomoth",
+      "img": "https://www.serebii.net/pokemon/art/049.png"
+    },
+    {
+      "id": 123,
+      "name": "Scyther",
+      "img": "https://www.serebii.net/pokemon/art/123.png"
+    },
+    {
+      "id": 127,
+      "name": "Pinsir",
+      "img": "https://www.serebii.net/pokemon/art/127.png"
+    }
+  ]
+}
