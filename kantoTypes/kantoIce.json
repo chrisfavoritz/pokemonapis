@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 87,
+      "name": "Dewgong",
+      "img": "https://www.serebii.net/pokemon/art/087.png"
+    },
+    {
+      "id": 91,
+      "name": "Cloyster",
+      "img": "https://www.serebii.net/pokemon/art/091.png"
+    },
+    {
+      "id": 124,
+      "name": "Jynx",
+      "img": "https://www.serebii.net/pokemon/art/124.png"
+    },
+    {
+      "id": 131,
+      "name": "Lapras",
+      "img": "https://www.serebii.net/pokemon/art/131.png"
+    },
+    {
+      "id": 144,
+      "name": "Articuno",
+      "img": "https://www.serebii.net/pokemon/art/144.png"
+    }
+  ]
+}
