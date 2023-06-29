@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": 16,
+      "name": "Pidgey",
+      "img": "https://www.serebii.net/pokemon/art/016.png"
+    },
+    {
+      "id": 17,
+      "name": "Pidgeotto",
+      "img": "https://www.serebii.net/pokemon/art/017.png"
+    },
+    {
+      "id": 18,
+      "name": "Pidgeot",
+      "img": "https://www.serebii.net/pokemon/art/018.png"
+    },
+    {
+      "id": 19,
+      "name": "Rattata",
+      "img": "https://www.serebii.net/pokemon/art/019.png"
+    },
+    {
+      "id": 20,
+      "name": "Raticate",
+      "img": "https://www.serebii.net/pokemon/art/020.png"
+    },
+    {
+      "id": 21,
+      "name": "Spearow",
+      "img": "https://www.serebii.net/pokemon/art/021.png"
+    },
+    {
+      "id": 22,
+      "name": "Fearow",
+      "img": "https://www.serebii.net/pokemon/art/022.png"
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff",
+      "img": "https://www.serebii.net/pokemon/art/039.png"
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "img": "https://www.serebii.net/pokemon/art/040.png"
+    },
+    {
+      "id": 52,
+      "name": "Meowth",
+      "img": "https://www.serebii.net/pokemon/art/052.png"
+    },
+    {
+      "id": 53,
+      "name": "Persian",
+      "img": "https://www.serebii.net/pokemon/art/053.png"
+    },
+    {
+      "id": 83,
+      "name": "Farfetch'd",
+      "img": "https://www.serebii.net/pokemon/art/083.png"
+    },
+    {
+      "id": 84,
+      "name": "Doduo",
+      "img": "https://www.serebii.net/pokemon/art/084.png"
+    },
+    {
+      "id": 85,
+      "name": "Dodrio",
+      "img": "https://www.serebii.net/pokemon/art/085.png"
+    },
+    {
+      "id": 108,
+      "name": "Lickitung",
+      "img": "https://www.serebii.net/pokemon/art/108.png"
+    },
+    {
+      "id": 113,
+      "name": "Chansey",
+      "img": "https://www.serebii.net/pokemon/art/113.png"
+    },
+    {
+      "id": 115,
+      "name": "Kangaskhan",
+      "img": "https://www.serebii.net/pokemon/art/115.png"
+    },
+    {
+      "id": 128,
+      "name": "Tauros",
+      "img": "https://www.serebii.net/pokemon/art/128.png"
+    },
+    {
+      "id": 132,
+      "name": "Ditto",
+      "img": "https://www.serebii.net/pokemon/art/132.png"
+    },
+    {
+      "id": 133,
+      "name": "Eevee",
+      "img": "https://www.serebii.net/pokemon/art/133.png"
+    },
+    {
+      "id": 137,
+      "name": "Porygon",
+      "img": "https://www.serebii.net/pokemon/art/137.png"
+    },
+    {
+      "id": 143,
+      "name": "Snorlax",
+      "img": "https://www.serebii.net/pokemon/art/143.png"
+    }
+  ]
+}
