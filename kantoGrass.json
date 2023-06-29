@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "img": "https://www.serebii.net/pokemon/art/001.png"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "img": "https://www.serebii.net/pokemon/art/002.png"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "img": "https://www.serebii.net/pokemon/art/003.png"
+    },
+    {
+      "id": 43,
+      "name": "Oddish",
+      "img": "https://www.serebii.net/pokemon/art/043.png"
+    },
+    {
+      "id": 44,
+      "name": "Gloom",
+      "img": "https://www.serebii.net/pokemon/art/044.png"
+    },
+    {
+      "id": 45,
+      "name": "Vileplume",
+      "img": "https://www.serebii.net/pokemon/art/045.png"
+    },
+    {
+      "id": 69,
+      "name": "Bellsprout",
+      "img": "https://www.serebii.net/pokemon/art/069.png"
+    },
+    {
+      "id": 70,
+      "name": "Weepinbell",
+      "img": "https://www.serebii.net/pokemon/art/070.png"
+    },
+    {
+      "id": 71,
+      "name": "Victreebel",
+      "img": "https://www.serebii.net/pokemon/art/071.png"
+    },
+    {
+      "id": 102,
+      "name": "Exeggcute",
+      "img": "https://www.serebii.net/pokemon/art/102.png"
+    },
+    {
+      "id": 103,
+      "name": "Exeggutor",
+      "img": "https://www.serebii.net/pokemon/art/103.png"
+    },
+    {
+      "id": 114,
+      "name": "Tangela",
+      "img": "https://www.serebii.net/pokemon/art/114.png"
+    }
+  ]
+}
