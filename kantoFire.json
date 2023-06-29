@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 4,
+      "name": "Charmander",
+      "img": "https://www.serebii.net/pokemon/art/004.png"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "img": "https://www.serebii.net/pokemon/art/005.png"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "img": "https://www.serebii.net/pokemon/art/006.png"
+    },
+    {
+      "id": 37,
+      "name": "Vulpix",
+      "img": "https://www.serebii.net/pokemon/art/037.png"
+    },
+    {
+      "id": 38,
+      "name": "Ninetales",
+      "img": "https://www.serebii.net/pokemon/art/038.png"
+    },
+    {
+      "id": 58,
+      "name": "Growlithe",
+      "img": "https://www.serebii.net/pokemon/art/058.png"
+    },
+    {
+      "id": 59,
+      "name": "Arcanine",
+      "img": "https://www.serebii.net/pokemon/art/059.png"
+    },
+    {
+      "id": 77,
+      "name": "Ponyta",
+      "img": "https://www.serebii.net/pokemon/art/077.png"
+    },
+    {
+      "id": 78,
+      "name": "Rapidash",
+      "img": "https://www.serebii.net/pokemon/art/078.png"
+    },
+    {
+      "id": 126,
+      "name": "Magmar",
+      "img": "https://www.serebii.net/pokemon/art/126.png"
+    },
+    {
+      "id": 136,
+      "name": "Flareon",
+      "img": "https://www.serebii.net/pokemon/art/136.png"
+    },
+    {
+      "id": 146,
+      "name": "Moltres",
+      "img": "https://www.serebii.net/pokemon/art/146.png"
+    }
+  ]
+}
