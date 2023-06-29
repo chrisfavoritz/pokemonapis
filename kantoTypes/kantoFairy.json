@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 35,
+      "name": "Clefairy",
+      "img": "https://www.serebii.net/pokemon/art/035.png"
+    },
+    {
+      "id": 36,
+      "name": "Clefable",
+      "img": "https://www.serebii.net/pokemon/art/036.png"
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff",
+      "img": "https://www.serebii.net/pokemon/art/039.png"
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "img": "https://www.serebii.net/pokemon/art/040.png"
+    },
+    {
+      "id": 122,
+      "name": "Mr. Mime",
+      "img": "https://www.serebii.net/pokemon/art/122.png"
+    }
+  ]
+}
