@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 56,
+      "name": "Mankey",
+      "img": "https://www.serebii.net/pokemon/art/056.png"
+    },
+    {
+      "id": 57,
+      "name": "Primeape",
+      "img": "https://www.serebii.net/pokemon/art/057.png"
+    },
+    {
+      "id": 66,
+      "name": "Machop",
+      "img": "https://www.serebii.net/pokemon/art/066.png"
+    },
+    {
+      "id": 67,
+      "name": "Machoke",
+      "img": "https://www.serebii.net/pokemon/art/067.png"
+    },
+    {
+      "id": 68,
+      "name": "Machamp",
+      "img": "https://www.serebii.net/pokemon/art/068.png"
+    },
+    {
+      "id": 106,
+      "name": "Hitmonlee",
+      "img": "https://www.serebii.net/pokemon/art/106.png"
+    },
+    {
+      "id": 107,
+      "name": "Hitmonchan",
+      "img": "https://www.serebii.net/pokemon/art/107.png"
+    }
+  ]
+}
