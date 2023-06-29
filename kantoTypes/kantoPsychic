@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": 63,
+      "name": "Abra",
+      "img": "https://www.serebii.net/pokemon/art/063.png"
+    },
+    {
+      "id": 64,
+      "name": "Kadabra",
+      "img": "https://www.serebii.net/pokemon/art/064.png"
+    },
+    {
+      "id": 65,
+      "name": "Alakazam",
+      "img": "https://www.serebii.net/pokemon/art/065.png"
+    },
+    {
+      "id": 79,
+      "name": "Slowpoke",
+      "img": "https://www.serebii.net/pokemon/art/079.png"
+    },
+    {
+      "id": 80,
+      "name": "Slowbro",
+      "img": "https://www.serebii.net/pokemon/art/080.png"
+    },
+    {
+      "id": 96,
+      "name": "Drowzee",
+      "img": "https://www.serebii.net/pokemon/art/096.png"
+    },
+    {
+      "id": 97,
+      "name": "Hypno",
+      "img": "https://www.serebii.net/pokemon/art/097.png"
+    },
+    {
+      "id": 102,
+      "name": "Exeggcute",
+      "img": "https://www.serebii.net/pokemon/art/102.png"
+    },
+    {
+      "id": 103,
+      "name": "Exeggutor",
+      "img": "https://www.serebii.net/pokemon/art/103.png"
+    },
+    {
+      "id": 121,
+      "name": "Starmie",
+      "img": "https://www.serebii.net/pokemon/art/121.png"
+    },
+    {
+      "id": 122,
+      "name": "Mr. Mime",
+      "img": "https://www.serebii.net/pokemon/art/122.png"
+    },
+    {
+      "id": 124,
+      "name": "Jynx",
+      "img": "https://www.serebii.net/pokemon/art/124.png"
+    },
+    {
+      "id": 150,
+      "name": "Mewtwo",
+      "img": "https://www.serebii.net/pokemon/art/150.png"
+    },
+    {
+      "id": 151,
+      "name": "Mew",
+      "img": "https://www.serebii.net/pokemon/art/151.png"
+    }
+  ]
+}
