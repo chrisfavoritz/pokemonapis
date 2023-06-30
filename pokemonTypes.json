@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Bug",
+      "img": "https://pixelmonmod.com/w/images/8/81/BugType.png"
+    },
+    {
+      "id": 2,
+      "name": "Dark",
+      "img": "https://pixelmonmod.com/w/images/f/f8/DarkType.png"
+    },
+    {
+      "id": 3,
+      "name": "Dragon",
+      "img": "https://pixelmonmod.com/w/images/5/5d/DragonType.png"
+    },
+    {
+      "id": 4,
+      "name": "Electric",
+      "img": "https://pixelmonmod.com/w/images/f/f3/ElectricType.png"
+    },
+    {
+      "id": 5,
+      "name": "Fairy",
+      "img": "https://pixelmonmod.com/w/images/4/47/FairyType.png"
+    },
+    {
+      "id": 6,
+      "name": "Fighting",
+      "img": "https://pixelmonmod.com/w/images/9/98/FightingType.png"
+    },
+    {
+      "id": 7,
+      "name": "Fire",
+      "img": "https://pixelmonmod.com/w/images/7/79/FireType.png"
+    },
+    {
+      "id": 8,
+      "name": "Flying",
+      "img": "https://pixelmonmod.com/w/images/0/0d/FlyingType.png"
+    },
+    {
+      "id": 9,
+      "name": "Ghost",
+      "img": "https://pixelmonmod.com/w/images/9/98/GhostType.png"
+    },
+    {
+      "id": 10,
+      "name": "Grass",
+      "img": "https://pixelmonmod.com/w/images/d/d6/GrassType.png"
+    },
+    {
+      "id": 11,
+      "name": "Ground",
+      "img": "https://pixelmonmod.com/w/images/3/31/GroundType.png"
+    },
+    {
+      "id": 12,
+      "name": "Ice",
+      "img": "https://pixelmonmod.com/w/images/1/10/IceType.png"
+    },
+     {
+      "id": 13,
+      "name": "Normal",
+      "img": "https://pixelmonmod.com/w/images/8/83/NormalType.png"
+    },
+     {
+      "id": 14,
+      "name": "Poison",
+      "img": "https://pixelmonmod.com/w/images/3/3b/PoisonType.png"
+    },
+     {
+      "id": 15,
+      "name": "Psychic",
+      "img": "https://pixelmonmod.com/w/images/f/f6/PsychicType.png"
+    },
+     {
+      "id": 16,
+      "name": "Rock",
+      "img": "https://pixelmonmod.com/w/images/0/0b/RockType.png"
+    },
+     {
+      "id": 17,
+      "name": "Steel",
+      "img": "https://pixelmonmod.com/w/images/5/58/SteelType.png"
+    },
+     {
+      "id": 18,
+      "name": "Water",
+      "img": "https://pixelmonmod.com/w/images/a/a7/WaterType.png"
+    }
+  ]
+}
