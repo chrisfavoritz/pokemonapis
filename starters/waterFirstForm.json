@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "img": "https://www.serebii.net/pokemon/art/007.png"
+    },
+    {
+      "id": 158,
+      "name": "Totodile",
+      "img": "https://www.serebii.net/pokemon/art/158.png"
+    },
+    {
+      "id": 393,
+      "name": "Piplup",
+      "img": "https://www.serebii.net/pokemon/art/393.png"
+    },
+    {
+      "id": 501,
+      "name": "Oshawott",
+      "img": "https://www.serebii.net/pokemon/art/501.png"
+    },
+    {
+      "id": 656,
+      "name": "Froakie",
+      "img": "https://www.serebii.net/pokemon/art/656.png"
+    },
+    {
+      "id": 728,
+      "name": "Popplio",
+      "img": "https://www.serebii.net/pokemon/art/728.png"
+    },
+    {
+      "id": 816,
+      "name": "Sobble",
+      "img": "https://www.serebii.net/pokemon/art/816.png"
+    },
+    {
+      "id": 912,
+      "name": "Quaxly",
+      "img": "https://www.serebii.net/pokemon/art/912.png"
+    }
+  ]
+}
