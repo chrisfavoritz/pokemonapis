@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 133,
+      "name": "Eevee",
+      "img": "https://www.serebii.net/pokemon/art/133.png"
+    },
+    {
+      "id": 134,
+      "name": "Vaporeon",
+      "img": "https://www.serebii.net/pokemon/art/134.png"
+    },
+    {
+      "id": 135,
+      "name": "Jolteon",
+      "img": "https://www.serebii.net/pokemon/art/135.png"
+    },
+    {
+      "id": 136,
+      "name": "Flareon",
+      "img": "https://www.serebii.net/pokemon/art/136.png"
+    },
+    {
+      "id": 196,
+      "name": "Espeon",
+      "img": "https://www.serebii.net/pokemon/art/196.png"
+    },
+    {
+      "id": 197,
+      "name": "Umbreon",
+      "img": "https://www.serebii.net/pokemon/art/197.png"
+    },
+    {
+      "id": 470,
+      "name": "Leafeon",
+      "img": "https://www.serebii.net/pokemon/art/470.png"
+    },
+    {
+      "id": 471,
+      "name": "Glaceon",
+      "img": "https://www.serebii.net/pokemon/art/471.png"
+    },
+    {
+      "id": 700,
+      "name": "Sylveon",
+      "img": "https://www.serebii.net/pokemon/art/700.png"
+    }
+  ]
+}
