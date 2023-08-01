@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": 58,
+      "name": "Growlithe",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/058-h.png"
+    },
+    {
+      "id": 59,
+      "name": "Arcanine",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/059-h.png"
+    },
+    {
+      "id": 100,
+      "name": "Voltorb",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/100-h.png"
+    },
+    {
+      "id": 101,
+      "name": "Electrode",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/101-h.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/swordshield/pokemon/157-h.png"
+    },
+    {
+      "id": 211,
+      "name": "Qwilfish",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/211-h.png"
+    },
+    {
+      "id": 215,
+      "name": "Sneasel",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/215-h.png"
+    },
+    {
+      "id": 483,
+      "name": "Dialga",
+      "img": "https://www.serebii.net/swordshield/pokemon/483-o.png"
+    },
+    {
+      "id": 484,
+      "name": "Palkia",
+      "img": "https://www.serebii.net/swordshield/pokemon/484-o.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/503-h.png"
+    },
+    {
+      "id": 549,
+      "name": "Lilligant",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/549-h.png"
+    },
+    {
+      "id": 570,
+      "name": "Zorua",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/570-h.png"
+    },
+    {
+      "id": 571,
+      "name": "Zoroark",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/571-h.png"
+    },
+    {
+      "id": 628,
+      "name": "Braviary",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/628-h.png"
+    },
+    {
+      "id": 705,
+      "name": "Sliggoo",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/705-h.png"
+    },
+    {
+      "id": 706,
+      "name": "Goodra",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/706-h.png"
+    },
+    {
+      "id": 713,
+      "name": "Avalugg",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/713-h.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/724-h.png"
+    },
+    {
+      "id": 899,
+      "name": "Wyrdeer",
+      "img": "https://www.serebii.net/pokemon/art/899.png"
+    },
+    {
+      "id": 900,
+      "name": "Kleavor",
+      "img": "https://www.serebii.net/pokemon/art/900.png"
+    },
+    {
+      "id": 901,
+      "name": "Ursaluna",
+      "img": "https://www.serebii.net/pokemon/art/901.png"
+    },
+    {
+      "id": 902,
+      "name": "Basculegion",
+      "img": "https://www.serebii.net/pokemon/art/902.png"
+    },
+    {
+      "id": 903,
+      "name": "Sneasler",
+      "img": "https://www.serebii.net/pokemon/art/903.png"
+    },
+    {
+      "id": 904,
+      "name": "Overqwil",
+      "img": "https://www.serebii.net/pokemon/art/904.png"
+    },
+    {
+      "id": 905,
+      "name": "Enamorus",
+      "img": "https://www.serebii.net/pokemon/art/905.png"
+    }
+  ]
+}
