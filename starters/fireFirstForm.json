@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 4,
+      "name": "Charmander",
+      "img": "https://www.serebii.net/pokemon/art/004.png"
+    },
+    {
+      "id": 155,
+      "name": "Cyndaquil",
+      "img": "https://www.serebii.net/pokemon/art/155.png"
+    },
+    {
+      "id": 255,
+      "name": "Torchic",
+      "img": "https://www.serebii.net/pokemon/art/255.png"
+    },
+    {
+      "id": 390,
+      "name": "Chimchar",
+      "img": "https://www.serebii.net/pokemon/art/390.png"
+    },
+    {
+      "id": 498,
+      "name": "Tepig",
+      "img": "https://www.serebii.net/pokemon/art/498.png"
+    },
+    {
+      "id": 653,
+      "name": "Fennekin",
+      "img": "https://www.serebii.net/pokemon/art/653.png"
+    },
+    {
+      "id": 725,
+      "name": "Litten",
+      "img": "https://www.serebii.net/pokemon/art/725.png"
+    },
+    {
+      "id": 813,
+      "name": "Scorbunny",
+      "img": "https://www.serebii.net/pokemon/art/813.png"
+    },
+    {
+      "id": 909,
+      "name": "Fuecoco",
+      "img": "https://www.serebii.net/pokemon/art/909.png"
+    }
+  ]
+}
