@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "img": "https://www.serebii.net/pokemon/art/005.png"
+    },
+    {
+      "id": 156,
+      "name": "Quilava",
+      "img": "https://www.serebii.net/pokemon/art/156.png"
+    },
+    {
+      "id": 256,
+      "name": "Combusken",
+      "img": "https://www.serebii.net/pokemon/art/256.png"
+    },
+    {
+      "id": 391,
+      "name": "Monferno",
+      "img": "https://www.serebii.net/pokemon/art/391.png"
+    },
+    {
+      "id": 499,
+      "name": "Pignite",
+      "img": "https://www.serebii.net/pokemon/art/499.png"
+    },
+    {
+      "id": 654,
+      "name": "Braixen",
+      "img": "https://www.serebii.net/pokemon/art/654.png"
+    },
+    {
+      "id": 726,
+      "name": "Torracat",
+      "img": "https://www.serebii.net/pokemon/art/726.png"
+    },
+    {
+      "id": 814,
+      "name": "Raboot",
+      "img": "https://www.serebii.net/pokemon/art/814.png"
+    },
+    {
+      "id": 910,
+      "name": "Crocalor",
+      "img": "https://www.serebii.net/pokemon/art/910.png"
+    }
+  ]
+}
