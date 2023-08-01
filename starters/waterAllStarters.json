@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "img": "https://www.serebii.net/pokemon/art/007.png"
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "img": "https://www.serebii.net/pokemon/art/008.png"
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "img": "https://www.serebii.net/pokemon/art/009.png"
+    },
+    {
+      "id": 158,
+      "name": "Totodile",
+      "img": "https://www.serebii.net/pokemon/art/158.png"
+    },
+    {
+      "id": 159,
+      "name": "Croconaw",
+      "img": "https://www.serebii.net/pokemon/art/159.png"
+    },
+    {
+      "id": 160,
+      "name": "Feraligatr",
+      "img": "https://www.serebii.net/pokemon/art/160.png"
+    },
+    {
+      "id": 258,
+      "name": "Mudkip",
+      "img": "https://www.serebii.net/pokemon/art/258.png"
+    },
+    {
+      "id": 259,
+      "name": "Marshtomp",
+      "img": "https://www.serebii.net/pokemon/art/259.png"
+    },
+    {
+      "id": 260,
+      "name": "Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260.png"
+    },
+    {
+      "id": 393,
+      "name": "Piplup",
+      "img": "https://www.serebii.net/pokemon/art/393.png"
+    },
+    {
+      "id": 394,
+      "name": "Prinplup",
+      "img": "https://www.serebii.net/pokemon/art/394.png"
+    },
+    {
+      "id": 395,
+      "name": "Empoleon",
+      "img": "https://www.serebii.net/pokemon/art/395.png"
+    },
+    {
+      "id": 501,
+      "name": "Oshawott",
+      "img": "https://www.serebii.net/pokemon/art/501.png"
+    },
+    {
+      "id": 502,
+      "name": "Dewott",
+      "img": "https://www.serebii.net/pokemon/art/502.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/pokemon/art/503.png"
+    },
+    {
+      "id": 656,
+      "name": "Froakie",
+      "img": "https://www.serebii.net/pokemon/art/656.png"
+    },
+    {
+      "id": 657,
+      "name": "Frogadier",
+      "img": "https://www.serebii.net/pokemon/art/657.png"
+    },
+    {
+      "id": 658,
+      "name": "Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658.png"
+    },
+    {
+      "id": 728,
+      "name": "Popplio",
+      "img": "https://www.serebii.net/pokemon/art/728.png"
+    },
+    {
+      "id": 729,
+      "name": "Brionne",
+      "img": "https://www.serebii.net/pokemon/art/729.png"
+    },
+    {
+      "id": 730,
+      "name": "Primarina",
+      "img": "https://www.serebii.net/pokemon/art/730.png"
+    },
+    {
+      "id": 816,
+      "name": "Sobble",
+      "img": "https://www.serebii.net/pokemon/art/816.png"
+    },
+    {
+      "id": 817,
+      "name": "Drizzile",
+      "img": "https://www.serebii.net/pokemon/art/817.png"
+    },
+    {
+      "id": 818,
+      "name": "Inteleon",
+      "img": "https://www.serebii.net/pokemon/art/818.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/503-h.png"
+    },
+    {
+      "id": 912,
+      "name": "Quaxly",
+      "img": "https://www.serebii.net/pokemon/art/912.png"
+    },
+    {
+      "id": 913,
+      "name": "Quaxwell",
+      "img": "https://www.serebii.net/pokemon/art/913.png"
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "img": "https://www.serebii.net/pokemon/art/914.png"
+    }
+  ]
+}
