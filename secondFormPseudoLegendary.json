@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 148,
+      "name": "Dragonair",
+      "img": "https://www.serebii.net/pokemon/art/148.png"
+    },
+    {
+      "id": 247,
+      "name": "Pupitar",
+      "img": "https://www.serebii.net/pokemon/art/247.png"
+    },
+    {
+      "id": 372,
+      "name": "Shelgon",
+      "img": "https://www.serebii.net/pokemon/art/372.png"
+    },
+    {
+      "id": 375,
+      "name": "Metang",
+      "img": "https://www.serebii.net/pokemon/art/375.png"
+    },
+    {
+      "id": 444,
+      "name": "Gabite",
+      "img": "https://www.serebii.net/pokemon/art/444.png"
+    },
+    {
+      "id": 634,
+      "name": "Zweilous",
+      "img": "https://www.serebii.net/pokemon/art/634.png"
+    },
+    {
+      "id": 705,
+      "name": "Sliggoo",
+      "img": "https://www.serebii.net/pokemon/art/705.png"
+    },
+    {
+      "id": 783,
+      "name": "Hakamo-o",
+      "img": "https://www.serebii.net/pokemon/art/783.png"
+    },
+    {
+      "id": 886,
+      "name": "Drakloak",
+      "img": "https://www.serebii.net/pokemon/art/886.png"
+    },
+    {
+      "id": 705,
+      "name": "Sliggoo",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/705-h.png"
+    },
+    {
+      "id": 997,
+      "name": "Arctibax",
+      "img": "https://www.serebii.net/pokemon/art/997.png"
+    }
+  ]
+}
