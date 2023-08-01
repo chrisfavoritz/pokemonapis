@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "img": "https://www.serebii.net/pokemon/art/001.png"
+    },
+    {
+      "id": 152,
+      "name": "Chikorita",
+      "img": "https://www.serebii.net/pokemon/art/152.png"
+    },
+    {
+      "id": 252,
+      "name": "Treecko",
+      "img": "https://www.serebii.net/pokemon/art/252.png"
+    },
+    {
+      "id": 387,
+      "name": "Turtwig",
+      "img": "https://www.serebii.net/pokemon/art/387.png"
+    },
+    {
+      "id": 495,
+      "name": "Snivy",
+      "img": "https://www.serebii.net/pokemon/art/495.png"
+    },
+    {
+      "id": 650,
+      "name": "Chespin",
+      "img": "https://www.serebii.net/pokemon/art/650.png"
+    },
+    {
+      "id": 722,
+      "name": "Rowlet",
+      "img": "https://www.serebii.net/pokemon/art/722.png"
+    },
+    {
+      "id": 810,
+      "name": "Grookey",
+      "img": "https://www.serebii.net/pokemon/art/810.png"
+    },
+    {
+      "id": 906,
+      "name": "Sprigatito",
+      "img": "https://www.serebii.net/pokemon/art/906.png"
+    }
+  ]
+}
