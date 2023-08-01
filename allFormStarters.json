@@ -371,6 +371,21 @@
       "img": "https://www.serebii.net/pokemon/art/818.png"
     },
     {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/swordshield/pokemon/157-h.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/503-h.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/724-h.png"
+    },
+    {
       "id": 906,
       "name": "Sprigatito",
       "img": "https://www.serebii.net/pokemon/art/906.png"
