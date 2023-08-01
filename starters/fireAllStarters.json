@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": 4,
+      "name": "Charmander",
+      "img": "https://www.serebii.net/pokemon/art/004.png"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "img": "https://www.serebii.net/pokemon/art/005.png"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "img": "https://www.serebii.net/pokemon/art/006.png"
+    },
+    {
+      "id": 155,
+      "name": "Cyndaquil",
+      "img": "https://www.serebii.net/pokemon/art/155.png"
+    },
+    {
+      "id": 156,
+      "name": "Quilava",
+      "img": "https://www.serebii.net/pokemon/art/156.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/pokemon/art/157.png"
+    },
+    {
+      "id": 255,
+      "name": "Torchic",
+      "img": "https://www.serebii.net/pokemon/art/255.png"
+    },
+    {
+      "id": 256,
+      "name": "Combusken",
+      "img": "https://www.serebii.net/pokemon/art/256.png"
+    },
+    {
+      "id": 257,
+      "name": "Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257.png"
+    },
+    {
+      "id": 390,
+      "name": "Chimchar",
+      "img": "https://www.serebii.net/pokemon/art/390.png"
+    },
+    {
+      "id": 391,
+      "name": "Monferno",
+      "img": "https://www.serebii.net/pokemon/art/391.png"
+    },
+    {
+      "id": 392,
+      "name": "Infernape",
+      "img": "https://www.serebii.net/pokemon/art/392.png"
+    },
+    {
+      "id": 498,
+      "name": "Tepig",
+      "img": "https://www.serebii.net/pokemon/art/498.png"
+    },
+    {
+      "id": 499,
+      "name": "Pignite",
+      "img": "https://www.serebii.net/pokemon/art/499.png"
+    },
+    {
+      "id": 500,
+      "name": "Emboar",
+      "img": "https://www.serebii.net/pokemon/art/500.png"
+    },
+    {
+      "id": 653,
+      "name": "Fennekin",
+      "img": "https://www.serebii.net/pokemon/art/653.png"
+    },
+    {
+      "id": 654,
+      "name": "Braixen",
+      "img": "https://www.serebii.net/pokemon/art/654.png"
+    },
+    {
+      "id": 655,
+      "name": "Delphox",
+      "img": "https://www.serebii.net/pokemon/art/655.png"
+    },
+    {
+      "id": 725,
+      "name": "Litten",
+      "img": "https://www.serebii.net/pokemon/art/725.png"
+    },
+    {
+      "id": 726,
+      "name": "Torracat",
+      "img": "https://www.serebii.net/pokemon/art/726.png"
+    },
+    {
+      "id": 727,
+      "name": "Incineroar",
+      "img": "https://www.serebii.net/pokemon/art/727.png"
+    },
+    {
+      "id": 813,
+      "name": "Scorbunny",
+      "img": "https://www.serebii.net/pokemon/art/813.png"
+    },
+    {
+      "id": 814,
+      "name": "Raboot",
+      "img": "https://www.serebii.net/pokemon/art/814.png"
+    },
+    {
+      "id": 815,
+      "name": "Cinderace",
+      "img": "https://www.serebii.net/pokemon/art/815.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/swordshield/pokemon/157-h.png"
+    },
+    {
+      "id": 909,
+      "name": "Fuecoco",
+      "img": "https://www.serebii.net/pokemon/art/909.png"
+    },
+    {
+      "id": 910,
+      "name": "Crocalor",
+      "img": "https://www.serebii.net/pokemon/art/910.png"
+    },
+    {
+      "id": 911,
+      "name": "Skeledirge",
+      "img": "https://www.serebii.net/pokemon/art/911.png"
+    }
+  ]
+}
