@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": 138,
+      "name": "Omanyte",
+      "img": "https://www.serebii.net/pokemon/art/138.png"
+    },
+    {
+      "id": 139,
+      "name": "Omastar",
+      "img": "https://www.serebii.net/pokemon/art/139.png"
+    },
+    {
+      "id": 140,
+      "name": "Kabuto",
+      "img": "https://www.serebii.net/pokemon/art/140.png"
+    },
+    {
+      "id": 141,
+      "name": "Kabutops",
+      "img": "https://www.serebii.net/pokemon/art/141.png"
+    },
+    {
+      "id": 142,
+      "name": "Aerodactyl",
+      "img": "https://www.serebii.net/pokemon/art/142.png"
+    },
+    {
+      "id": 345,
+      "name": "Lileep",
+      "img": "https://www.serebii.net/pokemon/art/345.png"
+    },
+    {
+      "id": 346,
+      "name": "Cradily",
+      "img": "https://www.serebii.net/pokemon/art/346.png"
+    },
+    {
+      "id": 347,
+      "name": "Anorith",
+      "img": "https://www.serebii.net/pokemon/art/347.png"
+    },
+    {
+      "id": 348,
+      "name": "Armaldo",
+      "img": "https://www.serebii.net/pokemon/art/348.png"
+    },
+    {
+      "id": 408,
+      "name": "Cranidos",
+      "img": "https://www.serebii.net/pokemon/art/408.png"
+    },
+    {
+      "id": 409,
+      "name": "Rampardos",
+      "img": "https://www.serebii.net/pokemon/art/409.png"
+    },
+    {
+      "id": 410,
+      "name": "Shieldon",
+      "img": "https://www.serebii.net/pokemon/art/410.png"
+    },
+    {
+      "id": 411,
+      "name": "Bastiodon",
+      "img": "https://www.serebii.net/pokemon/art/411.png"
+    },
+    {
+      "id": 564,
+      "name": "Tirtouga",
+      "img": "https://www.serebii.net/pokemon/art/564.png"
+    },
+    {
+      "id": 565,
+      "name": "Carracosta",
+      "img": "https://www.serebii.net/pokemon/art/565.png"
+    },
+    {
+      "id": 566,
+      "name": "Archen",
+      "img": "https://www.serebii.net/pokemon/art/566.png"
+    },
+    {
+      "id": 567,
+      "name": "Archeops",
+      "img": "https://www.serebii.net/pokemon/art/567.png"
+    },
+    {
+      "id": 696,
+      "name": "Tyrunt",
+      "img": "https://www.serebii.net/pokemon/art/696.png"
+    },
+    {
+      "id": 697,
+      "name": "Tyrantrum",
+      "img": "https://www.serebii.net/pokemon/art/697.png"
+    },
+    {
+      "id": 698,
+      "name": "Amaura",
+      "img": "https://www.serebii.net/pokemon/art/698.png"
+    },
+    {
+      "id": 699,
+      "name": "Aurorus",
+      "img": "https://www.serebii.net/pokemon/art/699.png"
+    },
+    {
+      "id": 880,
+      "name": "Dracozolt",
+      "img": "https://www.serebii.net/pokemon/art/880.png"
+    },
+    {
+      "id": 881,
+      "name": "Arctozolt",
+      "img": "https://www.serebii.net/pokemon/art/881.png"
+    },
+    {
+      "id": 882,
+      "name": "Dracovish",
+      "img": "https://www.serebii.net/pokemon/art/882.png"
+    },
+    {
+      "id": 883,
+      "name": "Arctovish",
+      "img": "https://www.serebii.net/pokemon/art/883.png"
+    }
+  ]
+}
