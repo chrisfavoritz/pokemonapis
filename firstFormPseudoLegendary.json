@@ -6,19 +6,9 @@
       "img": "https://www.serebii.net/pokemon/art/147.png"
     },
     {
-      "id": 148,
-      "name": "Dragonair",
-      "img": "https://www.serebii.net/pokemon/art/148.png"
-    },
-    {
       "id": 246,
       "name": "Larvitar",
       "img": "https://www.serebii.net/pokemon/art/246.png"
-    },
-    {
-      "id": 247,
-      "name": "Pupitar",
-      "img": "https://www.serebii.net/pokemon/art/247.png"
     },
     {
       "id": 371,
@@ -26,19 +16,9 @@
       "img": "https://www.serebii.net/pokemon/art/371.png"
     },
     {
-      "id": 372,
-      "name": "Shelgon",
-      "img": "https://www.serebii.net/pokemon/art/372.png"
-    },
-    {
       "id": 374,
       "name": "Beldum",
       "img": "https://www.serebii.net/pokemon/art/374.png"
-    },
-    {
-      "id": 375,
-      "name": "Metang",
-      "img": "https://www.serebii.net/pokemon/art/375.png"
     },
     {
       "id": 443,
@@ -46,19 +26,9 @@
       "img": "https://www.serebii.net/pokemon/art/443.png"
     },
     {
-      "id": 444,
-      "name": "Gabite",
-      "img": "https://www.serebii.net/pokemon/art/444.png"
-    },
-    {
       "id": 633,
       "name": "Deino",
       "img": "https://www.serebii.net/pokemon/art/633.png"
-    },
-    {
-      "id": 634,
-      "name": "Zweilous",
-      "img": "https://www.serebii.net/pokemon/art/634.png"
     },
     {
       "id": 704,
@@ -66,19 +36,9 @@
       "img": "https://www.serebii.net/pokemon/art/704.png"
     },
     {
-      "id": 705,
-      "name": "Sliggoo",
-      "img": "https://www.serebii.net/pokemon/art/705.png"
-    },
-    {
       "id": 782,
       "name": "Jangmo-o",
       "img": "https://www.serebii.net/pokemon/art/782.png"
-    },
-    {
-      "id": 783,
-      "name": "Hakamo-o",
-      "img": "https://www.serebii.net/pokemon/art/783.png"
     },
     {
       "id": 885,
@@ -86,24 +46,9 @@
       "img": "https://www.serebii.net/pokemon/art/885.png"
     },
     {
-      "id": 886,
-      "name": "Drakloak",
-      "img": "https://www.serebii.net/pokemon/art/886.png"
-    },
-    {
-      "id": 705,
-      "name": "Sliggoo",
-      "img": "https://www.serebii.net/legendsarceus/pokemon/705-h.png"
-    },
-    {
       "id": 996,
       "name": "Frigibax",
       "img": "https://www.serebii.net/pokemon/art/996.png"
-    },
-    {
-      "id": 997,
-      "name": "Arctibax",
-      "img": "https://www.serebii.net/pokemon/art/997.png"
     }
   ]
 }
