@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "img": "https://www.serebii.net/pokemon/art/008.png"
+    },
+    {
+      "id": 159,
+      "name": "Croconaw",
+      "img": "https://www.serebii.net/pokemon/art/159.png"
+    },
+    {
+      "id": 259,
+      "name": "Marshtomp",
+      "img": "https://www.serebii.net/pokemon/art/259.png"
+    },
+    {
+      "id": 394,
+      "name": "Prinplup",
+      "img": "https://www.serebii.net/pokemon/art/394.png"
+    },
+    {
+      "id": 502,
+      "name": "Dewott",
+      "img": "https://www.serebii.net/pokemon/art/502.png"
+    },
+    {
+      "id": 657,
+      "name": "Frogadier",
+      "img": "https://www.serebii.net/pokemon/art/657.png"
+    },
+    {
+      "id": 729,
+      "name": "Brionne",
+      "img": "https://www.serebii.net/pokemon/art/729.png"
+    },
+    {
+      "id": 817,
+      "name": "Drizzile",
+      "img": "https://www.serebii.net/pokemon/art/817.png"
+    },
+    {
+      "id": 913,
+      "name": "Quaxwell",
+      "img": "https://www.serebii.net/pokemon/art/913.png"
+    }
+  ]
+}
