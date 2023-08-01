@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "img": "https://www.serebii.net/pokemon/art/003.png"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "img": "https://www.serebii.net/pokemon/art/006.png"
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "img": "https://www.serebii.net/pokemon/art/009.png"
+    },
+    {
+      "id": 154,
+      "name": "Meganium",
+      "img": "https://www.serebii.net/pokemon/art/154.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/pokemon/art/157.png"
+    },
+    {
+      "id": 160,
+      "name": "Feraligatr",
+      "img": "https://www.serebii.net/pokemon/art/160.png"
+    },
+    {
+      "id": 254,
+      "name": "Sceptile",
+      "img": "https://www.serebii.net/pokemon/art/254.png"
+    },
+    {
+      "id": 257,
+      "name": "Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257.png"
+    },
+    {
+      "id": 260,
+      "name": "Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260.png"
+    },
+    {
+      "id": 389,
+      "name": "Torterra",
+      "img": "https://www.serebii.net/pokemon/art/389.png"
+    },
+    {
+      "id": 392,
+      "name": "Infernape",
+      "img": "https://www.serebii.net/pokemon/art/392.png"
+    },
+    {
+      "id": 395,
+      "name": "Empoleon",
+      "img": "https://www.serebii.net/pokemon/art/395.png"
+    },
+    {
+      "id": 497,
+      "name": "Serperior",
+      "img": "https://www.serebii.net/pokemon/art/497.png"
+    },
+    {
+      "id": 500,
+      "name": "Emboar",
+      "img": "https://www.serebii.net/pokemon/art/500.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/pokemon/art/503.png"
+    },
+    {
+      "id": 652,
+      "name": "Chesnaught",
+      "img": "https://www.serebii.net/pokemon/art/652.png"
+    },
+    {
+      "id": 655,
+      "name": "Delphox",
+      "img": "https://www.serebii.net/pokemon/art/655.png"
+    },
+    {
+      "id": 658,
+      "name": "Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/pokemon/art/724.png"
+    },
+    {
+      "id": 727,
+      "name": "Incineroar",
+      "img": "https://www.serebii.net/pokemon/art/727.png"
+    },
+    {
+      "id": 730,
+      "name": "Primarina",
+      "img": "https://www.serebii.net/pokemon/art/730.png"
+    },
+    {
+      "id": 812,
+      "name": "Rillaboom",
+      "img": "https://www.serebii.net/pokemon/art/812.png"
+    },
+    {
+      "id": 815,
+      "name": "Cinderace",
+      "img": "https://www.serebii.net/pokemon/art/815.png"
+    },
+    {
+      "id": 818,
+      "name": "Inteleon",
+      "img": "https://www.serebii.net/pokemon/art/818.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/swordshield/pokemon/157-h.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/503-h.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/724-h.png"
+    },
+    {
+      "id": 908,
+      "name": "Meowscarada",
+      "img": "https://www.serebii.net/pokemon/art/908.png"
+    },
+    {
+      "id": 911,
+      "name": "Skeledirge",
+      "img": "https://www.serebii.net/pokemon/art/911.png"
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "img": "https://www.serebii.net/pokemon/art/914.png"
+    }
+  ]
+}
