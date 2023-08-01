@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "img": "https://www.serebii.net/pokemon/art/003.png"
+    },
+    {
+      "id": 154,
+      "name": "Meganium",
+      "img": "https://www.serebii.net/pokemon/art/154.png"
+    },
+    {
+      "id": 254,
+      "name": "Sceptile",
+      "img": "https://www.serebii.net/pokemon/art/254.png"
+    },
+    {
+      "id": 389,
+      "name": "Torterra",
+      "img": "https://www.serebii.net/pokemon/art/389.png"
+    },
+    {
+      "id": 497,
+      "name": "Serperior",
+      "img": "https://www.serebii.net/pokemon/art/497.png"
+    },
+    {
+      "id": 652,
+      "name": "Chesnaught",
+      "img": "https://www.serebii.net/pokemon/art/652.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/pokemon/art/724.png"
+    },
+    {
+      "id": 812,
+      "name": "Rillaboom",
+      "img": "https://www.serebii.net/pokemon/art/812.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/724-h.png"
+    },
+    {
+      "id": 908,
+      "name": "Meowscarada",
+      "img": "https://www.serebii.net/pokemon/art/908.png"
+    }
+  ]
+}
