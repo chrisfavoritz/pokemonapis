@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "img": "https://www.serebii.net/pokemon/art/009.png"
+    },
+    {
+      "id": 160,
+      "name": "Feraligatr",
+      "img": "https://www.serebii.net/pokemon/art/160.png"
+    },
+    {
+      "id": 260,
+      "name": "Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260.png"
+    },
+    {
+      "id": 395,
+      "name": "Empoleon",
+      "img": "https://www.serebii.net/pokemon/art/395.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/pokemon/art/503.png"
+    },
+    {
+      "id": 658,
+      "name": "Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658.png"
+    },
+    {
+      "id": 730,
+      "name": "Primarina",
+      "img": "https://www.serebii.net/pokemon/art/730.png"
+    },
+    {
+      "id": 818,
+      "name": "Inteleon",
+      "img": "https://www.serebii.net/pokemon/art/818.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/legendsarceus/pokemon/503-h.png"
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "img": "https://www.serebii.net/pokemon/art/914.png"
+    }
+  ]
+}
