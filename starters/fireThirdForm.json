@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 6,
+      "name": "Charizard",
+      "img": "https://www.serebii.net/pokemon/art/006.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/pokemon/art/157.png"
+    },
+    {
+      "id": 257,
+      "name": "Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257.png"
+    },
+    {
+      "id": 392,
+      "name": "Infernape",
+      "img": "https://www.serebii.net/pokemon/art/392.png"
+    },
+    {
+      "id": 500,
+      "name": "Emboar",
+      "img": "https://www.serebii.net/pokemon/art/500.png"
+    },
+    {
+      "id": 655,
+      "name": "Delphox",
+      "img": "https://www.serebii.net/pokemon/art/655.png"
+    },
+    {
+      "id": 727,
+      "name": "Incineroar",
+      "img": "https://www.serebii.net/pokemon/art/727.png"
+    },
+    {
+      "id": 815,
+      "name": "Cinderace",
+      "img": "https://www.serebii.net/pokemon/art/815.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/swordshield/pokemon/157-h.png"
+    },
+    {
+      "id": 911,
+      "name": "Skeledirge",
+      "img": "https://www.serebii.net/pokemon/art/911.png"
+    }
+  ]
+}
