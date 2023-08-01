@@ -1,0 +1,169 @@
+{
+  "items": [
+     {
+      "id": "003-gi",
+      "name": "Gigantamax Venusaur",
+      "img": "https://www.serebii.net/swordshield/pokemon/003-gi.png"
+    },
+     {
+      "id": "006-gi",
+      "name": "Gigantamax Charizard",
+      "img": "https://www.serebii.net/swordshield/pokemon/006-gi.png"
+    },
+    {
+      "id": "009-gi",
+      "name": "Gigantamax Blastoise",
+      "img": "https://www.serebii.net/swordshield/pokemon/009-gi.png"
+    },
+    {
+      "id": "012-gi",
+      "name": "Gigantamax Butterfree",
+      "img": "https://www.serebii.net/swordshield/pokemon/012-gi.png"
+    },
+    {
+      "id": "025-gi",
+      "name": "Gigantamax Pikachu",
+      "img": "https://www.serebii.net/swordshield/pokemon/025-gi.png"
+    },
+    {
+      "id": "026-gi",
+      "name": "Gigantamax Meowth",
+      "img": "https://www.serebii.net/swordshield/pokemon/052-gi.png"
+    },
+    {
+      "id": "068-gi",
+      "name": "Gigantamax Machamp",
+      "img": "https://www.serebii.net/swordshield/pokemon/068-gi.png"
+    },
+    {
+      "id": "094-gi",
+      "name": "Gigantamax Gengar",
+      "img": "https://www.serebii.net/swordshield/pokemon/094-gi.png"
+    },
+    {
+      "id": "122-gi",
+      "name": "Gigantamax Kingler",
+      "img": "https://www.serebii.net/swordshield/pokemon/099-gi.png"
+    },
+    {
+      "id": "131-gi",
+      "name": "Gigantamax Lapras",
+      "img": "https://www.serebii.net/swordshield/pokemon/131-gi.png"
+    },
+    {
+      "id": "133-gi",
+      "name": "Gigantamax Eevee",
+      "img": "https://www.serebii.net/swordshield/pokemon/133-gi.png"
+    },
+    {
+      "id": "143-gi",
+      "name": "Gigantamax Snorlax",
+      "img": "https://www.serebii.net/swordshield/pokemon/143-gi.png"
+    },
+    {
+      "id": "181-gi",
+      "name": "Gigantamax Garbodor",
+      "img": "https://www.serebii.net/swordshield/pokemon/569-gi.png"
+    },
+    {
+      "id": "206-gi",
+      "name": "Gigantamax Melmetal",
+      "img": "https://www.serebii.net/swordshield/pokemon/809-gi.png"
+    },
+     {
+      "id": "206-gi",
+      "name": "Gigantamax Rillaboom",
+      "img": "https://www.serebii.net/swordshield/pokemon/812-gi.png"
+    },
+     {
+      "id": "206-gi",
+      "name": "Gigantamax Cinderace",
+      "img": "https://www.serebii.net/swordshield/pokemon/815-gi.png"
+    },
+     {
+      "id": "206-gi",
+      "name": "Gigantamax Inteleon",
+      "img": "https://www.serebii.net/swordshield/pokemon/818-gi.png"
+    },
+    {
+      "id": "562-gi",
+      "name": "Gigantamax Corviknight",
+      "img": "https://www.serebii.net/swordshield/pokemon/823-gi.png"
+    },
+    {
+      "id": "569-gi",
+      "name": "Gigantamax Orbeetle",
+      "img": "https://www.serebii.net/swordshield/pokemon/826-gi.png"
+    },
+    {
+      "id": "585-gi",
+      "name": "Gigantamax Drednaw",
+      "img": "https://www.serebii.net/swordshield/pokemon/834-gi.png"
+    },
+    {
+      "id": "589-gi",
+      "name": "Gigantamax Coalossal",
+      "img": "https://www.serebii.net/swordshield/pokemon/839-gi.png"
+    },
+    {
+      "id": "591-gi",
+      "name": "Gigantamax Flapple",
+      "img": "https://www.serebii.net/swordshield/pokemon/841-gi.png"
+    },
+    {
+      "id": "592-gi",
+      "name": "Gigantamax Appletun",
+      "img": "https://www.serebii.net/swordshield/pokemon/842-gi.png"
+    },
+    {
+      "id": "595-gi",
+      "name": "Gigantamax Sandaconda",
+      "img": "https://www.serebii.net/swordshield/pokemon/844-gi.png"
+    },
+    {
+      "id": "598-gi",
+      "name": "Gigantamax Toxtricity",
+      "img": "https://www.serebii.net/swordshield/pokemon/849-gi.png"
+    },
+    {
+      "id": "612-gi",
+      "name": "Gigantamax Centiskorch",
+      "img": "https://www.serebii.net/swordshield/pokemon/851-gi.png"
+    },
+    {
+      "id": "616-gi",
+      "name": "Gigantamax Hatterene",
+      "img": "https://www.serebii.net/swordshield/pokemon/858-gi.png"
+    },
+    {
+      "id": "619-gi",
+      "name": "Gigantamax Grimmsnarl",
+      "img": "https://www.serebii.net/swordshield/pokemon/861-gi.png"
+    },
+    {
+      "id": "631-gi",
+      "name": "Gigantamax Alcremie",
+      "img": "https://www.serebii.net/swordshield/pokemon/869-gi.png"
+    },
+    {
+      "id": "665-gi",
+      "name": "Gigantamax Copperajah",
+      "img": "https://www.serebii.net/swordshield/pokemon/879-gi.png"
+    },
+    {
+      "id": "697-gi",
+      "name": "Gigantamax Duraludon",
+      "img": "https://www.serebii.net/swordshield/pokemon/884-gi.png"
+    },
+    {
+      "id": "697-gi",
+      "name": "Gigantamax Urshifu Single Strike Style",
+      "img": "https://www.serebii.net/swordshield/pokemon/892-gi.png"
+    },
+    {
+      "id": "697-gi",
+      "name": "Gigantamax Urshifu Rapid Strike Style",
+      "img": "https://www.serebii.net/swordshield/pokemon/892-rgi.png"
+    },
+  ]
+}
