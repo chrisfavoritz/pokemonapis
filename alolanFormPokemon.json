@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": "19-a",
+      "name": "Alolan Rattata",
+      "img": "https://www.serebii.net/art/th/19-a.png"
+    },
+    {
+      "id": "20-a",
+      "name": "Alolan Raticate",
+      "img": "https://www.serebii.net/art/th/20-a.png"
+    },
+    {
+      "id": "26-a",
+      "name": "Alolan Raichu",
+      "img": "https://www.serebii.net/art/th/26-a.png"
+    },
+    {
+      "id": "27-a",
+      "name": "Alolan Sandshrew",
+      "img": "https://www.serebii.net/art/th/27-a.png"
+    },
+    {
+      "id": "28-a",
+      "name": "Alolan Sandslash",
+      "img": "https://www.serebii.net/art/th/28-a.png"
+    },
+    {
+      "id": "37-a",
+      "name": "Alolan Vulpix",
+      "img": "https://www.serebii.net/art/th/37-a.png"
+    },
+    {
+      "id": "38-a",
+      "name": "Alolan Ninetales",
+      "img": "https://www.serebii.net/art/th/38-a.png"
+    },
+    {
+      "id": "50-a",
+      "name": "Alolan Diglett",
+      "img": "https://www.serebii.net/art/th/50-a.png"
+    },
+    {
+      "id": "51-a",
+      "name": "Alolan Dugtrio",
+      "img": "https://www.serebii.net/art/th/51-a.png"
+    },
+    {
+      "id": "52-a",
+      "name": "Alolan Meowth",
+      "img": "https://www.serebii.net/art/th/52-a.png"
+    },
+    {
+      "id": "53-a",
+      "name": "Alolan Persian",
+      "img": "https://www.serebii.net/art/th/53-a.png"
+    },
+    {
+      "id": "74-a",
+      "name": "Alolan Geodude",
+      "img": "https://www.serebii.net/art/th/74-a.png"
+    },
+    {
+      "id": "75-a",
+      "name": "Alolan Graveler",
+      "img": "https://www.serebii.net/art/th/75-a.png"
+    },
+    {
+      "id": "76-a",
+      "name": "Alolan Golem",
+      "img": "https://www.serebii.net/art/th/76-a.png"
+    },
+    {
+      "id": "88-a",
+      "name": "Alolan Grimer",
+      "img": "https://www.serebii.net/art/th/88-a.png"
+    },
+    {
+      "id": "89-a",
+      "name": "Alolan Muk",
+      "img": "https://www.serebii.net/art/th/89-a.png"
+    },
+    {
+      "id": "103-a",
+      "name": "Alolan Exeggutor",
+      "img": "https://www.serebii.net/art/th/103-a.png"
+    },
+    {
+      "id": "105-a",
+      "name": "Alolan Marowak",
+      "img": "https://www.serebii.net/art/th/105-a.png"
+    }
+  ]
+}
