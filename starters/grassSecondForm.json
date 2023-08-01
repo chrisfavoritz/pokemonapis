@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "img": "https://www.serebii.net/pokemon/art/002.png"
+    },
+    {
+      "id": 153,
+      "name": "Bayleef",
+      "img": "https://www.serebii.net/pokemon/art/153.png"
+    },
+    {
+      "id": 253,
+      "name": "Grovyle",
+      "img": "https://www.serebii.net/pokemon/art/253.png"
+    },
+    {
+      "id": 388,
+      "name": "Grotle",
+      "img": "https://www.serebii.net/pokemon/art/388.png"
+    },
+    {
+      "id": 496,
+      "name": "Servine",
+      "img": "https://www.serebii.net/pokemon/art/496.png"
+    },
+    {
+      "id": 651,
+      "name": "Quilladin",
+      "img": "https://www.serebii.net/pokemon/art/651.png"
+    },
+    {
+      "id": 723,
+      "name": "Dartrix",
+      "img": "https://www.serebii.net/pokemon/art/723.png"
+    },
+    {
+      "id": 811,
+      "name": "Thwackey",
+      "img": "https://www.serebii.net/pokemon/art/811.png"
+    },
+    {
+      "id": 907,
+      "name": "Floragato",
+      "img": "https://www.serebii.net/pokemon/art/907.png"
+    }
+  ]
+}
