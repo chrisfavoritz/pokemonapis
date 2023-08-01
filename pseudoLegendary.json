@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 149,
+      "name": "Dragonite",
+      "img": "https://www.serebii.net/pokemon/art/149.png"
+    },
+    {
+      "id": 248,
+      "name": "Tyranitar",
+      "img": "https://www.serebii.net/pokemon/art/248.png"
+    },
+    {
+      "id": 373,
+      "name": "Salamence",
+      "img": "https://www.serebii.net/pokemon/art/373.png"
+    },
+    {
+      "id": 376,
+      "name": "Metagross",
+      "img": "https://www.serebii.net/pokemon/art/376.png"
+    },
+    {
+      "id": 445,
+      "name": "Garchomp",
+      "img": "https://www.serebii.net/pokemon/art/445.png"
+    },
+    {
+      "id": 635,
+      "name": "Hydreigon",
+      "img": "https://www.serebii.net/pokemon/art/635.png"
+    },
+    {
+      "id": 706,
+      "name": "Goodra",
+      "img": "https://www.serebii.net/pokemon/art/706.png"
+    },
+    {
+      "id": 784,
+      "name": "Kommo-o",
+      "img": "https://www.serebii.net/pokemon/art/784.png"
+    },
+    {
+      "id": 887,
+      "name": "Dragapult",
+      "img": "https://www.serebii.net/pokemon/art/887.png"
+    },
+    {
+      "id": 998,
+      "name": "Baxcalibur",
+      "img": "https://www.serebii.net/pokemon/art/998.png"
+    }
+  ]
+}
