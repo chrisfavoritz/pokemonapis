@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "img": "https://www.serebii.net/pokemon/art/002.png"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "img": "https://www.serebii.net/pokemon/art/005.png"
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "img": "https://www.serebii.net/pokemon/art/008.png"
+    },
+    {
+      "id": 153,
+      "name": "Bayleef",
+      "img": "https://www.serebii.net/pokemon/art/153.png"
+    },
+    {
+      "id": 156,
+      "name": "Quilava",
+      "img": "https://www.serebii.net/pokemon/art/156.png"
+    },
+    {
+      "id": 159,
+      "name": "Croconaw",
+      "img": "https://www.serebii.net/pokemon/art/159.png"
+    },
+    {
+      "id": 253,
+      "name": "Grovyle",
+      "img": "https://www.serebii.net/pokemon/art/253.png"
+    },
+    {
+      "id": 256,
+      "name": "Combusken",
+      "img": "https://www.serebii.net/pokemon/art/256.png"
+    },
+    {
+      "id": 259,
+      "name": "Marshtomp",
+      "img": "https://www.serebii.net/pokemon/art/259.png"
+    },
+    {
+      "id": 388,
+      "name": "Grotle",
+      "img": "https://www.serebii.net/pokemon/art/388.png"
+    },
+    {
+      "id": 391,
+      "name": "Monferno",
+      "img": "https://www.serebii.net/pokemon/art/391.png"
+    },
+    {
+      "id": 394,
+      "name": "Prinplup",
+      "img": "https://www.serebii.net/pokemon/art/394.png"
+    },
+    {
+      "id": 496,
+      "name": "Servine",
+      "img": "https://www.serebii.net/pokemon/art/496.png"
+    },
+    {
+      "id": 499,
+      "name": "Pignite",
+      "img": "https://www.serebii.net/pokemon/art/499.png"
+    },
+    {
+      "id": 502,
+      "name": "Dewott",
+      "img": "https://www.serebii.net/pokemon/art/502.png"
+    },
+    {
+      "id": 651,
+      "name": "Quilladin",
+      "img": "https://www.serebii.net/pokemon/art/651.png"
+    },
+    {
+      "id": 654,
+      "name": "Braixen",
+      "img": "https://www.serebii.net/pokemon/art/654.png"
+    },
+    {
+      "id": 657,
+      "name": "Frogadier",
+      "img": "https://www.serebii.net/pokemon/art/657.png"
+    },
+    {
+      "id": 723,
+      "name": "Dartrix",
+      "img": "https://www.serebii.net/pokemon/art/723.png"
+    },
+    {
+      "id": 726,
+      "name": "Torracat",
+      "img": "https://www.serebii.net/pokemon/art/726.png"
+    },
+    {
+      "id": 729,
+      "name": "Brionne",
+      "img": "https://www.serebii.net/pokemon/art/729.png"
+    },
+    {
+      "id": 811,
+      "name": "Thwackey",
+      "img": "https://www.serebii.net/pokemon/art/811.png"
+    },
+    {
+      "id": 814,
+      "name": "Raboot",
+      "img": "https://www.serebii.net/pokemon/art/814.png"
+    },
+    {
+      "id": 817,
+      "name": "Drizzile",
+      "img": "https://www.serebii.net/pokemon/art/817.png"
+    },
+    {
+      "id": 907,
+      "name": "Floragato",
+      "img": "https://www.serebii.net/pokemon/art/907.png"
+    },
+    {
+      "id": 910,
+      "name": "Crocalor",
+      "img": "https://www.serebii.net/pokemon/art/910.png"
+    },
+    {
+      "id": 913,
+      "name": "Quaxwell",
+      "img": "https://www.serebii.net/pokemon/art/913.png"
+    }
+  ]
+}
