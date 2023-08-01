@@ -1,0 +1,254 @@
+{
+  "items": [
+    {
+      "id": "003-m",
+      "name": "Mega Venusaur",
+      "img": "https://www.serebii.net/pokemon/art/003-m.png"
+    },
+    {
+      "id": "006-mx",
+      "name": "Mega Charizard X",
+      "img": "https://www.serebii.net/pokemon/art/006-mx.png"
+    },
+    {
+      "id": "006-my",
+      "name": "Mega Charizard Y",
+      "img": "https://www.serebii.net/pokemon/art/006-my.png"
+    },
+    {
+      "id": "009-m",
+      "name": "Mega Blastoise",
+      "img": "https://www.serebii.net/pokemon/art/009-m.png"
+    },
+    {
+      "id": "015-m",
+      "name": "Mega Beedrill",
+      "img": "https://www.serebii.net/pokemon/art/015-m.png"
+    },
+    {
+      "id": "018-m",
+      "name": "Mega Pidgeot",
+      "img": "https://www.serebii.net/pokemon/art/018-m.png"
+    },
+    {
+      "id": "065-m",
+      "name": "Mega Alakazam",
+      "img": "https://www.serebii.net/pokemon/art/065-m.png"
+    },
+    {
+      "id": "080-m",
+      "name": "Mega Slowbro",
+      "img": "https://www.serebii.net/pokemon/art/080-m.png"
+    },
+    {
+      "id": "094-m",
+      "name": "Mega Gengar",
+      "img": "https://www.serebii.net/pokemon/art/094-m.png"
+    },
+    {
+      "id": "115-m",
+      "name": "Mega Kangaskhan",
+      "img": "https://www.serebii.net/pokemon/art/115-m.png"
+    },
+    {
+      "id": "127-m",
+      "name": "Mega Pinsir",
+      "img": "https://www.serebii.net/pokemon/art/127-m.png"
+    },
+    {
+      "id": "130-m",
+      "name": "Mega Gyarados",
+      "img": "https://www.serebii.net/pokemon/art/130-m.png"
+    },
+    {
+      "id": "142-m",
+      "name": "Mega Aerodactyl",
+      "img": "https://www.serebii.net/pokemon/art/142-m.png"
+    },
+    {
+      "id": "150-mx",
+      "name": "Mega Mewtwo X",
+      "img": "https://www.serebii.net/pokemon/art/150-mx.png"
+    },
+    {
+      "id": "150-my",
+      "name": "Mega Mewtwo Y",
+      "img": "https://www.serebii.net/pokemon/art/150-my.png"
+    },
+    {
+      "id": "181-m",
+      "name": "Mega Ampharos",
+      "img": "https://www.serebii.net/pokemon/art/181-m.png"
+    },
+    {
+      "id": "208-m",
+      "name": "Mega Steelix",
+      "img": "https://www.serebii.net/pokemon/art/208-m.png"
+    },
+    {
+      "id": "212-m",
+      "name": "Mega Scizor",
+      "img": "https://www.serebii.net/pokemon/art/212-m.png"
+    },
+    {
+      "id": "214-m",
+      "name": "Mega Heracross",
+      "img": "https://www.serebii.net/pokemon/art/214-m.png"
+    },
+    {
+      "id": "229-m",
+      "name": "Mega Houndoom",
+      "img": "https://www.serebii.net/pokemon/art/229-m.png"
+    },
+    {
+      "id": "248-m",
+      "name": "Mega Tyranitar",
+      "img": "https://www.serebii.net/pokemon/art/248-m.png"
+    },
+    {
+      "id": "254-m",
+      "name": "Mega Sceptile",
+      "img": "https://www.serebii.net/pokemon/art/254-m.png"
+    },
+    {
+      "id": "257-m",
+      "name": "Mega Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257-m.png"
+    },
+    {
+      "id": "260-m",
+      "name": "Mega Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260-m.png"
+    },
+    {
+      "id": "282-m",
+      "name": "Mega Gardevoir",
+      "img": "https://www.serebii.net/pokemon/art/282-m.png"
+    },
+    {
+      "id": "302-m",
+      "name": "Mega Sableye",
+      "img": "https://www.serebii.net/pokemon/art/302-m.png"
+    },
+    {
+      "id": "303-m",
+      "name": "Mega Mawile",
+      "img": "https://www.serebii.net/pokemon/art/303-m.png"
+    },
+    {
+      "id": "306-m",
+      "name": "Mega Aggron",
+      "img": "https://www.serebii.net/pokemon/art/306-m.png"
+    },
+    {
+      "id": "308-m",
+      "name": "Mega Medicham",
+      "img": "https://www.serebii.net/pokemon/art/308-m.png"
+    },
+    {
+      "id": "310-m",
+      "name": "Mega Manectric",
+      "img": "https://www.serebii.net/pokemon/art/310-m.png"
+    },
+    {
+      "id": "319-m",
+      "name": "Mega Sharpedo",
+      "img": "https://www.serebii.net/pokemon/art/319-m.png"
+    },
+    {
+      "id": "323-m",
+      "name": "Mega Camerupt",
+      "img": "https://www.serebii.net/pokemon/art/323-m.png"
+    },
+    {
+      "id": "334-m",
+      "name": "Mega Altaria",
+      "img": "https://www.serebii.net/pokemon/art/334-m.png"
+    },
+    {
+      "id": "354-m",
+      "name": "Mega Banette",
+      "img": "https://www.serebii.net/pokemon/art/354-m.png"
+    },
+    {
+      "id": "359-m",
+      "name": "Mega Absol",
+      "img": "https://www.serebii.net/pokemon/art/359-m.png"
+    },
+    {
+      "id": "362-m",
+      "name": "Mega Glalie",
+      "img": "https://www.serebii.net/pokemon/art/362-m.png"
+    },
+    {
+      "id": "373-m",
+      "name": "Mega Salamence",
+      "img": "https://www.serebii.net/pokemon/art/373-m.png"
+    },
+    {
+      "id": "376-m",
+      "name": "Mega Metagross",
+      "img": "https://www.serebii.net/pokemon/art/376-m.png"
+    },
+    {
+      "id": "380-m",
+      "name": "Mega Latias",
+      "img": "https://www.serebii.net/pokemon/art/380-m.png"
+    },
+    {
+      "id": "381-m",
+      "name": "Mega Latios",
+      "img": "https://www.serebii.net/pokemon/art/381-m.png"
+    },
+    {
+      "id": "382-p",
+      "name": "Primal Kyogre",
+      "img": "https://www.serebii.net/pokemon/art/382-m.png"
+    },
+    {
+      "id": "383-p",
+      "name": "Primal Groudon",
+      "img": "https://www.serebii.net/pokemon/art/383-m.png"
+    },
+    {
+      "id": "384-m",
+      "name": "Mega Rayquaza",
+      "img": "https://www.serebii.net/pokemon/art/384-m.png"
+    },
+    {
+      "id": "428-m",
+      "name": "Mega Lopunny",
+      "img": "https://www.serebii.net/pokemon/art/428-m.png"
+    },
+    {
+      "id": "445-m",
+      "name": "Mega Garchomp",
+      "img": "https://www.serebii.net/pokemon/art/445-m.png"
+    },
+    {
+      "id": "448-m",
+      "name": "Mega Lucario",
+      "img": "https://www.serebii.net/pokemon/art/448-m.png"
+    },
+    {
+      "id": "460-m",
+      "name": "Mega Abomasnow",
+      "img": "https://www.serebii.net/pokemon/art/460-m.png"
+    },
+    {
+      "id": "475-m",
+      "name": "Mega Gallade",
+      "img": "https://www.serebii.net/pokemon/art/475-m.png"
+    },
+    {
+      "id": "531-m",
+      "name": "Mega Audino",
+      "img": "https://www.serebii.net/pokemon/art/531-m.png"
+    },
+    {
+      "id": "719-m",
+      "name": "Mega Diancie",
+      "img": "https://www.serebii.net/pokemon/art/719-m.png"
+    }
+  ]
+}
