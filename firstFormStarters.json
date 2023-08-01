@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "img": "https://www.serebii.net/pokemon/art/001.png"
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "img": "https://www.serebii.net/pokemon/art/004.png"
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "img": "https://www.serebii.net/pokemon/art/007.png"
+    },
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "img": "https://www.serebii.net/pokemon/art/025.png"
+    },
+    {
+      "id": 133,
+      "name": "Eevee",
+      "img": "https://www.serebii.net/pokemon/art/133.png"
+    },
+    {
+      "id": 152,
+      "name": "Chikorita",
+      "img": "https://www.serebii.net/pokemon/art/152.png"
+    },
+    {
+      "id": 155,
+      "name": "Cyndaquil",
+      "img": "https://www.serebii.net/pokemon/art/155.png"
+    },
+    {
+      "id": 158,
+      "name": "Totodile",
+      "img": "https://www.serebii.net/pokemon/art/158.png"
+    },
+    {
+      "id": 252,
+      "name": "Treecko",
+      "img": "https://www.serebii.net/pokemon/art/252.png"
+    },
+    {
+      "id": 255,
+      "name": "Torchic",
+      "img": "https://www.serebii.net/pokemon/art/255.png"
+    },
+    {
+      "id": 258,
+      "name": "Mudkip",
+      "img": "https://www.serebii.net/pokemon/art/258.png"
+    },
+    {
+      "id": 387,
+      "name": "Turtwig",
+      "img": "https://www.serebii.net/pokemon/art/387.png"
+    },
+    {
+      "id": 390,
+      "name": "Chimchar",
+      "img": "https://www.serebii.net/pokemon/art/390.png"
+    },
+    {
+      "id": 393,
+      "name": "Piplup",
+      "img": "https://www.serebii.net/pokemon/art/393.png"
+    },
+    {
+      "id": 495,
+      "name": "Snivy",
+      "img": "https://www.serebii.net/pokemon/art/495.png"
+    },
+    {
+      "id": 498,
+      "name": "Tepig",
+      "img": "https://www.serebii.net/pokemon/art/498.png"
+    },
+    {
+      "id": 501,
+      "name": "Oshawott",
+      "img": "https://www.serebii.net/pokemon/art/501.png"
+    },
+    {
+      "id": 650,
+      "name": "Chespin",
+      "img": "https://www.serebii.net/pokemon/art/650.png"
+    },
+    {
+      "id": 653,
+      "name": "Fennekin",
+      "img": "https://www.serebii.net/pokemon/art/653.png"
+    },
+    {
+      "id": 656,
+      "name": "Froakie",
+      "img": "https://www.serebii.net/pokemon/art/656.png"
+    },
+    {
+      "id": 722,
+      "name": "Rowlet",
+      "img": "https://www.serebii.net/pokemon/art/722.png"
+    },
+    {
+      "id": 725,
+      "name": "Litten",
+      "img": "https://www.serebii.net/pokemon/art/725.png"
+    },
+    {
+      "id": 728,
+      "name": "Popplio",
+      "img": "https://www.serebii.net/pokemon/art/728.png"
+    },
+    {
+      "id": 810,
+      "name": "Grookey",
+      "img": "https://www.serebii.net/pokemon/art/810.png"
+    },
+    {
+      "id": 813,
+      "name": "Scorbunny",
+      "img": "https://www.serebii.net/pokemon/art/813.png"
+    },
+    {
+      "id": 816,
+      "name": "Sobble",
+      "img": "https://www.serebii.net/pokemon/art/816.png"
+    },
+    {
+      "id": 906,
+      "name": "Sprigatito",
+      "img": "https://www.serebii.net/pokemon/art/906.png"
+    },
+    {
+      "id": 909,
+      "name": "Fuecoco",
+      "img": "https://www.serebii.net/pokemon/art/909.png"
+    },
+    {
+      "id": 912,
+      "name": "Quaxly",
+      "img": "https://www.serebii.net/pokemon/art/912.png"
+    }
+  ]
+}
