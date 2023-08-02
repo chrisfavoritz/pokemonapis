@@ -1,0 +1,529 @@
+{
+  "items": [
+    {
+      "id": "386",
+      "name": "Deoxys Normal Forme",
+      "img": "https://www.serebii.net/pokemon/art/386.png"
+    },
+    {
+      "id": "386-a",
+      "name": "Deoxys Attack Forme",
+      "img": "https://www.serebii.net/pokemon/art/386-a.png"
+    },
+    {
+      "id": "386-d",
+      "name": "Deoxys Defense Forme",
+      "img": "https://www.serebii.net/pokemon/art/386-d.png"
+    },
+    {
+      "id": "386-s",
+      "name": "Deoxys Speed Forme",
+      "img": "https://www.serebii.net/pokemon/art/386-s.png"
+    },
+    {
+      "id": "412",
+      "name": "Burmy Plant Cloak",
+      "img": "https://www.serebii.net/pokemon/art/412-p.png"
+    },
+    {
+      "id": "412-s",
+      "name": "Burmy Sandy Cloak",
+      "img": "https://www.serebii.net/pokemon/art/412-s.png"
+    },
+    {
+      "id": "412-t",
+      "name": "Burmy Trash Cloak",
+      "img": "https://www.serebii.net/pokemon/art/412-t.png"
+    },
+    {
+      "id": "413",
+      "name": "Wormadam Plant Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413.png"
+    },
+    {
+      "id": "413-s",
+      "name": "Wormadam Sandy Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413-c.png"
+    },
+    {
+      "id": "413-t",
+      "name": "Wormadam Trash Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413-t.png"
+    },
+    {
+      "id": "479",
+      "name": "Rotom",
+      "img": "https://www.serebii.net/pokemon/art/479.png"
+    },
+    {
+      "id": "479-h",
+      "name": "Rotom Heat Form",
+      "img": "https://www.serebii.net/pokemon/art/479-h.png"
+    },
+    {
+      "id": "479-w",
+      "name": "Rotom Wash Form",
+      "img": "https://www.serebii.net/pokemon/art/479-w.png"
+    },
+    {
+      "id": "479-f",
+      "name": "Rotom Frost Form",
+      "img": "https://www.serebii.net/pokemon/art/479-f.png"
+    },
+    {
+      "id": "479-s",
+      "name": "Rotom Fan Form",
+      "img": "https://www.serebii.net/pokemon/art/479-s.png"
+    },
+    {
+      "id": "479-m",
+      "name": "Rotom Mow Form",
+      "img": "https://www.serebii.net/pokemon/art/479-m.png"
+    },
+    {
+      "id": "483",
+      "name": "Dialga Standard Forme",
+      "img": "https://www.serebii.net/swordshield/pokemon/483.png"
+    },
+    {
+      "id": "483-o",
+      "name": "Dialga Origin Forme",
+      "img": "https://www.serebii.net/swordshield/pokemon/483-o.png"
+    },
+    {
+      "id": "487",
+      "name": "Palkia Standard Forme",
+      "img": "https://www.serebii.net/swordshield/pokemon/484.png"
+    },
+    {
+      "id": "487-o",
+      "name": "Palkia Origin Forme",
+      "img": "https://www.serebii.net/swordshield/pokemon/484-o.png"
+    },
+      {
+      "id": "487",
+      "name": "Giratina Altered Forme",
+      "img": "https://www.serebii.net/pokemon/art/487.png"
+    },
+    {
+      "id": "487-o",
+      "name": "Giratina Origin Forme",
+      "img": "https://www.serebii.net/pokemon/art/487-o.png"
+    },
+    {
+      "id": "492",
+      "name": "Shaymin Land Forme",
+      "img": "https://www.serebii.net/pokemon/art/492.png"
+    },
+    {
+      "id": "492-s",
+      "name": "Shaymin Sky Forme",
+      "img": "https://www.serebii.net/pokemon/art/492-s.png"
+    },
+    {
+      "id": "550",
+      "name": "Basculin Red-Striped Form",
+      "img": "https://www.serebii.net/pokemon/art/550.png"
+    },
+    {
+      "id": "550-b",
+      "name": "Basculin Blue-Striped Form",
+      "img": "https://www.serebii.net/pokemon/art/550-b.png"
+    },
+    {
+      "id": "550-w",
+      "name": "Basculin White-Striped Form",
+      "img": "https://www.serebii.net/pokemon/art/550-w.png"
+    },
+    {
+      "id": "555",
+      "name": "Darmanitan Standard Mode",
+      "img": "https://www.serebii.net/pokemon/art/555.png"
+    },
+    {
+      "id": "555-z",
+      "name": "Darmanitan Zen Mode",
+      "img": "https://www.serebii.net/pokemon/art/555-d.png"
+    },
+    {
+      "id": "555-g",
+      "name": "Darmanitan Galar Standard Mode",
+      "img": "https://www.serebii.net/pokemon/art/555-g.png"
+    },
+    {
+      "id": "555-gz",
+      "name": "Darmanitan Galar Zen Mode",
+      "img": "https://www.serebii.net/pokemon/art/555-gz.png"
+    },
+    {
+      "id": "585",
+      "name": "Deerling Spring Form",
+      "img": "https://www.serebii.net/pokemon/art/585.png"
+    },
+    {
+      "id": "585-s",
+      "name": "Deerling Summer Form",
+      "img": "https://www.serebii.net/pokemon/art/585-s.png"
+    },
+    {
+      "id": "585-a",
+      "name": "Deerling Autumn Form",
+      "img": "https://www.serebii.net/pokemon/art/585-a.png"
+    },
+    {
+      "id": "585-w",
+      "name": "Deerling Winter Form",
+      "img": "https://www.serebii.net/pokemon/art/585-w.png"
+    },
+    {
+      "id": "586",
+      "name": "Sawsbuck Spring Form",
+      "img": "https://www.serebii.net/pokemon/art/586.png"
+    },
+    {
+      "id": "586-s",
+      "name": "Sawsbuck Summer Form",
+      "img": "https://www.serebii.net/pokemon/art/586-s.png"
+    },
+    {
+      "id": "586-a",
+      "name": "Sawsbuck Autumn Form",
+      "img": "https://www.serebii.net/pokemon/art/586-a.png"
+    },
+    {
+      "id": "586-w",
+      "name": "Sawsbuck Winter Form",
+      "img": "https://www.serebii.net/pokemon/art/586-w.png"
+    },
+   {
+      "id": "641",
+      "name": "Tornadus Incarnate Forme",
+      "img": "https://www.serebii.net/pokemon/art/641.png"
+    },
+    {
+      "id": "641-t",
+      "name": "Tornadus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/641-t.png"
+    },
+    {
+      "id": "642",
+      "name": "Thundurus Incarnate Forme",
+      "img": "https://www.serebii.net/pokemon/art/642.png"
+    },
+    {
+      "id": "642-t",
+      "name": "Thundurus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/642-t.png"
+    },
+    {
+      "id": "645",
+      "name": "Landorus Incarnate Forme",
+      "img": "https://www.serebii.net/pokemon/art/645.png"
+    },
+    {
+      "id": "645-t",
+      "name": "Landorus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/645-t.png"
+    },
+    {
+      "id": "646",
+      "name": "Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646.png"
+    },
+    {
+      "id": "646-b",
+      "name": "Kyurem Black Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646-b.png"
+    },
+    {
+      "id": "646-w",
+      "name": "Kyurem White Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646-w.png"
+    },
+    {
+      "id": "647",
+      "name": "Keldeo Ordinary Form",
+      "img": "https://www.serebii.net/pokemon/art/647.png"
+    },
+    {
+      "id": "647-r",
+      "name": "Keldeo Resolute Form",
+      "img": "https://www.serebii.net/pokemon/art/647-r.png"
+    },
+    {
+      "id": "648",
+      "name": "Meloetta Aria Forme",
+      "img": "https://www.serebii.net/pokemon/art/648.png"
+    },
+    {
+      "id": "648-p",
+      "name": "Meloetta Pirouette Forme",
+      "img": "https://www.serebii.net/pokemon/art/648-p.png"
+    },
+    {
+      "id": "658",
+      "name": "Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658.png"
+    },
+    {
+      "id": "658-a",
+      "name": "Greninja Ash-Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658-a.png"
+    },
+    {
+      "id": "681",
+      "name": "Aegislash Shield Forme",
+      "img": "https://www.serebii.net/pokemon/art/681.png"
+    },
+    {
+      "id": "681-b",
+      "name": "Aegislash Blade Forme",
+      "img": "https://www.serebii.net/pokemon/art/681-b.png"
+    },
+    {
+      "id": "710",
+      "name": "Pumpkaboo Average Size",
+      "img": "https://www.serebii.net/pokemon/art/710.png"
+    },
+    {
+      "id": "710-s",
+      "name": "Pumpkaboo Small Size",
+      "img": "https://www.serebii.net/pokemon/art/710-s.png"
+    },
+    {
+      "id": "710-l",
+      "name": "Pumpkaboo Large Size",
+      "img": "https://www.serebii.net/pokemon/art/710-l.png"
+    },
+    {
+      "id": "710-xl",
+      "name": "Pumpkaboo Super Size",
+      "img": "https://www.serebii.net/pokemon/art/710-h.png"
+    },
+    {
+      "id": "711",
+      "name": "Gourgeist Average Size",
+      "img": "https://www.serebii.net/pokemon/art/711.png"
+    },
+    {
+      "id": "711-s",
+      "name": "Gourgeist Small Size",
+      "img": "https://www.serebii.net/pokemon/art/711-s.png"
+    },
+    {
+      "id": "711-l",
+      "name": "Gourgeist Large Size",
+      "img": "https://www.serebii.net/pokemon/art/711-l.png"
+    },
+    {
+      "id": "711-xl",
+      "name": "Gourgeist Super Size",
+      "img": "https://www.serebii.net/pokemon/art/711-h.png"
+    },
+    {
+      "id": "718",
+      "name": "Zygarde 10% Forme",
+      "img": "https://www.serebii.net/pokemon/art/718-10.png"
+    },
+    {
+      "id": "718",
+      "name": "Zygarde 50% Forme",
+      "img": "https://www.serebii.net/pokemon/art/718.png"
+    },
+    {
+      "id": "718-c",
+      "name": "Zygarde Complete Forme",
+      "img": "https://www.serebii.net/pokemon/art/718-c.png"
+    },
+    {
+      "id": "720",
+      "name": "Hoopa Confined",
+      "img": "https://www.serebii.net/pokemon/art/720.png"
+    },
+    {
+      "id": "720-u",
+      "name": "Hoopa Unbound",
+      "img": "https://www.serebii.net/pokemon/art/720-u.png"
+    },
+    {
+      "id": "741",
+      "name": "Oricorio Baile Style",
+      "img": "https://www.serebii.net/pokemon/art/741.png"
+    },
+    {
+      "id": "741-p",
+      "name": "Oricorio Pom-Pom Style",
+      "img": "https://www.serebii.net/pokemon/art/741-p.png"
+    },
+    {
+      "id": "741-pa",
+      "name": "Oricorio Pa'u Style",
+      "img": "https://www.serebii.net/pokemon/art/741-pau.png"
+    },
+    {
+      "id": "741-s",
+      "name": "Oricorio Sensu Style",
+      "img": "https://www.serebii.net/pokemon/art/741-s.png"
+    },
+    {
+      "id": "745",
+      "name": "Lycanroc Midday Form",
+      "img": "https://www.serebii.net/pokemon/art/745.png"
+    },
+    {
+      "id": "745-m",
+      "name": "Lycanroc Midnight Form",
+      "img": "https://www.serebii.net/pokemon/art/745-m.png"
+    },
+    {
+      "id": "745-d",
+      "name": "Lycanroc Dusk Form",
+      "img": "https://www.serebii.net/pokemon/art/745-d.png"
+    },
+    {
+      "id": "746",
+      "name": "Wishiwashi Solo Form",
+      "img": "https://www.serebii.net/pokemon/art/746.png"
+    },
+    {
+      "id": "746-s",
+      "name": "Wishiwashi School Form",
+      "img": "https://www.serebii.net/pokemon/art/746-s.png"
+    },
+    {
+      "id": "774",
+      "name": "Minior Meteor Form",
+      "img": "https://www.serebii.net/pokemon/art/774.png"
+    },
+    {
+      "id": "774-r",
+      "name": "Minior Red Core",
+      "img": "https://www.serebii.net/pokemon/art/774-c.png"
+    },
+    {
+      "id": "774-o",
+      "name": "Minior Orange Core",
+      "img": "https://www.serebii.net/pokemon/art/774-o.png"
+    },
+    {
+      "id": "774-y",
+      "name": "Minior Yellow Core",
+      "img": "https://www.serebii.net/pokemon/art/774-y.png"
+    },
+    {
+      "id": "774-g",
+      "name": "Minior Green Core",
+      "img": "https://www.serebii.net/pokemon/art/774-g.png"
+    },
+    {
+      "id": "774-b",
+      "name": "Minior Blue Core",
+      "img": "https://www.serebii.net/pokemon/art/774-b.png"
+    },
+    {
+      "id": "774-i",
+      "name": "Minior Indigo Core",
+      "img": "https://www.serebii.net/pokemon/art/774-i.png"
+    },
+    {
+      "id": "774-v",
+      "name": "Minior Violet Core",
+      "img": "https://www.serebii.net/pokemon/art/774-v.png"
+    },
+    {
+      "id": "778",
+      "name": "Mimikyu Disguised Form",
+      "img": "https://www.serebii.net/pokemon/art/778.png"
+    },
+    {
+      "id": "778-b",
+      "name": "Mimikyu Busted Form",
+      "img": "https://www.serebii.net/pokemon/art/778-b.png"
+    },
+    {
+      "id": "800",
+      "name": "Necrozma",
+      "img": "https://www.serebii.net/pokemon/art/800.png"
+    },
+    {
+      "id": "800-d",
+      "name": "Necrozma Dusk Mane",
+      "img": "https://www.serebii.net/pokemon/art/800-dm.png"
+    },
+    {
+      "id": "800-w",
+      "name": "Necrozma Dawn Wings",
+      "img": "https://www.serebii.net/pokemon/art/800-dw.png"
+    },
+    {
+      "id": "800-u",
+      "name": "Necrozma Ultra Necrozma",
+      "img": "https://www.serebii.net/pokemon/art/800-u.png"
+    },
+    {
+      "id": "849",
+      "name": "Toxtricity Low Key Form",
+      "img": "https://www.serebii.net/pokemon/art/849-l.png"
+    },
+    {
+      "id": "849-a",
+      "name": "Toxtricity Amped Form",
+      "img": "https://www.serebii.net/pokemon/art/849.png"
+    },
+    {
+      "id": "875",
+      "name": "Eiscue Ice Face",
+      "img": "https://www.serebii.net/pokemon/art/875.png"
+    },
+    {
+      "id": "875-n",
+      "name": "Eiscue Noice Face",
+      "img": "https://www.serebii.net/pokemon/art/875-n.png"
+    },
+    {
+      "id": "888",
+      "name": "Zacian Hero of Many Battles",
+      "img": "https://www.serebii.net/pokemon/art/888.png"
+    },
+    {
+      "id": "888-c",
+      "name": "Zacian Crowned Sword",
+      "img": "https://www.serebii.net/pokemon/art/888-c.png"
+    },
+    {
+      "id": "889",
+      "name": "Zamazenta Hero of Many Battles",
+      "img": "https://www.serebii.net/pokemon/art/889.png"
+    },
+    {
+      "id": "889-c",
+      "name": "Zamazenta Crowned Shield",
+      "img": "https://www.serebii.net/pokemon/art/889-c.png"
+    },
+    {
+      "id": "892",
+      "name": "Urshifu Single Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/892.png"
+    },
+    {
+      "id": "892-r",
+      "name": "Urshifu Rapid Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/892-r.png"
+    },
+    {
+      "id": "898",
+      "name": "Calyrex",
+      "img": "https://www.serebii.net/pokemon/art/898.png"
+    },
+    {
+      "id": "898-i",
+      "name": "Calyrex Ice Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-i.png"
+    },
+    {
+      "id": "898-s",
+      "name": "Calyrex Shadow Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-s.png"
+    }
+  ]
+}
