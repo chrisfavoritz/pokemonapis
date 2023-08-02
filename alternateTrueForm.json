@@ -524,6 +524,41 @@
       "id": "898-s",
       "name": "Calyrex Shadow Rider",
       "img": "https://www.serebii.net/pokemon/art/898-s.png"
+    },
+    {
+      "id": "905",
+      "name": "Enamorus Incarnate Forme",
+      "img": "https://www.serebii.net/pokemon/art/905.png"
+    },
+    {
+      "id": "905-t",
+      "name": "Enamorus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/905-s.png"
+    },
+    {
+      "id": "128-t",
+      "name": "Paldean Tauros Combat Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-p.png"
+    },
+    {
+      "id": "128-b",
+      "name": "Paldean Tauros Blaze Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-b.png"
+    },
+    {
+      "id": "128-a",
+      "name": "Paldean Tauros Aqua Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-a.png"
+    },
+    {
+      "id": "964",
+      "name": "Palafin Zero Form",
+      "img": "https://www.serebii.net/pokemon/art/964.png"
+    },
+    {
+      "id": "128-a",
+      "name": "Palafin Hero Form",
+      "img": "https://www.serebii.net/pokemon/art/964-h.png"
     }
   ]
 }
