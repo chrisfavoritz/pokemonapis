@@ -408,7 +408,7 @@
     {
       "id": "774-r",
       "name": "Minior Red Core",
-      "img": "https://www.serebii.net/pokemon/art/774-r.png"
+      "img": "https://www.serebii.net/pokemon/art/774-c.png"
     },
     {
       "id": "774-o",
@@ -451,16 +451,6 @@
       "img": "https://www.serebii.net/pokemon/art/778-b.png"
     },
     {
-      "id": "791",
-      "name": "Solgaleo",
-      "img": "https://www.serebii.net/pokemon/art/791.png"
-    },
-    {
-      "id": "792",
-      "name": "Lunala",
-      "img": "https://www.serebii.net/pokemon/art/792.png"
-    },
-    {
       "id": "800",
       "name": "Necrozma",
       "img": "https://www.serebii.net/pokemon/art/800.png"
@@ -468,114 +458,163 @@
     {
       "id": "800-d",
       "name": "Necrozma Dusk Mane",
-      "img": "https://www.serebii.net/pokemon/art/800-d.png"
+      "img": "https://www.serebii.net/pokemon/art/800-dm.png"
     },
     {
       "id": "800-w",
       "name": "Necrozma Dawn Wings",
-      "img": "https://www.serebii.net/pokemon/art/800-w.png"
+      "img": "https://www.serebii.net/pokemon/art/800-dw.png"
     },
     {
       "id": "800-u",
       "name": "Necrozma Ultra Necrozma",
       "img": "https://www.serebii.net/pokemon/art/800-u.png"
-    }
+    },
+    {
+      "id": "801",
+      "name": "Magearna",
+      "img": "https://www.serebii.net/swordshield/pokemon/801.png"
+    },
     {
       "id": "801",
       "name": "Magearna Original Color",
-      "img": "https://www.serebii.net/art/th/801.png"
+      "img": "https://www.serebii.net/swordshield/pokemon/801-o.png"
     },
     {
       "id": "845",
-      "name": "Cramorant Gulping Form",
-      "img": "https://www.serebii.net/art/th/845.png"
+      "name": "Cramorant",
+      "img": "https://www.serebii.net/pokemon/art/845.png"
     },
     {
       "id": "845-g",
       "name": "Cramorant Gorging Form",
-      "img": "https://www.serebii.net/art/th/845-g.png"
+      "img": "https://www.serebii.net/pokemon/art/845-go.png"
+    },
+    {
+      "id": "845-gu",
+      "name": "Cramorant Gulping Form",
+      "img": "https://www.serebii.net/pokemon/art/845-gu.png"
     },
     {
       "id": "849",
-      "name": "Toxtricity Amped Form",
-      "img": "https://www.serebii.net/art/th/849.png"
+      "name": "Toxtricity Low Key Form",
+      "img": "https://www.serebii.net/pokemon/art/849-l.png"
     },
     {
-      "id": "849-l",
-      "name": "Toxtricity Low Key Form",
-      "img": "https://www.serebii.net/art/th/849-l.png"
+      "id": "849-a",
+      "name": "Toxtricity Amped Form",
+      "img": "https://www.serebii.net/pokemon/art/849.png"
     },
     {
       "id": "869",
-      "name": "Alcremie Vanilla Cream",
-      "img": "https://www.serebii.net/art/th/869.png"
+      "name": "Alcremie",
+      "img": "https://www.serebii.net/pokemon/art/869.png"
     },
     {
       "id": "869-r",
       "name": "Alcremie Ruby Cream",
-      "img": "https://www.serebii.net/art/th/869-r.png"
+      "img": "https://www.serebii.net/pokemon/art/869-r.png"
     },
     {
       "id": "869-m",
       "name": "Alcremie Matcha Cream",
-      "img": "https://www.serebii.net/art/th/869-m.png"
-    },
-    {
-      "id": "869-s",
-      "name": "Alcremie Salted Cream",
-      "img": "https://www.serebii.net/art/th/869-s.png"
+      "img": "https://www.serebii.net/pokemon/art/869-m.png"
     },
     {
       "id": "869-l",
       "name": "Alcremie Lemon Cream",
-      "img": "https://www.serebii.net/art/th/869-l.png"
+      "img": "https://www.serebii.net/pokemon/art/869-l.png"
+    },
+    {
+      "id": "869-s",
+      "name": "Alcremie Salted Cream",
+      "img": "https://www.serebii.net/pokemon/art/869-s.png"
     },
     {
       "id": "869-mi",
       "name": "Alcremie Mint Cream",
-      "img": "https://www.serebii.net/art/th/869-mi.png"
+      "img": "https://www.serebii.net/pokemon/art/869-mi.png"
     },
     {
       "id": "869-c",
-      "name": "Alcremie Caramel Swirl",
-      "img": "https://www.serebii.net/art/th/869-c.png"
+      "name": "Alcremie Vanilla Cream",
+      "img": "https://www.serebii.net/pokemon/art/869-c.png"
     },
     {
-      "id": "869-rb",
+      "id": "869-rc",
+      "name": "Alcremie Ruby Swirl",
+      "img": "https://www.serebii.net/pokemon/art/869-rc.png"
+    },
+    {
+      "id": "869-cs",
+      "name": "Alcremie Caramel Swirl",
+      "img": "https://www.serebii.net/pokemon/art/869-cs.png"
+    },
+    {
+      "id": "869-rs",
       "name": "Alcremie Rainbow Swirl",
-      "img": "https://www.serebii.net/art/th/869-rb.png"
+      "img": "https://www.serebii.net/pokemon/art/869-rs.png"
     },
     {
       "id": "875",
       "name": "Eiscue Ice Face",
-      "img": "https://www.serebii.net/art/th/875.png"
+      "img": "https://www.serebii.net/pokemon/art/875.png"
     },
     {
       "id": "875-n",
       "name": "Eiscue Noice Face",
-      "img": "https://www.serebii.net/art/th/875-n.png"
+      "img": "https://www.serebii.net/pokemon/art/875-n.png"
     },
     {
-      "id": "876",
+      "id": "876-m",
       "name": "Indeedee Male",
-      "img": "https://www.serebii.net/art/th/876-m.png"
+      "img": "https://www.serebii.net/pokemon/art/876-m.png"
     },
     {
       "id": "876-f",
       "name": "Indeedee Female",
-      "img": "https://www.serebii.net/art/th/876-f.png"
+      "img": "https://www.serebii.net/pokemon/art/876-f.png"
     },
     {
       "id": "877",
       "name": "Morpeko Full Belly Mode",
-      "img": "https://www.serebii.net/art/th/877.png"
+      "img": "https://www.serebii.net/pokemon/art/877.png"
     },
     {
       "id": "877-h",
       "name": "Morpeko Hangry Mode",
-      "img": "https://www.serebii.net/art/th/877-h.png"
+      "img": "https://www.serebii.net/pokemon/art/877-h.png"
     },
-    
+    {
+      "id": "887",
+      "name": "Dragapult",
+      "img": "https://www.serebii.net/pokemon/art/887.png"
+    },
+    {
+      "id": "892",
+      "name": "Urshifu Single Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/892.png"
+    },
+    {
+      "id": "892-r",
+      "name": "Urshifu Rapid Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/892-r.png"
+    },
+    {
+      "id": "898",
+      "name": "Calyrex",
+      "img": "https://www.serebii.net/pokemon/art/898.png"
+    },
+    {
+      "id": "898-i",
+      "name": "Calyrex Ice Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-i.png"
+    },
+    {
+      "id": "898-s",
+      "name": "Calyrex Shadow Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-s.png"
+    }
     {
       "id": "493",
       "name": "Arceus Normal",
