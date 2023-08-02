@@ -556,9 +556,24 @@
       "img": "https://www.serebii.net/pokemon/art/964.png"
     },
     {
-      "id": "128-a",
+      "id": "964-h",
       "name": "Palafin Hero Form",
       "img": "https://www.serebii.net/pokemon/art/964-h.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Curly Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Droopy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-d.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Stretchy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-s.png"
     }
   ]
 }
