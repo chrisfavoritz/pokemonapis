@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": 64,
+      "num": "793",
+      "name": "Nihilego",
+      "img": "https://www.serebii.net/pokemon/art/793.png"
+    },
+    {
+      "id": 65,
+      "num": "794",
+      "name": "Buzzwole",
+      "img": "https://www.serebii.net/pokemon/art/794.png"
+    },
+    {
+      "id": 66,
+      "num": "795",
+      "name": "Pheromosa",
+      "img": "https://www.serebii.net/pokemon/art/795.png"
+    },
+    {
+      "id": 67,
+      "num": "796",
+      "name": "Xurkitree",
+      "img": "https://www.serebii.net/pokemon/art/796.png"
+    },
+    {
+      "id": 68,
+      "num": "797",
+      "name": "Celesteela",
+      "img": "https://www.serebii.net/pokemon/art/797.png"
+    },
+    {
+      "id": 69,
+      "num": "798",
+      "name": "Kartana",
+      "img": "https://www.serebii.net/pokemon/art/798.png"
+    },
+    {
+      "id": 70,
+      "num": "799",
+      "name": "Guzzlord",
+      "img": "https://www.serebii.net/pokemon/art/799.png"
+    },
+    {
+      "id": 74,
+      "num": "803",
+      "name": "Poipole",
+      "img": "https://www.serebii.net/pokemon/art/803.png"
+    },
+    {
+      "id": 75,
+      "num": "804",
+      "name": "Naganadel",
+      "img": "https://www.serebii.net/pokemon/art/804.png"
+    },
+    {
+      "id": 76,
+      "num": "805",
+      "name": "Stakataka",
+      "img": "https://www.serebii.net/pokemon/art/805.png"
+    },
+    {
+      "id": 77,
+      "num": "806",
+      "name": "Blacephalon",
+      "img": "https://www.serebii.net/pokemon/art/806.png"
+    }
+  ]
+}
