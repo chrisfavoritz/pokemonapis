@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "img": "https://www.serebii.net/pokemon/art/025.png"
+    },
+    {
+      "id": 26,
+      "name": "Raichu",
+      "img": "https://www.serebii.net/pokemon/art/026.png"
+    },
+    {
+      "id": 81,
+      "name": "Magnemite",
+      "img": "https://www.serebii.net/pokemon/art/081.png"
+    },
+    {
+      "id": 82,
+      "name": "Magneton",
+      "img": "https://www.serebii.net/pokemon/art/082.png"
+    },
+    {
+      "id": 100,
+      "name": "Voltorb",
+      "img": "https://www.serebii.net/pokemon/art/100.png"
+    },
+    {
+      "id": 101,
+      "name": "Electrode",
+      "img": "https://www.serebii.net/pokemon/art/101.png"
+    },
+    {
+      "id": 125,
+      "name": "Electabuzz",
+      "img": "https://www.serebii.net/pokemon/art/125.png"
+    },
+    {
+      "id": 135,
+      "name": "Jolteon",
+      "img": "https://www.serebii.net/pokemon/art/135.png"
+    },
+    {
+      "id": 145,
+      "name": "Zapdos",
+      "img": "https://www.serebii.net/pokemon/art/145.png"
+    },
+    {
+      "id": 170,
+      "name": "Chinchou",
+      "img": "https://www.serebii.net/pokemon/art/170.png"
+    },
+    {
+      "id": 171,
+      "name": "Lanturn",
+      "img": "https://www.serebii.net/pokemon/art/171.png"
+    },
+    {
+      "id": 172,
+      "name": "Pichu",
+      "img": "https://www.serebii.net/pokemon/art/172.png"
+    },
+    {
+      "id": 179,
+      "name": "Mareep",
+      "img": "https://www.serebii.net/pokemon/art/179.png"
+    },
+    {
+      "id": 180,
+      "name": "Flaaffy",
+      "img": "https://www.serebii.net/pokemon/art/180.png"
+    },
+    {
+      "id": 181,
+      "name": "Ampharos",
+      "img": "https://www.serebii.net/pokemon/art/181.png"
+    },
+    {
+      "id": 239,
+      "name": "Elekid",
+      "img": "https://www.serebii.net/pokemon/art/239.png"
+    },
+    {
+      "id": 243,
+      "name": "Raikou",
+      "img": "https://www.serebii.net/pokemon/art/243.png"
+    },
+    {
+      "id": 309,
+      "name": "Electrike",
+      "img": "https://www.serebii.net/pokemon/art/309.png"
+    },
+    {
+      "id": 310,
+      "name": "Manectric",
+      "img": "https://www.serebii.net/pokemon/art/310.png"
+    },
+    {
+      "id": 311,
+      "name": "Plusle",
+      "img": "https://www.serebii.net/pokemon/art/311.png"
+    },
+    {
+      "id": 312,
+      "name": "Minun",
+      "img": "https://www.serebii.net/pokemon/art/312.png"
+    },
+    {
+      "id": 403,
+      "name": "Shinx",
+      "img": "https://www.serebii.net/pokemon/art/403.png"
+    },
+    {
+      "id": 404,
+      "name": "Luxio",
+      "img": "https://www.serebii.net/pokemon/art/404.png"
+    },
+    {
+      "id": 405,
+      "name": "Luxray",
+      "img": "https://www.serebii.net/pokemon/art/405.png"
+    },
+    {
+      "id": 417,
+      "name": "Pachirisu",
+      "img": "https://www.serebii.net/pokemon/art/417.png"
+    },
+    {
+      "id": 462,
+      "name": "Magnezone",
+      "img": "https://www.serebii.net/pokemon/art/462.png"
+    },
+    {
+      "id": 466,
+      "name": "Electivire",
+      "img": "https://www.serebii.net/pokemon/art/466.png"
+    },
+    {
+      "id": "479",
+      "name": "Rotom",
+      "img": "https://www.serebii.net/pokemon/art/479.png"
+    },
+    {
+      "id": "479-h",
+      "name": "Rotom Heat Form",
+      "img": "https://www.serebii.net/pokemon/art/479-h.png"
+    },
+    {
+      "id": "479-w",
+      "name": "Rotom Wash Form",
+      "img": "https://www.serebii.net/pokemon/art/479-w.png"
+    },
+    {
+      "id": "479-f",
+      "name": "Rotom Frost Form",
+      "img": "https://www.serebii.net/pokemon/art/479-f.png"
+    },
+    {
+      "id": "479-s",
+      "name": "Rotom Fan Form",
+      "img": "https://www.serebii.net/pokemon/art/479-s.png"
+    },
+    {
+      "id": "479-m",
+      "name": "Rotom Mow Form",
+      "img": "https://www.serebii.net/pokemon/art/479-m.png"
+    },
+    {
+      "id": 522,
+      "name": "Blitzle",
+      "img": "https://www.serebii.net/pokemon/art/522.png"
+    },
+    {
+      "id": 523,
+      "name": "Zebstrika",
+      "img": "https://www.serebii.net/pokemon/art/523.png"
+    },
+    {
+      "id": 587,
+      "name": "Emolga",
+      "img": "https://www.serebii.net/pokemon/art/587.png"
+    },
+    {
+      "id": 595,
+      "name": "Joltik",
+      "img": "https://www.serebii.net/pokemon/art/595.png"
+    },
+    {
+      "id": 596,
+      "name": "Galvantula",
+      "img": "https://www.serebii.net/pokemon/art/596.png"
+    },
+    {
+      "id": 602,
+      "name": "Tynamo",
+      "img": "https://www.serebii.net/pokemon/art/602.png"
+    },
+    {
+      "id": 603,
+      "name": "Eelektrik",
+      "img": "https://www.serebii.net/pokemon/art/603.png"
+    },
+    {
+      "id": 604,
+      "name": "Eelektross",
+      "img": "https://www.serebii.net/pokemon/art/604.png"
+    },
+    {
+      "id": 618,
+      "name": "Stunfisk",
+      "img": "https://www.serebii.net/pokemon/art/618.png"
+    },
+    {
+      "id": 642,
+      "name": "Thundurus",
+      "img": "https://www.serebii.net/pokemon/art/642.png"
+    },
+    {
+      "id": "642-t",
+      "name": "Thundurus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/642-t.png"
+    },
+    {
+      "id": 644,
+      "name": "Zekrom",
+      "img": "https://www.serebii.net/pokemon/art/644.png"
+    },
+    {
+      "id": 694,
+      "name": "Helioptile",
+      "img": "https://www.serebii.net/pokemon/art/694.png"
+    },
+    {
+      "id": 695,
+      "name": "Heliolisk",
+      "img": "https://www.serebii.net/pokemon/art/695.png"
+    },
+    {
+      "id": 702,
+      "name": "Dedenne",
+      "img": "https://www.serebii.net/pokemon/art/702.png"
+    },
+    {
+      "id": "26-a",
+      "name": "Alolan Raichu",
+      "img": "https://www.serebii.net/art/th/26-a.png"
+    },
+    {
+      "id": "74-a",
+      "name": "Alolan Geodude",
+      "img": "https://www.serebii.net/art/th/74-a.png"
+    },
+    {
+      "id": "75-a",
+      "name": "Alolan Graveler",
+      "img": "https://www.serebii.net/art/th/75-a.png"
+    },
+    {
+      "id": "76-a",
+      "name": "Alolan Golem",
+      "img": "https://www.serebii.net/art/th/76-a.png"
+    },
+    {
+      "id": 737,
+      "name": "Charjabug",
+      "img": "https://www.serebii.net/pokemon/art/737.png"
+    },
+    {
+      "id": 738,
+      "name": "Vikavolt",
+      "img": "https://www.serebii.net/pokemon/art/738.png"
+    },
+    {
+      "id": "741-p",
+      "name": "Oricorio Pom-Pom Style",
+      "img": "https://www.serebii.net/pokemon/art/741-p.png"
+    },
+    {
+      "id": 777,
+      "name": "Togedemaru",
+      "img": "https://www.serebii.net/pokemon/art/777.png"
+    },
+    {
+      "id": 785,
+      "name": "Tapu Koko",
+      "img": "https://www.serebii.net/pokemon/art/785.png"
+    },
+    {
+      "id": 796,
+      "name": "Xurkitree",
+      "img": "https://www.serebii.net/pokemon/art/796.png"
+    },
+    {
+      "id": 807,
+      "name": "Zeraora",
+      "img": "https://www.serebii.net/pokemon/art/807.png"
+    },
+    {
+      "id": 835,
+      "name": "Yamper",
+      "img": "https://www.serebii.net/pokemon/art/835.png"
+    },
+    {
+      "id": 836,
+      "name": "Boltund",
+      "img": "https://www.serebii.net/pokemon/art/836.png"
+    },
+    {
+      "id": 848,
+      "name": "Toxel",
+      "img": "https://www.serebii.net/pokemon/art/848.png"
+    },
+    {
+      "id": 849,
+      "name": "Toxtricity",
+      "img": "https://www.serebii.net/pokemon/art/849.png"
+    },
+    {
+      "id": "849",
+      "name": "Toxtricity Low Key Form",
+      "img": "https://www.serebii.net/pokemon/art/849-l.png"
+    },
+    {
+      "id": 871,
+      "name": "Pincurchin",
+      "img": "https://www.serebii.net/pokemon/art/871.png"
+    },
+    {
+      "id": 877,
+      "name": "Morpeko",
+      "img": "https://www.serebii.net/pokemon/art/877.png"
+    },
+    {
+      "id": 880,
+      "name": "Dracozolt",
+      "img": "https://www.serebii.net/pokemon/art/880.png"
+    },
+    {
+      "id": 881,
+      "name": "Arctozolt",
+      "img": "https://www.serebii.net/pokemon/art/881.png"
+    },
+    {
+      "id": 894,
+      "name": "Regieleki",
+      "img": "https://www.serebii.net/pokemon/art/894.png"
+    },
+    {
+      "id": 100,
+      "name": "Hisuian Voltorb",
+      "img": "https://www.serebii.net/art/th/100-h.png"
+    },
+    {
+      "id": 101,
+      "name": "Hisuian Electrode",
+      "img": "https://www.serebii.net/art/th/101-h.png"
+    },
+    {
+      "id": 921,
+      "name": "Pawmi",
+      "img": "https://www.serebii.net/pokemon/art/921.png"
+    },
+    {
+      "id": 922,
+      "name": "Pawmo",
+      "img": "https://www.serebii.net/pokemon/art/922.png"
+    },
+    {
+      "id": 923,
+      "name": "Pawmot",
+      "img": "https://www.serebii.net/pokemon/art/923.png"
+    },
+    {
+      "id": 938,
+      "name": "Tadbulb",
+      "img": "https://www.serebii.net/pokemon/art/938.png"
+    },
+    {
+      "id": 939,
+      "name": "Bellibolt",
+      "img": "https://www.serebii.net/pokemon/art/939.png"
+    },
+    {
+      "id": 940,
+      "name": "Wattrel",
+      "img": "https://www.serebii.net/pokemon/art/940.png"
+    },
+    {
+      "id": 941,
+      "name": "Kilowattrel",
+      "img": "https://www.serebii.net/pokemon/art/941.png"
+    },
+    {
+      "id": 989,
+      "name": "Sandy Shocks",
+      "img": "https://www.serebii.net/pokemon/art/989.png"
+    },
+    {
+      "id": 992,
+      "name": "Iron Hands",
+      "img": "https://www.serebii.net/pokemon/art/992.png"
+    },
+    {
+      "id": 995,
+      "name": "Iron Thorns",
+      "img": "https://www.serebii.net/pokemon/art/995.png"
+    },
+    {
+      "id": 1008,
+      "name": "Miraidon",
+      "img": "https://www.serebii.net/pokemon/art/1008.png"
+    }
+  ]
+}
