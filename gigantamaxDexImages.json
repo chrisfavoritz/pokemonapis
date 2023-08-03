@@ -1,0 +1,164 @@
+{
+  "items": [
+     {
+      "id": "003-gi",
+      "name": "Gigantamax Venusaur",
+      "img": "https://archives.bulbagarden.net/media/upload/4/45/0003Venusaur-Gigantamax.png"
+    },
+     {
+      "id": "006-gi",
+      "name": "Gigantamax Charizard",
+      "img": "https://archives.bulbagarden.net/media/upload/0/0c/0006Charizard-Gigantamax.png"
+    },
+    {
+      "id": "009-gi",
+      "name": "Gigantamax Blastoise",
+      "img": "https://archives.bulbagarden.net/media/upload/b/bd/0009Blastoise-Gigantamax.png"
+    },
+    {
+      "id": "012-gi",
+      "name": "Gigantamax Butterfree",
+      "img": "https://archives.bulbagarden.net/media/upload/e/ee/0012Butterfree-Gigantamax.png"
+    },
+    {
+      "id": "025-gi",
+      "name": "Gigantamax Pikachu",
+      "img": "https://archives.bulbagarden.net/media/upload/8/8c/0025Pikachu-Gigantamax.png"
+    },
+    {
+      "id": "026-gi",
+      "name": "Gigantamax Meowth",
+      "img": "https://archives.bulbagarden.net/media/upload/0/08/0052Meowth-Gigantamax.png"
+    },
+    {
+      "id": "068-gi",
+      "name": "Gigantamax Machamp",
+      "img": "https://archives.bulbagarden.net/media/upload/e/e4/0068Machamp-Gigantamax.png"
+    },
+    {
+      "id": "094-gi",
+      "name": "Gigantamax Gengar",
+      "img": "https://archives.bulbagarden.net/media/upload/4/4a/0094Gengar-Gigantamax.png"
+    },
+    {
+      "id": "122-gi",
+      "name": "Gigantamax Kingler",
+      "img": "https://archives.bulbagarden.net/media/upload/2/2d/0099Kingler-Gigantamax.png"
+    },
+    {
+      "id": "131-gi",
+      "name": "Gigantamax Lapras",
+      "img": "https://archives.bulbagarden.net/media/upload/b/b6/0131Lapras-Gigantamax.png"
+    },
+    {
+      "id": "133-gi",
+      "name": "Gigantamax Eevee",
+      "img": "https://archives.bulbagarden.net/media/upload/e/e2/0133Eevee-Gigantamax.png"
+    },
+    {
+      "id": "143-gi",
+      "name": "Gigantamax Snorlax",
+      "img": "https://archives.bulbagarden.net/media/upload/d/d0/0143Snorlax-Gigantamax.png"
+    },
+    {
+      "id": "181-gi",
+      "name": "Gigantamax Garbodor",
+      "img": "https://archives.bulbagarden.net/media/upload/0/04/0569Garbodor-Gigantamax.png"
+    },
+    {
+      "id": "206-gi",
+      "name": "Gigantamax Melmetal",
+      "img": "https://archives.bulbagarden.net/media/upload/a/a1/0809Melmetal-Gigantamax.png"
+    },
+     {
+      "id": "206-gi",
+      "name": "Gigantamax Rillaboom",
+      "img": "https://archives.bulbagarden.net/media/upload/3/38/0812Rillaboom-Gigantamax.png"
+    },
+     {
+      "id": "206-gi",
+      "name": "Gigantamax Cinderace",
+      "img": "https://archives.bulbagarden.net/media/upload/7/78/0815Cinderace-Gigantamax.png"
+    },
+     {
+      "id": "206-gi",
+      "name": "Gigantamax Inteleon",
+      "img": "https://archives.bulbagarden.net/media/upload/2/29/0818Inteleon-Gigantamax.png"
+    },
+    {
+      "id": "562-gi",
+      "name": "Gigantamax Corviknight",
+      "img": "https://archives.bulbagarden.net/media/upload/5/55/0823Corviknight-Gigantamax.png"
+    },
+    {
+      "id": "569-gi",
+      "name": "Gigantamax Orbeetle",
+      "img": "https://archives.bulbagarden.net/media/upload/d/d5/0826Orbeetle-Gigantamax.png"
+    },
+    {
+      "id": "585-gi",
+      "name": "Gigantamax Drednaw",
+      "img": "https://archives.bulbagarden.net/media/upload/a/a2/0834Drednaw-Gigantamax.png"
+    },
+    {
+      "id": "589-gi",
+      "name": "Gigantamax Coalossal",
+      "img": "https://archives.bulbagarden.net/media/upload/1/10/0839Coalossal-Gigantamax.png"
+    },
+    {
+      "id": "591-gi",
+      "name": "Gigantamax Flapple/Appletun",
+      "img": "https://archives.bulbagarden.net/media/upload/4/42/0841Flapple-Gigantamax.png"
+    },
+    {
+      "id": "595-gi",
+      "name": "Gigantamax Sandaconda",
+      "img": "https://archives.bulbagarden.net/media/upload/f/fc/0844Sandaconda-Gigantamax.png"
+    },
+    {
+      "id": "598-gi",
+      "name": "Gigantamax Toxtricity",
+      "img": "https://archives.bulbagarden.net/media/upload/d/de/0849Toxtricity-Gigantamax.png"
+    },
+    {
+      "id": "612-gi",
+      "name": "Gigantamax Centiskorch",
+      "img": "https://archives.bulbagarden.net/media/upload/3/3c/0851Centiskorch-Gigantamax.png"
+    },
+    {
+      "id": "616-gi",
+      "name": "Gigantamax Hatterene",
+      "img": "https://archives.bulbagarden.net/media/upload/1/10/0858Hatterene-Gigantamax.png"
+    },
+    {
+      "id": "619-gi",
+      "name": "Gigantamax Grimmsnarl",
+      "img": "https://archives.bulbagarden.net/media/upload/d/df/0861Grimmsnarl-Gigantamax.png"
+    },
+    {
+      "id": "631-gi",
+      "name": "Gigantamax Alcremie",
+      "img": "https://archives.bulbagarden.net/media/upload/9/93/0869Alcremie-Gigantamax.png"
+    },
+    {
+      "id": "665-gi",
+      "name": "Gigantamax Copperajah",
+      "img": "https://archives.bulbagarden.net/media/upload/1/19/0879Copperajah-Gigantamax.png"
+    },
+    {
+      "id": "697-gi",
+      "name": "Gigantamax Duraludon",
+      "img": "https://archives.bulbagarden.net/media/upload/d/d4/0884Duraludon-Gigantamax.png"
+    },
+    {
+      "id": "697-gi",
+      "name": "Gigantamax Urshifu Single Strike Style",
+      "img": "https://archives.bulbagarden.net/media/upload/9/92/0892Urshifu-Gigantamax_Single_Strike.png"
+    },
+    {
+      "id": "697-gi",
+      "name": "Gigantamax Urshifu Rapid Strike Style",
+      "img": "https://archives.bulbagarden.net/media/upload/a/a3/0892Urshifu-Gigantamax_Rapid_Strike.png"
+    }
+  ]
+}
