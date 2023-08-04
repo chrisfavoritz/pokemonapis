@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "id": 87,
+      "name": "Dewgong",
+      "img": "https://www.serebii.net/pokemon/art/087.png"
+    },
+    {
+      "id": 91,
+      "name": "Cloyster",
+      "img": "https://www.serebii.net/pokemon/art/091.png"
+    },
+    {
+      "id": 124,
+      "name": "Jynx",
+      "img": "https://www.serebii.net/pokemon/art/124.png"
+    },
+    {
+      "id": 131,
+      "name": "Lapras",
+      "img": "https://www.serebii.net/pokemon/art/131.png"
+    },
+    {
+      "id": 144,
+      "name": "Articuno",
+      "img": "https://www.serebii.net/pokemon/art/144.png"
+    },
+    {
+      "id": 220,
+      "name": "Swinub",
+      "img": "https://www.serebii.net/pokemon/art/220.png"
+    },
+    {
+      "id": 221,
+      "name": "Piloswine",
+      "img": "https://www.serebii.net/pokemon/art/221.png"
+    },
+    {
+      "id": 225,
+      "name": "Delibird",
+      "img": "https://www.serebii.net/pokemon/art/225.png"
+    },
+    {
+      "id": 238,
+      "name": "Smoochum",
+      "img": "https://www.serebii.net/pokemon/art/238.png"
+    },
+    {
+      "id": 361,
+      "name": "Snorunt",
+      "img": "https://www.serebii.net/pokemon/art/361.png"
+    },
+    {
+      "id": 362,
+      "name": "Glalie",
+      "img": "https://www.serebii.net/pokemon/art/362.png"
+    },
+    {
+      "id": 363,
+      "name": "Spheal",
+      "img": "https://www.serebii.net/pokemon/art/363.png"
+    },
+    {
+      "id": 364,
+      "name": "Sealeo",
+      "img": "https://www.serebii.net/pokemon/art/364.png"
+    },
+    {
+      "id": 365,
+      "name": "Walrein",
+      "img": "https://www.serebii.net/pokemon/art/365.png"
+    },
+    {
+      "id": 378,
+      "name": "Regice",
+      "img": "https://www.serebii.net/pokemon/art/378.png"
+    },
+    {
+      "id": 459,
+      "name": "Snover",
+      "img": "https://www.serebii.net/pokemon/art/459.png"
+    },
+    {
+      "id": 460,
+      "name": "Abomasnow",
+      "img": "https://www.serebii.net/pokemon/art/460.png"
+    },
+    {
+      "id": 471,
+      "name": "Glaceon",
+      "img": "https://www.serebii.net/pokemon/art/471.png"
+    },
+    {
+      "id": 473,
+      "name": "Mamoswine",
+      "img": "https://www.serebii.net/pokemon/art/473.png"
+    },
+    {
+      "id": 478,
+      "name": "Froslass",
+      "img": "https://www.serebii.net/pokemon/art/478.png"
+    },
+    {
+      "id": 582,
+      "name": "Vanillite",
+      "img": "https://www.serebii.net/pokemon/art/582.png"
+    },
+    {
+      "id": 583,
+      "name": "Vanillish",
+      "img": "https://www.serebii.net/pokemon/art/583.png"
+    },
+    {
+      "id": 584,
+      "name": "Vanilluxe",
+      "img": "https://www.serebii.net/pokemon/art/584.png"
+    },
+    {
+      "id": 613,
+      "name": "Cubchoo",
+      "img": "https://www.serebii.net/pokemon/art/613.png"
+    },
+    {
+      "id": 614,
+      "name": "Beartic",
+      "img": "https://www.serebii.net/pokemon/art/614.png"
+    },
+    {
+      "id": 615,
+      "name": "Cryogonal",
+      "img": "https://www.serebii.net/pokemon/art/615.png"
+    },
+    {
+      "id": 712,
+      "name": "Bergmite",
+      "img": "https://www.serebii.net/pokemon/art/712.png"
+    },
+    {
+      "id": 713,
+      "name": "Avalugg",
+      "img": "https://www.serebii.net/pokemon/art/713.png"
+    },
+    {
+      "id": 766,
+      "name": "Frosmoth",
+      "img": "https://www.serebii.net/pokemon/art/766.png"
+    },
+    {
+      "id": 875,
+      "name": "Eiscue",
+      "img": "https://www.serebii.net/pokemon/art/875.png"
+    },
+    {
+      "id": 883,
+      "name": "Arctovish",
+      "img": "https://www.serebii.net/pokemon/art/883.png"
+    },
+    {
+      "id": 884,
+      "name": "Arctozolt",
+      "img": "https://www.serebii.net/pokemon/art/884.png"
+    }
+  ]
+}
