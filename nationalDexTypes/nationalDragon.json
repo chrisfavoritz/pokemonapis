@@ -161,6 +161,51 @@
       "img": "https://www.serebii.net/pokemon/art/646-w.png"
     },
     {
+      "id": "006-mx",
+      "name": "Mega Charizard X",
+      "img": "https://www.serebii.net/pokemon/art/006-mx.png"
+    },
+    {
+      "id": "181-m",
+      "name": "Mega Ampharos",
+      "img": "https://www.serebii.net/pokemon/art/181-m.png"
+    },
+    {
+      "id": "254-m",
+      "name": "Mega Sceptile",
+      "img": "https://www.serebii.net/pokemon/art/254-m.png"
+    },
+    {
+      "id": "334-m",
+      "name": "Mega Altaria",
+      "img": "https://www.serebii.net/pokemon/art/334-m.png"
+    },
+    {
+      "id": "373-m",
+      "name": "Mega Salamence",
+      "img": "https://www.serebii.net/pokemon/art/373-m.png"
+    },
+    {
+      "id": "380-m",
+      "name": "Mega Latias",
+      "img": "https://www.serebii.net/pokemon/art/380-m.png"
+    },
+    {
+      "id": "381-m",
+      "name": "Mega Latios",
+      "img": "https://www.serebii.net/pokemon/art/381-m.png"
+    },
+    {
+      "id": "384-m",
+      "name": "Mega Rayquaza",
+      "img": "https://www.serebii.net/pokemon/art/384-m.png"
+    },
+    {
+      "id": "445-m",
+      "name": "Mega Garchomp",
+      "img": "https://www.serebii.net/pokemon/art/445-m.png"
+    },
+    {
       "id": 691,
       "name": "Dragalge",
       "img": "https://www.serebii.net/pokemon/art/691.png"
