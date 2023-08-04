@@ -26,6 +26,11 @@
       "img": "https://www.serebii.net/pokemon/art/144.png"
     },
     {
+      "id": 215,
+      "name": "Sneasel",
+      "img": "https://www.serebii.net/pokemon/art/215.png"
+    },
+    {
       "id": 220,
       "name": "Swinub",
       "img": "https://www.serebii.net/pokemon/art/220.png"
@@ -86,6 +91,11 @@
       "img": "https://www.serebii.net/pokemon/art/460.png"
     },
     {
+      "id": 461,
+      "name": "Weavile",
+      "img": "https://www.serebii.net/pokemon/art/461.png"
+    },
+    {
       "id": 471,
       "name": "Glaceon",
       "img": "https://www.serebii.net/pokemon/art/471.png"
@@ -99,6 +109,11 @@
       "id": 478,
       "name": "Froslass",
       "img": "https://www.serebii.net/pokemon/art/478.png"
+    },
+    {
+      "id": "479-f",
+      "name": "Rotom Frost Form",
+      "img": "https://www.serebii.net/pokemon/art/479-f.png"
     },
     {
       "id": 582,
@@ -131,6 +146,41 @@
       "img": "https://www.serebii.net/pokemon/art/615.png"
     },
     {
+      "id": "646",
+      "name": "Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646.png"
+    },
+    {
+      "id": "646-b",
+      "name": "Kyurem Black Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646-b.png"
+    },
+    {
+      "id": "646-w",
+      "name": "Kyurem White Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646-w.png"
+    },
+    {
+      "id": "362-m",
+      "name": "Mega Glalie",
+      "img": "https://www.serebii.net/pokemon/art/362-m.png"
+    },
+    {
+      "id": "460-m",
+      "name": "Mega Abomasnow",
+      "img": "https://www.serebii.net/pokemon/art/460-m.png"
+    },
+    {
+      "id": 698,
+      "name": "Amaura",
+      "img": "https://www.serebii.net/pokemon/art/698.png"
+    },
+    {
+      "id": 699,
+      "name": "Aurorus",
+      "img": "https://www.serebii.net/pokemon/art/699.png"
+    },
+    {
       "id": 712,
       "name": "Bergmite",
       "img": "https://www.serebii.net/pokemon/art/712.png"
@@ -141,14 +191,79 @@
       "img": "https://www.serebii.net/pokemon/art/713.png"
     },
     {
-      "id": 766,
-      "name": "Frosmoth",
-      "img": "https://www.serebii.net/pokemon/art/766.png"
+      "id": "27-a",
+      "name": "Alolan Sandshrew",
+      "img": "https://www.serebii.net/art/th/27-a.png"
     },
     {
-      "id": 875,
-      "name": "Eiscue",
+      "id": "28-a",
+      "name": "Alolan Sandslash",
+      "img": "https://www.serebii.net/art/th/28-a.png"
+    },
+    {
+      "id": "37-a",
+      "name": "Alolan Vulpix",
+      "img": "https://www.serebii.net/art/th/37-a.png"
+    },
+    {
+      "id": "38-a",
+      "name": "Alolan Ninetales",
+      "img": "https://www.serebii.net/art/th/38-a.png"
+    },
+    {
+      "id": 740,
+      "name": "Crabominable",
+      "img": "https://www.serebii.net/pokemon/art/740.png"
+    },
+    {
+      "id": "122-g",
+      "name": "Galarian Mr. Mime",
+      "img": "https://www.serebii.net/swordshield/pokemon/122-g.png"
+    },
+    {
+      "id": "554-g",
+      "name": "Galarian Darumaka",
+      "img": "https://www.serebii.net/swordshield/pokemon/554-g.png"
+    },
+    {
+      "id": "555-g",
+      "name": "Galarian Darmanitan",
+      "img": "https://www.serebii.net/swordshield/pokemon/555-g.png"
+    },
+    {
+      "id": "555-g",
+      "name": "Galarian Darmanitan Zen Mode",
+      "img": "https://www.serebii.net/swordshield/pokemon/555-gz.png"
+    },
+    {
+      "id": 866,
+      "name": "Mr. Rime",
+      "img": "https://www.serebii.net/pokemon/art/866.png"
+    },
+    {
+      "id": 872,
+      "name": "Snom",
+      "img": "https://www.serebii.net/pokemon/art/872.png"
+    },
+    {
+      "id": 873,
+      "name": "Frosmoth",
+      "img": "https://www.serebii.net/pokemon/art/873.png"
+    },
+    {
+      "id": "875",
+      "name": "Eiscue Ice Face",
       "img": "https://www.serebii.net/pokemon/art/875.png"
+    },
+    {
+      "id": "875-n",
+      "name": "Eiscue Noice Face",
+      "img": "https://www.serebii.net/pokemon/art/875-n.png"
+    },
+    {
+      "id": 881,
+      "name": "Arctozolt",
+      "img": "https://www.serebii.net/pokemon/art/881.png"
     },
     {
       "id": 883,
@@ -156,9 +271,54 @@
       "img": "https://www.serebii.net/pokemon/art/883.png"
     },
     {
-      "id": 884,
-      "name": "Arctozolt",
-      "img": "https://www.serebii.net/pokemon/art/884.png"
+      "id": 896,
+      "name": "Glastrier",
+      "img": "https://www.serebii.net/pokemon/art/896.png"
+    },
+    {
+      "id": "898-i",
+      "name": "Calyrex Ice Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-i.png"
+    },
+    {
+      "id": 713,
+      "name": "Hisuian Avalugg",
+      "img": "https://www.serebii.net/art/th/713-h.png"
+    },
+    {
+      "id": 974,
+      "name": "Cetoddle",
+      "img": "https://www.serebii.net/pokemon/art/974.png"
+    },
+    {
+      "id": 975,
+      "name": "Cetitan",
+      "img": "https://www.serebii.net/pokemon/art/975.png"
+    },
+    {
+      "id": 991,
+      "name": "Iron Bundle",
+      "img": "https://www.serebii.net/pokemon/art/991.png"
+    },
+    {
+      "id": 996,
+      "name": "Frigibax",
+      "img": "https://www.serebii.net/pokemon/art/996.png"
+    },
+    {
+      "id": 997,
+      "name": "Arctibax",
+      "img": "https://www.serebii.net/pokemon/art/997.png"
+    },
+    {
+      "id": 998,
+      "name": "Baxcalibur",
+      "img": "https://www.serebii.net/pokemon/art/998.png"
+    },
+    {
+      "id": 1002,
+      "name": "Chien-Pao",
+      "img": "https://www.serebii.net/pokemon/art/1002.png"
     }
   ]
 }
