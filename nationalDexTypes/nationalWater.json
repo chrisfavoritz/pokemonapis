@@ -176,6 +176,16 @@
       "img": "https://www.serebii.net/pokemon/art/160.png"
     },
     {
+      "id": 170,
+      "name": "Chinchou",
+      "img": "https://www.serebii.net/pokemon/art/170.png"
+    },
+    {
+      "id": 171,
+      "name": "Lanturn",
+      "img": "https://www.serebii.net/pokemon/art/171.png"
+    },
+    {
       "id": 183,
       "name": "Marill",
       "img": "https://www.serebii.net/pokemon/art/183.png"
@@ -211,6 +221,11 @@
       "img": "https://www.serebii.net/pokemon/art/211.png"
     },
     {
+      "id": 222,
+      "name": "Corsola",
+      "img": "https://www.serebii.net/pokemon/art/222.png"
+    },
+    {
       "id": 223,
       "name": "Remoraid",
       "img": "https://www.serebii.net/pokemon/art/223.png"
@@ -219,6 +234,11 @@
       "id": 224,
       "name": "Octillery",
       "img": "https://www.serebii.net/pokemon/art/224.png"
+    },
+    {
+      "id": 226,
+      "name": "Mantine",
+      "img": "https://www.serebii.net/pokemon/art/226.png"
     },
     {
       "id": 230,
@@ -276,9 +296,14 @@
       "img": "https://www.serebii.net/pokemon/art/283.png"
     },
     {
-      "id": 284,
-      "name": "Masquerain",
-      "img": "https://www.serebii.net/pokemon/art/284.png"
+      "id": 318,
+      "name": "Carvanha",
+      "img": "https://www.serebii.net/pokemon/art/318.png"
+    },
+    {
+      "id": 319,
+      "name": "Sharpedo",
+      "img": "https://www.serebii.net/pokemon/art/319.png"
     },
     {
       "id": 320,
@@ -319,6 +344,21 @@
       "id": 350,
       "name": "Milotic",
       "img": "https://www.serebii.net/pokemon/art/350.png"
+    },
+    {
+      "id": 363,
+      "name": "Spheal",
+      "img": "https://www.serebii.net/pokemon/art/363.png"
+    },
+    {
+      "id": 364,
+      "name": "Sealeo",
+      "img": "https://www.serebii.net/pokemon/art/364.png"
+    },
+    {
+      "id": 365,
+      "name": "Walrein",
+      "img": "https://www.serebii.net/pokemon/art/365.png"
     },
     {
       "id": 366,
@@ -406,6 +446,16 @@
       "img": "https://www.serebii.net/pokemon/art/458.png"
     },
     {
+      "id": "479-w",
+      "name": "Rotom Wash Form",
+      "img": "https://www.serebii.net/pokemon/art/479-w.png"
+    },
+    {
+      "id": 484,
+      "name": "Palkia",
+      "img": "https://www.serebii.net/pokemon/art/484.png"
+    },
+    {
       "id": 489,
       "name": "Phione",
       "img": "https://www.serebii.net/pokemon/art/489.png"
@@ -414,6 +464,21 @@
       "id": 490,
       "name": "Manaphy",
       "img": "https://www.serebii.net/pokemon/art/490.png"
+    },
+    {
+      "id": 501,
+      "name": "Oshawott",
+      "img": "https://www.serebii.net/pokemon/art/501.png"
+    },
+    {
+      "id": 502,
+      "name": "Dewott",
+      "img": "https://www.serebii.net/pokemon/art/502.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/pokemon/art/503.png"
     },
     {
       "id": 515,
@@ -441,9 +506,14 @@
       "img": "https://www.serebii.net/pokemon/art/537.png"
     },
     {
-      "id": 550,
-      "name": "Basculin",
+      "id": "550",
+      "name": "Basculin Red-Striped Form",
       "img": "https://www.serebii.net/pokemon/art/550.png"
+    },
+    {
+      "id": "550-b",
+      "name": "Basculin Blue-Striped Form",
+      "img": "https://www.serebii.net/pokemon/art/550-b.png"
     },
     {
       "id": 564,
@@ -481,19 +551,44 @@
       "img": "https://www.serebii.net/pokemon/art/594.png"
     },
     {
-      "id": 602,
-      "name": "Tynamo",
-      "img": "https://www.serebii.net/pokemon/art/602.png"
+      "id": "647",
+      "name": "Keldeo",
+      "img": "https://www.serebii.net/pokemon/art/647.png"
     },
     {
-      "id": 603,
-      "name": "Eelektrik",
-      "img": "https://www.serebii.net/pokemon/art/603.png"
+      "id": "647-r",
+      "name": "Keldeo Resolute Form",
+      "img": "https://www.serebii.net/pokemon/art/647-r.png"
     },
     {
-      "id": 604,
-      "name": "Eelektross",
-      "img": "https://www.serebii.net/pokemon/art/604.png"
+      "id": "009-m",
+      "name": "Mega Blastoise",
+      "img": "https://www.serebii.net/pokemon/art/009-m.png"
+    },
+    {
+      "id": "080-m",
+      "name": "Mega Slowbro",
+      "img": "https://www.serebii.net/pokemon/art/080-m.png"
+    },
+    {
+      "id": "130-m",
+      "name": "Mega Gyarados",
+      "img": "https://www.serebii.net/pokemon/art/130-m.png"
+    },
+    {
+      "id": "260-m",
+      "name": "Mega Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260-m.png"
+    },
+    {
+      "id": "319-m",
+      "name": "Mega Sharpedo",
+      "img": "https://www.serebii.net/pokemon/art/319-m.png"
+    },
+    {
+      "id": "382-p",
+      "name": "Primal Kyogre",
+      "img": "https://www.serebii.net/pokemon/art/382-m.png"
     },
     {
       "id": 656,
@@ -509,6 +604,21 @@
       "id": 658,
       "name": "Greninja",
       "img": "https://www.serebii.net/pokemon/art/658.png"
+    },
+    {
+      "id": "658-a",
+      "name": "Greninja Ash-Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658-a.png"
+    },
+    {
+      "id": 688,
+      "name": "Binacle",
+      "img": "https://www.serebii.net/pokemon/art/688.png"
+    },
+    {
+      "id": 689,
+      "name": "Barbaracle",
+      "img": "https://www.serebii.net/pokemon/art/689.png"
     },
     {
       "id": 690,
@@ -531,14 +641,34 @@
       "img": "https://www.serebii.net/pokemon/art/693.png"
     },
     {
-      "id": 700,
-      "name": "Wishiwashi",
-      "img": "https://www.serebii.net/pokemon/art/700.png"
+      "id": 721,
+      "name": "Volcanion",
+      "img": "https://www.serebii.net/pokemon/art/721.png"
     },
     {
-      "id": 746,
-      "name": "Wishiwashi",
+      "id": 728,
+      "name": "Popplio",
+      "img": "https://www.serebii.net/pokemon/art/728.png"
+    },
+    {
+      "id": 729,
+      "name": "Brionne",
+      "img": "https://www.serebii.net/pokemon/art/729.png"
+    },
+    {
+      "id": 730,
+      "name": "Primarina",
+      "img": "https://www.serebii.net/pokemon/art/730.png"
+    },
+    {
+      "id": "746",
+      "name": "Wishiwashi Solo Form",
       "img": "https://www.serebii.net/pokemon/art/746.png"
+    },
+    {
+      "id": "746-s",
+      "name": "Wishiwashi School Form",
+      "img": "https://www.serebii.net/pokemon/art/746-s.png"
     },
     {
       "id": 747,
@@ -581,19 +711,9 @@
       "img": "https://www.serebii.net/pokemon/art/779.png"
     },
     {
-      "id": 790,
-      "name": "Popplio",
-      "img": "https://www.serebii.net/pokemon/art/790.png"
-    },
-    {
-      "id": 791,
-      "name": "Brionne",
-      "img": "https://www.serebii.net/pokemon/art/791.png"
-    },
-    {
-      "id": 792,
-      "name": "Primarina",
-      "img": "https://www.serebii.net/pokemon/art/792.png"
+      "id": 788,
+      "name": "Tapu Fini",
+      "img": "https://www.serebii.net/pokemon/art/788.png"
     },
     {
       "id": 816,
@@ -621,6 +741,11 @@
       "img": "https://www.serebii.net/pokemon/art/834.png"
     },
     {
+      "id": 845,
+      "name": "Cramorant",
+      "img": "https://www.serebii.net/pokemon/art/845.png"
+    },
+    {
       "id": 846,
       "name": "Arrokuda",
       "img": "https://www.serebii.net/pokemon/art/846.png"
@@ -631,36 +756,119 @@
       "img": "https://www.serebii.net/pokemon/art/847.png"
     },
     {
-      "id": 848,
-      "name": "Cufant",
-      "img": "https://www.serebii.net/pokemon/art/848.png"
+      "id": 882,
+      "name": "Dracovish",
+      "img": "https://www.serebii.net/pokemon/art/882.png"
     },
     {
-      "id": 849,
-      "name": "Copperajah",
-      "img": "https://www.serebii.net/pokemon/art/849.png"
+      "id": 883,
+      "name": "Arctovish",
+      "img": "https://www.serebii.net/pokemon/art/883.png"
     },
     {
-      "id": 871,
-      "name": "Cramorant",
-      "img": "https://www.serebii.net/pokemon/art/871.png"
+      "id": "892-r",
+      "name": "Urshifu Rapid Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/892-r.png"
     },
     {
-      "id": 875,
-      "name": "Eiscue",
-      "img": "https://www.serebii.net/pokemon/art/875.png"
+      "id": 503,
+      "name": "Hisuian Samurott",
+      "img": "https://www.serebii.net/art/th/503-h.png"
     },
     {
-      "id": 891,
-      "name": "Cufant",
-      "img": "https://www.serebii.net/pokemon/art/891.png"
+      "id": "487-o",
+      "name": "Palkia Origin Forme",
+      "img": "https://www.serebii.net/swordshield/pokemon/484-o.png"
     },
     {
-      "id": 892,
-      "name": "Copperajah",
-      "img": "https://www.serebii.net/pokemon/art/892.png"
+      "id": "550-w",
+      "name": "Basculin White-Striped Form",
+      "img": "https://www.serebii.net/pokemon/art/550-w.png"
+    },
+    {
+      "id": 902,
+      "name": "Basculegion",
+      "img": "https://www.serebii.net/art/th/902.png"
+    },
+    {
+      "id": "128-a",
+      "name": "Paldean Tauros Aqua Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-a.png"
+    },
+    {
+      "id": 912,
+      "name": "Quaxly",
+      "img": "https://www.serebii.net/pokemon/art/912.png"
+    },
+    {
+      "id": 913,
+      "name": "Quaxwell",
+      "img": "https://www.serebii.net/pokemon/art/913.png"
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "img": "https://www.serebii.net/pokemon/art/914.png"
+    },
+    {
+      "id": 960,
+      "name": "Wiglett",
+      "img": "https://www.serebii.net/pokemon/art/960.png"
+    },
+    {
+      "id": 961,
+      "name": "Wugtrio",
+      "img": "https://www.serebii.net/pokemon/art/961.png"
+    },
+    {
+      "id": 963,
+      "name": "Finizen",
+      "img": "https://www.serebii.net/pokemon/art/963.png"
+    },
+    {
+      "id": "964",
+      "name": "Palafin Zero Form",
+      "img": "https://www.serebii.net/pokemon/art/964.png"
+    },
+    {
+      "id": "964-h",
+      "name": "Palafin Hero Form",
+      "img": "https://www.serebii.net/pokemon/art/964-h.png"
+    },
+    {
+      "id": 976,
+      "name": "Veluza",
+      "img": "https://www.serebii.net/pokemon/art/976.png"
+    },
+    {
+      "id": 977,
+      "name": "Dondozo",
+      "img": "https://www.serebii.net/pokemon/art/977.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Curly Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Droopy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-d.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Stretchy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-s.png"
+    },
+    {
+      "id": 991,
+      "name": "Iron Bundle",
+      "img": "https://www.serebii.net/pokemon/art/991.png"
+    },
+    {
+      "id": 1009,
+      "name": "Walking Wake",
+      "img": "https://www.serebii.net/pokemon/art/1009.png"
     }
   ]
 }
-
-Note: The list provided includes up to the latest known Water-type Pokémon. Any new additions or changes made after my knowledge cut-off date (September 2021) may not be reflected in this list.
