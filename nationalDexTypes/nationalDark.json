@@ -196,6 +196,36 @@
       "img": "https://www.serebii.net/pokemon/art/635.png"
     },
     {
+      "id": "130-m",
+      "name": "Mega Gyarados",
+      "img": "https://www.serebii.net/pokemon/art/130-m.png"
+    },
+    {
+      "id": "229-m",
+      "name": "Mega Houndoom",
+      "img": "https://www.serebii.net/pokemon/art/229-m.png"
+    },
+    {
+      "id": "248-m",
+      "name": "Mega Tyranitar",
+      "img": "https://www.serebii.net/pokemon/art/248-m.png"
+    },
+    {
+      "id": "302-m",
+      "name": "Mega Sableye",
+      "img": "https://www.serebii.net/pokemon/art/302-m.png"
+    },
+    {
+      "id": "319-m",
+      "name": "Mega Sharpedo",
+      "img": "https://www.serebii.net/pokemon/art/319-m.png"
+    },
+    {
+      "id": "359-m",
+      "name": "Mega Absol",
+      "img": "https://www.serebii.net/pokemon/art/359-m.png"
+    },
+    {
       "id": 658,
       "name": "Greninja",
       "img": "https://www.serebii.net/pokemon/art/658.png"
