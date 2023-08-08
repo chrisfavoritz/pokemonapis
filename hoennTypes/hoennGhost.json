@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 92,
+      "name": "Gastly",
+      "img": "https://www.serebii.net/pokemon/art/92.png"
+    },
+    {
+      "id": 93,
+      "name": "Haunter",
+      "img": "https://www.serebii.net/pokemon/art/93.png"
+    },
+    {
+      "id": 94,
+      "name": "Gengar",
+      "img": "https://www.serebii.net/pokemon/art/94.png"
+    },
+    {
+      "id": 200,
+      "name": "Misdreavus",
+      "img": "https://www.serebii.net/pokemon/art/200.png"
+    },
+    {
+      "id": 292,
+      "name": "Shedinja",
+      "img": "https://www.serebii.net/pokemon/art/292.png"
+    },
+    {
+      "id": 302,
+      "name": "Sableye",
+      "img": "https://www.serebii.net/pokemon/art/302.png"
+    },
+    {
+      "id": 353,
+      "name": "Shuppet",
+      "img": "https://www.serebii.net/pokemon/art/353.png"
+    },
+    {
+      "id": 354,
+      "name": "Banette",
+      "img": "https://www.serebii.net/pokemon/art/354.png"
+    },
+    {
+      "id": 355,
+      "name": "Duskull",
+      "img": "https://www.serebii.net/pokemon/art/355.png"
+    },
+    {
+      "id": 356,
+      "name": "Dusclops",
+      "img": "https://www.serebii.net/pokemon/art/356.png"
+    }
+  ]
+}
