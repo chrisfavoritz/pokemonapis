@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 921,
+      "name": "Pawmi",
+      "img": "https://www.serebii.net/pokemon/art/921.png"
+    },
+    {
+      "id": 922,
+      "name": "Pawmo",
+      "img": "https://www.serebii.net/pokemon/art/922.png"
+    },
+    {
+      "id": 923,
+      "name": "Pawmot",
+      "img": "https://www.serebii.net/pokemon/art/923.png"
+    },
+    {
+      "id": 938,
+      "name": "Tadbulb",
+      "img": "https://www.serebii.net/pokemon/art/938.png"
+    },
+    {
+      "id": 939,
+      "name": "Bellibolt",
+      "img": "https://www.serebii.net/pokemon/art/939.png"
+    },
+    {
+      "id": 940,
+      "name": "Wattrel",
+      "img": "https://www.serebii.net/pokemon/art/940.png"
+    },
+    {
+      "id": 941,
+      "name": "Kilowattrel",
+      "img": "https://www.serebii.net/pokemon/art/941.png"
+    },
+    {
+      "id": 989,
+      "name": "Sandy Shocks",
+      "img": "https://www.serebii.net/pokemon/art/989.png"
+    },
+    {
+      "id": 992,
+      "name": "Iron Hands",
+      "img": "https://www.serebii.net/pokemon/art/992.png"
+    },
+    {
+      "id": 995,
+      "name": "Iron Thorns",
+      "img": "https://www.serebii.net/pokemon/art/995.png"
+    },
+    {
+      "id": 1008,
+      "name": "Miraidon",
+      "img": "https://www.serebii.net/pokemon/art/1008.png"
+    }
+  ]
+}
