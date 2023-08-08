@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "094-m",
+      "name": "Mega Gengar",
+      "img": "https://www.serebii.net/pokemon/art/094-m.png"
+    },
+    {
+      "id": "302-m",
+      "name": "Mega Sableye",
+      "img": "https://www.serebii.net/pokemon/art/302-m.png"
+    },
+    {
+      "id": "354-m",
+      "name": "Mega Banette",
+      "img": "https://www.serebii.net/pokemon/art/354-m.png"
+    },
+    {
+      "id": 679,
+      "name": "Honedge",
+      "img": "https://www.serebii.net/pokemon/art/679.png"
+    },
+    {
+      "id": 680,
+      "name": "Doublade",
+      "img": "https://www.serebii.net/pokemon/art/680.png"
+    },
+    {
+      "id": 681,
+      "name": "Aegislash",
+      "img": "https://www.serebii.net/pokemon/art/681.png"
+    },
+    {
+      "id": 708,
+      "name": "Phantump",
+      "img": "https://www.serebii.net/pokemon/art/708.png"
+    },
+    {
+      "id": 709,
+      "name": "Trevenant",
+      "img": "https://www.serebii.net/pokemon/art/709.png"
+    },
+    {
+      "id": 710,
+      "name": "Pumpkaboo",
+      "img": "https://www.serebii.net/pokemon/art/710.png"
+    },
+    {
+      "id": 711,
+      "name": "Gourgeist",
+      "img": "https://www.serebii.net/pokemon/art/711.png"
+    },
+    {
+      "id": 720,
+      "name": "Hoopa",
+      "img": "https://www.serebii.net/pokemon/art/720.png"
+    }
+  ]
+}
