@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "122-g",
+      "name": "Galarian Mr. Mime",
+      "img": "https://www.serebii.net/swordshield/pokemon/122-g.png"
+    },
+    {
+      "id": "554-g",
+      "name": "Galarian Darumaka",
+      "img": "https://www.serebii.net/swordshield/pokemon/554-g.png"
+    },
+    {
+      "id": "555-g",
+      "name": "Galarian Darmanitan",
+      "img": "https://www.serebii.net/swordshield/pokemon/555-g.png"
+    },
+    {
+      "id": "555-g",
+      "name": "Galarian Darmanitan Zen Mode",
+      "img": "https://www.serebii.net/swordshield/pokemon/555-gz.png"
+    },
+    {
+      "id": 866,
+      "name": "Mr. Rime",
+      "img": "https://www.serebii.net/pokemon/art/866.png"
+    },
+    {
+      "id": 872,
+      "name": "Snom",
+      "img": "https://www.serebii.net/pokemon/art/872.png"
+    },
+    {
+      "id": 873,
+      "name": "Frosmoth",
+      "img": "https://www.serebii.net/pokemon/art/873.png"
+    },
+    {
+      "id": "875",
+      "name": "Eiscue Ice Face",
+      "img": "https://www.serebii.net/pokemon/art/875.png"
+    },
+    {
+      "id": "875-n",
+      "name": "Eiscue Noice Face",
+      "img": "https://www.serebii.net/pokemon/art/875-n.png"
+    },
+    {
+      "id": 881,
+      "name": "Arctozolt",
+      "img": "https://www.serebii.net/pokemon/art/881.png"
+    },
+    {
+      "id": 883,
+      "name": "Arctovish",
+      "img": "https://www.serebii.net/pokemon/art/883.png"
+    },
+    {
+      "id": 896,
+      "name": "Glastrier",
+      "img": "https://www.serebii.net/pokemon/art/896.png"
+    },
+    {
+      "id": "898-i",
+      "name": "Calyrex Ice Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-i.png"
+    },
+    {
+      "id": 713,
+      "name": "Hisuian Avalugg",
+      "img": "https://www.serebii.net/art/th/713-h.png"
+    }
+  ]
+}
