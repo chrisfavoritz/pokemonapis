@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 926,
+      "name": "Fidough",
+      "img": "https://www.serebii.net/pokemon/art/926.png"
+    },
+    {
+      "id": 927,
+      "name": "Dachsbun",
+      "img": "https://www.serebii.net/pokemon/art/927.png"
+    },
+    {
+      "id": 957,
+      "name": "Tinkatink",
+      "img": "https://www.serebii.net/pokemon/art/957.png"
+    },
+    {
+      "id": 958,
+      "name": "Tinkatuff",
+      "img": "https://www.serebii.net/pokemon/art/958.png"
+    },
+    {
+      "id": 959,
+      "name": "Tinkaton",
+      "img": "https://www.serebii.net/pokemon/art/959.png"
+    },
+    {
+      "id": 985,
+      "name": "Scream Tail",
+      "img": "https://www.serebii.net/pokemon/art/985.png"
+    },
+    {
+      "id": 987,
+      "name": "Flutter Mane",
+      "img": "https://www.serebii.net/pokemon/art/987.png"
+    },
+    {
+      "id": 1006,
+      "name": "Iron Valiant",
+      "img": "https://www.serebii.net/pokemon/art/1006.png"
+    }
+  ]
+}
