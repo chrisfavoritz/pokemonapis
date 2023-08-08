@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": "222-g",
+      "name": "Galarian Corsola",
+      "img": "https://www.serebii.net/swordshield/pokemon/222-g.png"
+    },
+    {
+      "id": "562-g",
+      "name": "Galarian Yamask",
+      "img": "https://www.serebii.net/swordshield/pokemon/562-g.png"
+    },
+    {
+      "id": 854,
+      "name": "Sinistea",
+      "img": "https://www.serebii.net/pokemon/art/854.png"
+    },
+    {
+      "id": 855,
+      "name": "Polteageist",
+      "img": "https://www.serebii.net/pokemon/art/855.png"
+    },
+    {
+      "id": 864,
+      "name": "Cursola",
+      "img": "https://www.serebii.net/pokemon/art/864.png"
+    },
+    {
+      "id": 867,
+      "name": "Runerigus",
+      "img": "https://www.serebii.net/pokemon/art/867.png"
+    },
+    {
+      "id": 885,
+      "name": "Dreepy",
+      "img": "https://www.serebii.net/pokemon/art/885.png"
+    },
+    {
+      "id": 886,
+      "name": "Drakloak",
+      "img": "https://www.serebii.net/pokemon/art/886.png"
+    },
+    {
+      "id": 887,
+      "name": "Dragapult",
+      "img": "https://www.serebii.net/pokemon/art/887.png"
+    },
+    {
+      "id": 897,
+      "name": "Spectrier",
+      "img": "https://www.serebii.net/pokemon/art/897.png"
+    },
+    {
+      "id": "898-s",
+      "name": "Calyrex Shadow Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-s.png"
+    },
+    {
+      "id": 157,
+      "name": "Hisuian Typhlosion",
+      "img": "https://www.serebii.net/art/th/157-h.png"
+    },
+    {
+      "id": 570,
+      "name": "Hisuian Zorua",
+      "img": "https://www.serebii.net/art/th/570-h.png"
+    },
+    {
+      "id": 571,
+      "name": "Hisuian Zoroark",
+      "img": "https://www.serebii.net/art/th/571-h.png"
+    },
+    {
+      "id": 902,
+      "name": "Basculegion",
+      "img": "https://www.serebii.net/pokemon/art/902.png"
+    }
+  ]
+}
