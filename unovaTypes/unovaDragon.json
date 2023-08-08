@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 610,
+      "name": "Axew",
+      "img": "https://www.serebii.net/pokemon/art/610.png"
+    },
+    {
+      "id": 611,
+      "name": "Fraxure",
+      "img": "https://www.serebii.net/pokemon/art/611.png"
+    },
+    {
+      "id": 612,
+      "name": "Haxorus",
+      "img": "https://www.serebii.net/pokemon/art/612.png"
+    },
+    {
+      "id": 621,
+      "name": "Druddigon",
+      "img": "https://www.serebii.net/pokemon/art/621.png"
+    },
+    {
+      "id": 633,
+      "name": "Deino",
+      "img": "https://www.serebii.net/pokemon/art/633.png"
+    },
+    {
+      "id": 634,
+      "name": "Zweilous",
+      "img": "https://www.serebii.net/pokemon/art/634.png"
+    },
+    {
+      "id": 635,
+      "name": "Hydreigon",
+      "img": "https://www.serebii.net/pokemon/art/635.png"
+    },
+    {
+      "id": 643,
+      "name": "Reshiram",
+      "img": "https://www.serebii.net/pokemon/art/643.png"
+    },
+    {
+      "id": 644,
+      "name": "Zekrom",
+      "img": "https://www.serebii.net/pokemon/art/644.png"
+    },
+    {
+      "id": 646,
+      "name": "Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646.png"
+    },
+    {
+      "id": "646-b",
+      "name": "Kyurem Black Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646-b.png"
+    },
+    {
+      "id": "646-w",
+      "name": "Kyurem White Kyurem",
+      "img": "https://www.serebii.net/pokemon/art/646-w.png"
+    }
+  ]
+}
