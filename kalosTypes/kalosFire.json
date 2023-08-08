@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "006-mx",
+      "name": "Mega Charizard X",
+      "img": "https://www.serebii.net/pokemon/art/006-mx.png"
+    },
+    {
+      "id": "006-my",
+      "name": "Mega Charizard Y",
+      "img": "https://www.serebii.net/pokemon/art/006-my.png"
+    },
+    {
+      "id": "229-m",
+      "name": "Mega Houndoom",
+      "img": "https://www.serebii.net/pokemon/art/229-m.png"
+    },
+    {
+      "id": "257-m",
+      "name": "Mega Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257-m.png"
+    },
+    {
+      "id": "323-m",
+      "name": "Mega Camerupt",
+      "img": "https://www.serebii.net/pokemon/art/323-m.png"
+    },
+    {
+      "id": "383-p",
+      "name": "Primal Groudon",
+      "img": "https://www.serebii.net/pokemon/art/383-m.png"
+    },
+    {
+      "id": 653,
+      "name": "Fennekin",
+      "img": "https://www.serebii.net/pokemon/art/653.png"
+    },
+    {
+      "id": 654,
+      "name": "Braixen",
+      "img": "https://www.serebii.net/pokemon/art/654.png"
+    },
+    {
+      "id": 655,
+      "name": "Delphox",
+      "img": "https://www.serebii.net/pokemon/art/655.png"
+    },
+    {
+      "id": 662,
+      "name": "Fletchinder",
+      "img": "https://www.serebii.net/pokemon/art/662.png"
+    },
+    {
+      "id": 663,
+      "name": "Talonflame",
+      "img": "https://www.serebii.net/pokemon/art/663.png"
+    },
+    {
+      "id": 667,
+      "name": "Litleo",
+      "img": "https://www.serebii.net/pokemon/art/667.png"
+    },
+    {
+      "id": 668,
+      "name": "Pyroar",
+      "img": "https://www.serebii.net/pokemon/art/668.png"
+    },
+    {
+      "id": 721,
+      "name": "Volcanion",
+      "img": "https://www.serebii.net/pokemon/art/721.png"
+    }
+  ]
+}
