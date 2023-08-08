@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "19-a",
+      "name": "Alolan Rattata",
+      "img": "https://www.serebii.net/art/th/19-a.png"
+    },
+    {
+      "id": "20-a",
+      "name": "Alolan Raticate",
+      "img": "https://www.serebii.net/art/th/20-a.png"
+    },
+    {
+      "id": 731,
+      "name": "Pikipek",
+      "img": "https://www.serebii.net/pokemon/art/731.png"
+    },
+    {
+      "id": 732,
+      "name": "Trumbeak",
+      "img": "https://www.serebii.net/pokemon/art/732.png"
+    },
+    {
+      "id": 733,
+      "name": "Toucannon",
+      "img": "https://www.serebii.net/pokemon/art/733.png"
+    },
+    {
+      "id": 734,
+      "name": "Yungoos",
+      "img": "https://www.serebii.net/pokemon/art/734.png"
+    },
+    {
+      "id": 735,
+      "name": "Gumshoos",
+      "img": "https://www.serebii.net/pokemon/art/735.png"
+    },
+    {
+      "id": 759,
+      "name": "Stufful",
+      "img": "https://www.serebii.net/pokemon/art/759.png"
+    },
+    {
+      "id": 760,
+      "name": "Bewear",
+      "img": "https://www.serebii.net/pokemon/art/760.png"
+    },
+    {
+      "id": 765,
+      "name": "Oranguru",
+      "img": "https://www.serebii.net/pokemon/art/765.png"
+    },
+    {
+      "id": 772,
+      "name": "Type: Null",
+      "img": "https://www.serebii.net/pokemon/art/772.png"
+    },
+    {
+      "id": 773,
+      "name": "Silvally",
+      "img": "https://www.serebii.net/pokemon/art/773.png"
+    },
+    {
+      "id": 775,
+      "name": "Komala",
+      "img": "https://www.serebii.net/pokemon/art/775.png"
+    },
+    {
+      "id": 780,
+      "name": "Drampa",
+      "img": "https://www.serebii.net/pokemon/art/780.png"
+    }
+  ]
+}
