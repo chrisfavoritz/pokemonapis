@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 736,
+      "name": "Grubbin",
+      "img": "https://www.serebii.net/pokemon/art/736.png"
+    },
+    {
+      "id": 737,
+      "name": "Charjabug",
+      "img": "https://www.serebii.net/pokemon/art/737.png"
+    },
+    {
+      "id": 738,
+      "name": "Vikavolt",
+      "img": "https://www.serebii.net/pokemon/art/738.png"
+    },
+    {
+      "id": 701,
+      "name": "Cutiefly",
+      "img": "https://www.serebii.net/pokemon/art/701.png"
+    },
+    {
+      "id": 742,
+      "name": "Ribombee",
+      "img": "https://www.serebii.net/pokemon/art/742.png"
+    },
+    {
+      "id": 751,
+      "name": "Dewpider",
+      "img": "https://www.serebii.net/pokemon/art/751.png"
+    },
+    {
+      "id": 752,
+      "name": "Araquanid",
+      "img": "https://www.serebii.net/pokemon/art/752.png"
+    },
+    {
+      "id": 767,
+      "name": "Wimpod",
+      "img": "https://www.serebii.net/pokemon/art/767.png"
+    },
+    {
+      "id": 771,
+      "name": "Golisopod",
+      "img": "https://www.serebii.net/pokemon/art/771.png"
+    },
+    {
+      "id": 794,
+      "name": "Buzzwole",
+      "img": "https://www.serebii.net/pokemon/art/794.png"
+    },
+    {
+      "id": 795,
+      "name": "Pheromosa",
+      "img": "https://www.serebii.net/pokemon/art/795.png"
+    }
+  ]
+}
