@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 739,
+      "name": "Crabrawler",
+      "img": "https://www.serebii.net/pokemon/art/739.png"
+    },
+    {
+      "id": 740,
+      "name": "Crabominable",
+      "img": "https://www.serebii.net/pokemon/art/740.png"
+    },
+    {
+      "id": 760,
+      "name": "Stufful",
+      "img": "https://www.serebii.net/pokemon/art/760.png"
+    },
+    {
+      "id": 761,
+      "name": "Bewear",
+      "img": "https://www.serebii.net/pokemon/art/761.png"
+    },
+    {
+      "id": 766,
+      "name": "Passimian",
+      "img": "https://www.serebii.net/pokemon/art/766.png"
+    },
+    {
+      "id": 783,
+      "name": "Hakamo-o",
+      "img": "https://www.serebii.net/pokemon/art/783.png"
+    },
+    {
+      "id": 784,
+      "name": "Kommo-o",
+      "img": "https://www.serebii.net/pokemon/art/784.png"
+    },
+    {
+      "id": 794,
+      "name": "Buzzwole",
+      "img": "https://www.serebii.net/pokemon/art/794.png"
+    },
+    {
+      "id": 795,
+      "name": "Pheromosa",
+      "img": "https://www.serebii.net/pokemon/art/795.png"
+    },
+    {
+      "id": 802,
+      "name": "Marshadow",
+      "img": "https://www.serebii.net/pokemon/art/802.png"
+    }
+  ]
+}
