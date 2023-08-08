@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 177,
+      "name": "Natu",
+      "img": "https://www.serebii.net/pokemon/art/177.png"
+    },
+    {
+      "id": 178,
+      "name": "Xatu",
+      "img": "https://www.serebii.net/pokemon/art/178.png"
+    },
+    {
+      "id": 196,
+      "name": "Espeon",
+      "img": "https://www.serebii.net/pokemon/art/196.png"
+    },
+    {
+      "id": 199,
+      "name": "Slowking",
+      "img": "https://www.serebii.net/pokemon/art/199.png"
+    },
+    {
+      "id": 201,
+      "name": "Unown",
+      "img": "https://www.serebii.net/pokemon/art/201.png"
+    },
+    {
+      "id": 202,
+      "name": "Wobbuffet",
+      "img": "https://www.serebii.net/pokemon/art/202.png"
+    },
+    {
+      "id": 203,
+      "name": "Girafarig",
+      "img": "https://www.serebii.net/pokemon/art/203.png"
+    },
+    {
+      "id": 238,
+      "name": "Smoochum",
+      "img": "https://www.serebii.net/pokemon/art/238.png"
+    },
+    {
+      "id": 249,
+      "name": "Lugia",
+      "img": "https://www.serebii.net/pokemon/art/249.png"
+    },
+    {
+      "id": 251,
+      "name": "Celebi",
+      "img": "https://www.serebii.net/pokemon/art/251.png"
+    }
+  ]
+}
