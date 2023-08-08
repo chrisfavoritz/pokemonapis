@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 529,
+      "name": "Drilbur",
+      "img": "https://www.serebii.net/pokemon/art/529.png"
+    },
+    {
+      "id": 530,
+      "name": "Excadrill",
+      "img": "https://www.serebii.net/pokemon/art/530.png"
+    },
+    {
+      "id": 536,
+      "name": "Palpitoad",
+      "img": "https://www.serebii.net/pokemon/art/536.png"
+    },
+    {
+      "id": 537,
+      "name": "Seismitoad",
+      "img": "https://www.serebii.net/pokemon/art/537.png"
+    },
+    {
+      "id": 551,
+      "name": "Sandile",
+      "img": "https://www.serebii.net/pokemon/art/551.png"
+    },
+    {
+      "id": 552,
+      "name": "Krokorok",
+      "img": "https://www.serebii.net/pokemon/art/552.png"
+    },
+    {
+      "id": 553,
+      "name": "Krookodile",
+      "img": "https://www.serebii.net/pokemon/art/553.png"
+    },
+    {
+      "id": 618,
+      "name": "Stunfisk",
+      "img": "https://www.serebii.net/pokemon/art/618.png"
+    },
+    {
+      "id": 622,
+      "name": "Golett",
+      "img": "https://www.serebii.net/pokemon/art/622.png"
+    },
+    {
+      "id": 623,
+      "name": "Golurk",
+      "img": "https://www.serebii.net/pokemon/art/623.png"
+    },
+    {
+      "id": "645",
+      "name": "Landorus",
+      "img": "https://www.serebii.net/pokemon/art/645.png"
+    },
+    {
+      "id": "645-t",
+      "name": "Landorus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/645-t.png"
+    }
+  ]
+}
