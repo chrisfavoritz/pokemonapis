@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 158,
+      "name": "Totodile",
+      "img": "https://www.serebii.net/pokemon/art/158.png"
+    },
+    {
+      "id": 159,
+      "name": "Croconaw",
+      "img": "https://www.serebii.net/pokemon/art/159.png"
+    },
+    {
+      "id": 160,
+      "name": "Feraligatr",
+      "img": "https://www.serebii.net/pokemon/art/160.png"
+    },
+    {
+      "id": 170,
+      "name": "Chinchou",
+      "img": "https://www.serebii.net/pokemon/art/170.png"
+    },
+    {
+      "id": 171,
+      "name": "Lanturn",
+      "img": "https://www.serebii.net/pokemon/art/171.png"
+    },
+    {
+      "id": 183,
+      "name": "Marill",
+      "img": "https://www.serebii.net/pokemon/art/183.png"
+    },
+    {
+      "id": 184,
+      "name": "Azumarill",
+      "img": "https://www.serebii.net/pokemon/art/184.png"
+    },
+    {
+      "id": 186,
+      "name": "Politoed",
+      "img": "https://www.serebii.net/pokemon/art/186.png"
+    },
+    {
+      "id": 194,
+      "name": "Wooper",
+      "img": "https://www.serebii.net/pokemon/art/194.png"
+    },
+    {
+      "id": 195,
+      "name": "Quagsire",
+      "img": "https://www.serebii.net/pokemon/art/195.png"
+    },
+    {
+      "id": 199,
+      "name": "Slowking",
+      "img": "https://www.serebii.net/pokemon/art/199.png"
+    },
+    {
+      "id": 211,
+      "name": "Qwilfish",
+      "img": "https://www.serebii.net/pokemon/art/211.png"
+    },
+    {
+      "id": 222,
+      "name": "Corsola",
+      "img": "https://www.serebii.net/pokemon/art/222.png"
+    },
+    {
+      "id": 223,
+      "name": "Remoraid",
+      "img": "https://www.serebii.net/pokemon/art/223.png"
+    },
+    {
+      "id": 224,
+      "name": "Octillery",
+      "img": "https://www.serebii.net/pokemon/art/224.png"
+    },
+    {
+      "id": 226,
+      "name": "Mantine",
+      "img": "https://www.serebii.net/pokemon/art/226.png"
+    },
+    {
+      "id": 230,
+      "name": "Kingdra",
+      "img": "https://www.serebii.net/pokemon/art/230.png"
+    },
+    {
+      "id": 245,
+      "name": "Suicune",
+      "img": "https://www.serebii.net/pokemon/art/245.png"
+    }
+  ]
+}
