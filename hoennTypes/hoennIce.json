@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 361,
+      "name": "Snorunt",
+      "img": "https://www.serebii.net/pokemon/art/361.png"
+    },
+    {
+      "id": 362,
+      "name": "Glalie",
+      "img": "https://www.serebii.net/pokemon/art/362.png"
+    },
+    {
+      "id": 363,
+      "name": "Spheal",
+      "img": "https://www.serebii.net/pokemon/art/363.png"
+    },
+    {
+      "id": 364,
+      "name": "Sealeo",
+      "img": "https://www.serebii.net/pokemon/art/364.png"
+    },
+    {
+      "id": 365,
+      "name": "Walrein",
+      "img": "https://www.serebii.net/pokemon/art/365.png"
+    },
+    {
+      "id": 378,
+      "name": "Regice",
+      "img": "https://www.serebii.net/pokemon/art/378.png"
+    }
+  ]
+}
