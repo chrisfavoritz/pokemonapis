@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "88-a",
+      "name": "Alolan Grimer",
+      "img": "https://www.serebii.net/art/th/88-a.png"
+    },
+    {
+      "id": "89-a",
+      "name": "Alolan Muk",
+      "img": "https://www.serebii.net/art/th/89-a.png"
+    },
+    {
+      "id": 747,
+      "name": "Mareanie",
+      "img": "https://www.serebii.net/pokemon/art/747.png"
+    },
+    {
+      "id": 748,
+      "name": "Toxapex",
+      "img": "https://www.serebii.net/pokemon/art/748.png"
+    },
+    {
+      "id": 757,
+      "name": "Salandit",
+      "img": "https://www.serebii.net/pokemon/art/757.png"
+    },
+    {
+      "id": 758,
+      "name": "Salazzle",
+      "img": "https://www.serebii.net/pokemon/art/758.png"
+    },
+    {
+      "id": 793,
+      "name": "Nihilego",
+      "img": "https://www.serebii.net/pokemon/art/793.png"
+    },
+    {
+      "id": 803,
+      "name": "Poipole",
+      "img": "https://www.serebii.net/pokemon/art/803.png"
+    },
+    {
+      "id": 804,
+      "name": "Naganadel",
+      "img": "https://www.serebii.net/pokemon/art/804.png"
+    }
+  ]
+}
