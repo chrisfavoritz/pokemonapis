@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 267,
+      "name": "Beautifly",
+      "img": "https://www.serebii.net/pokemon/art/267.png"
+    },
+    {
+      "id": 276,
+      "name": "Taillow",
+      "img": "https://www.serebii.net/pokemon/art/276.png"
+    },
+    {
+      "id": 277,
+      "name": "Swellow",
+      "img": "https://www.serebii.net/pokemon/art/277.png"
+    },
+    {
+      "id": 278,
+      "name": "Wingull",
+      "img": "https://www.serebii.net/pokemon/art/278.png"
+    },
+    {
+      "id": 279,
+      "name": "Pelipper",
+      "img": "https://www.serebii.net/pokemon/art/279.png"
+    },
+    {
+      "id": 284,
+      "name": "Masquerain",
+      "img": "https://www.serebii.net/pokemon/art/284.png"
+    },
+    {
+      "id": 291,
+      "name": "Ninjask",
+      "img": "https://www.serebii.net/pokemon/art/291.png"
+    },
+    {
+      "id": 333,
+      "name": "Swablu",
+      "img": "https://www.serebii.net/pokemon/art/333.png"
+    },
+    {
+      "id": 334,
+      "name": "Altaria",
+      "img": "https://www.serebii.net/pokemon/art/334.png"
+    },
+    {
+      "id": 357,
+      "name": "Tropius",
+      "img": "https://www.serebii.net/pokemon/art/357.png"
+    },
+    {
+      "id": 372,
+      "name": "Salamence",
+      "img": "https://www.serebii.net/pokemon/art/372.png"
+    },
+    {
+      "id": 384,
+      "name": "Rayquaza",
+      "img": "https://www.serebii.net/pokemon/art/384.png"
+    }
+  ]
+}
