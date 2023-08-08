@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": 908,
+      "name": "Meowscarada",
+      "img": "https://www.serebii.net/pokemon/art/908.png"
+    },
+    {
+      "id": 920,
+      "name": "Lokix",
+      "img": "https://www.serebii.net/pokemon/art/920.png"
+    },
+    {
+      "id": 942,
+      "name": "Maschiff",
+      "img": "https://www.serebii.net/pokemon/art/942.png"
+    },
+    {
+      "id": 943,
+      "name": "Mabosstiff",
+      "img": "https://www.serebii.net/pokemon/art/943.png"
+    },
+    {
+      "id": 962,
+      "name": "Bombirdier",
+      "img": "https://www.serebii.net/pokemon/art/962.png"
+    },
+    {
+      "id": 983,
+      "name": "Kingambit",
+      "img": "https://www.serebii.net/pokemon/art/983.png"
+    },
+    {
+      "id": 986,
+      "name": "Brute Bonnet",
+      "img": "https://www.serebii.net/pokemon/art/986.png"
+    },
+    {
+      "id": 993,
+      "name": "Iron Jugulis",
+      "img": "https://www.serebii.net/pokemon/art/993.png"
+    },
+    {
+      "id": 1001,
+      "name": "Wo-Chien",
+      "img": "https://www.serebii.net/pokemon/art/1001.png"
+    },
+    {
+      "id": 1002,
+      "name": "Chien-Pao",
+      "img": "https://www.serebii.net/pokemon/art/1002.png"
+    },
+    {
+      "id": 1003,
+      "name": "Ting-Lu",
+      "img": "https://www.serebii.net/pokemon/art/1003.png"
+    },
+    {
+      "id": 1004,
+      "name": "Chi-Yu",
+      "img": "https://www.serebii.net/pokemon/art/1004.png"
+    },
+    {
+      "id": 1005,
+      "name": "Roaring Moon",
+      "img": "https://www.serebii.net/pokemon/art/1005.png"
+    }
+  ]
+}
