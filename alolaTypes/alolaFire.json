@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "105-a",
+      "name": "Alolan Marowak",
+      "img": "https://www.serebii.net/art/th/105-a.png"
+    },
+    {
+      "id": 725,
+      "name": "Litten",
+      "img": "https://www.serebii.net/pokemon/art/725.png"
+    },
+    {
+      "id": 726,
+      "name": "Torracat",
+      "img": "https://www.serebii.net/pokemon/art/726.png"
+    },
+    {
+      "id": 727,
+      "name": "Incineroar",
+      "img": "https://www.serebii.net/pokemon/art/727.png"
+    },
+    {
+      "id": "741",
+      "name": "Oricorio Baile Style",
+      "img": "https://www.serebii.net/pokemon/art/741.png"
+    },
+    {
+      "id": 757,
+      "name": "Salandit",
+      "img": "https://www.serebii.net/pokemon/art/757.png"
+    },
+    {
+      "id": 758,
+      "name": "Salazzle",
+      "img": "https://www.serebii.net/pokemon/art/758.png"
+    },
+    {
+      "id": 776,
+      "name": "Turtonator",
+      "img": "https://www.serebii.net/pokemon/art/776.png"
+    },
+    {
+      "id": 806,
+      "name": "Blacephalon",
+      "img": "https://www.serebii.net/pokemon/art/806.png"
+    }
+  ]
+}
