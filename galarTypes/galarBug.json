@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 824,
+      "name": "Blipbug",
+      "img": "https://www.serebii.net/pokemon/art/824.png"
+    },
+    {
+      "id": 825,
+      "name": "Dottler",
+      "img": "https://www.serebii.net/pokemon/art/825.png"
+    },
+    {
+      "id": 826,
+      "name": "Orbeetle",
+      "img": "https://www.serebii.net/pokemon/art/826.png"
+    },
+    {
+      "id": 850,
+      "name": "Sizzlipede",
+      "img": "https://www.serebii.net/pokemon/art/850.png"
+    },
+    {
+      "id": 851,
+      "name": "Centiskorch",
+      "img": "https://www.serebii.net/pokemon/art/851.png"
+    },
+     {
+      "id": 872,
+      "name": "Snom",
+      "img": "https://www.serebii.net/pokemon/art/872.png"
+    },
+    {
+      "id": 873,
+      "name": "Frosmoth",
+      "img": "https://www.serebii.net/pokemon/art/873.png"
+    },
+    {
+      "id": 900,
+      "name": "Kleavor",
+      "img": "https://www.serebii.net/pokemon/art/900.png"
+    }
+  ]
+}
