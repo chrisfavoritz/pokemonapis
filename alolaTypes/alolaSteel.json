@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": "27-a",
+      "name": "Alolan Sandshrew",
+      "img": "https://www.serebii.net/art/th/27-a.png"
+    },
+    {
+      "id": "28-a",
+      "name": "Alolan Sandslash",
+      "img": "https://www.serebii.net/art/th/28-a.png"
+    },
+    {
+      "id": "37-a",
+      "name": "Alolan Vulpix",
+      "img": "https://www.serebii.net/art/th/37-a.png"
+    },
+    {
+      "id": "38-a",
+      "name": "Alolan Ninetales",
+      "img": "https://www.serebii.net/art/th/38-a.png"
+    },
+    {
+      "id": "50-a",
+      "name": "Alolan Diglett",
+      "img": "https://www.serebii.net/art/th/50-a.png"
+    },
+    {
+      "id": "51-a",
+      "name": "Alolan Dugtrio",
+      "img": "https://www.serebii.net/art/th/51-a.png"
+    },
+    {
+      "id": 777,
+      "name": "Togedemaru",
+      "img": "https://www.serebii.net/pokemon/art/777.png"
+    },
+    {
+      "id": 791,
+      "name": "Solgaleo",
+      "img": "https://www.serebii.net/pokemon/art/791.png"
+    },
+    {
+      "id": 797,
+      "name": "Celesteela",
+      "img": "https://www.serebii.net/pokemon/art/797.png"
+    },
+    {
+      "id": 798,
+      "name": "Kartana",
+      "img": "https://www.serebii.net/pokemon/art/798.png"
+    },
+    {
+      "id": "800-d",
+      "name": "Necrozma Dusk Mane",
+      "img": "https://www.serebii.net/pokemon/art/800-dm.png"
+    },
+    {
+      "id": 801,
+      "name": "Magearna",
+      "img": "https://www.serebii.net/pokemon/art/801.png"
+    },
+    {
+      "id": 805,
+      "name": "Stakataka",
+      "img": "https://www.serebii.net/pokemon/art/805.png"
+    },
+    {
+      "id": 808,
+      "name": "Meltan",
+      "img": "https://www.serebii.net/pokemon/art/808.png"
+    },
+    {
+      "id": 809,
+      "name": "Melmetal",
+      "img": "https://www.serebii.net/pokemon/art/809.png"
+    }
+  ]
+}
