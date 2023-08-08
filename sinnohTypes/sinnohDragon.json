@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": 147,
+      "name": "Dratini",
+      "img": "https://www.serebii.net/pokemon/art/147.png"
+    },
+    {
+      "id": 148,
+      "name": "Dragonair",
+      "img": "https://www.serebii.net/pokemon/art/148.png"
+    },
+    {
+      "id": 149,
+      "name": "Dragonite",
+      "img": "https://www.serebii.net/pokemon/art/149.png"
+    },
+    {
+      "id": 230,
+      "name": "Kingdra",
+      "img": "https://www.serebii.net/pokemon/art/230.png"
+    },
+    {
+      "id": 329,
+      "name": "Vibrava",
+      "img": "https://www.serebii.net/pokemon/art/329.png"
+    },
+    {
+      "id": 330,
+      "name": "Flygon",
+      "img": "https://www.serebii.net/pokemon/art/330.png"
+    },
+    {
+      "id": 334,
+      "name": "Altaria",
+      "img": "https://www.serebii.net/pokemon/art/334.png"
+    },
+    {
+      "id": 371,
+      "name": "Bagon",
+      "img": "https://www.serebii.net/pokemon/art/371.png"
+    },
+    {
+      "id": 372,
+      "name": "Shelgon",
+      "img": "https://www.serebii.net/pokemon/art/372.png"
+    },
+    {
+      "id": 373,
+      "name": "Salamence",
+      "img": "https://www.serebii.net/pokemon/art/373.png"
+    },
+       {
+      "id": 380,
+      "name": "Latias",
+      "img": "https://www.serebii.net/pokemon/art/380.png"
+    },
+    {
+      "id": 381,
+      "name": "Latios",
+      "img": "https://www.serebii.net/pokemon/art/381.png"
+    },
+    {
+      "id": 384,
+      "name": "Rayquaza",
+      "img": "https://www.serebii.net/pokemon/art/384.png"
+    },
+    {
+      "id": 443,
+      "name": "Gible",
+      "img": "https://www.serebii.net/pokemon/art/443.png"
+    },
+    {
+      "id": 444,
+      "name": "Gabite",
+      "img": "https://www.serebii.net/pokemon/art/444.png"
+    },
+    {
+      "id": 445,
+      "name": "Garchomp",
+      "img": "https://www.serebii.net/pokemon/art/445.png"
+    },
+    {
+      "id": 483,
+      "name": "Dialga",
+      "img": "https://www.serebii.net/pokemon/art/483.png"
+    },
+    {
+      "id": 484,
+      "name": "Palkia",
+      "img": "https://www.serebii.net/pokemon/art/484.png"
+    },
+    {
+      "id": 487,
+      "name": "Giratina",
+      "img": "https://www.serebii.net/pokemon/art/487.png"
+    },
+    {
+      "id": "487-o",
+      "name": "Giratina Origin Forme",
+      "img": "https://www.serebii.net/pokemon/art/487-o.png"
+    }
+  ]
+}
