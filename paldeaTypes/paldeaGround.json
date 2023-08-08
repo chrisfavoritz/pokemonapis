@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "194-p",
+      "name": "Paldean Wooper",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/194-p.png"
+    },
+    {
+      "id": 948,
+      "name": "Toedscool",
+      "img": "https://www.serebii.net/pokemon/art/948.png"
+    },
+    {
+      "id": 949,
+      "name": "Toedscruel",
+      "img": "https://www.serebii.net/pokemon/art/949.png"
+    },
+    {
+      "id": 980,
+      "name": "Clodsire",
+      "img": "https://www.serebii.net/pokemon/art/980.png"
+    },
+    {
+      "id": 984,
+      "name": "Great Tusk",
+      "img": "https://www.serebii.net/pokemon/art/984.png"
+    },
+    {
+      "id": 989,
+      "name": "Sandy Shocks",
+      "img": "https://www.serebii.net/pokemon/art/989.png"
+    },
+    {
+      "id": 990,
+      "name": "Iron Treads",
+      "img": "https://www.serebii.net/pokemon/art/990.png"
+    },
+    {
+      "id": 1003,
+      "name": "Ting-Lu",
+      "img": "https://www.serebii.net/pokemon/art/1003.png"
+    }
+  ]
+}
