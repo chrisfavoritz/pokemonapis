@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 562,
+      "name": "Yamask",
+      "img": "https://www.serebii.net/pokemon/art/562.png"
+    },
+    {
+      "id": 563,
+      "name": "Cofagrigus",
+      "img": "https://www.serebii.net/pokemon/art/563.png"
+    },
+    {
+      "id": 592,
+      "name": "Frillish",
+      "img": "https://www.serebii.net/pokemon/art/592.png"
+    },
+    {
+      "id": 593,
+      "name": "Jellicent",
+      "img": "https://www.serebii.net/pokemon/art/593.png"
+    },
+    {
+      "id": 607,
+      "name": "Litwick",
+      "img": "https://www.serebii.net/pokemon/art/607.png"
+    },
+    {
+      "id": 608,
+      "name": "Lampent",
+      "img": "https://www.serebii.net/pokemon/art/608.png"
+    },
+    {
+      "id": 609,
+      "name": "Chandelure",
+      "img": "https://www.serebii.net/pokemon/art/609.png"
+    },
+    {
+      "id": 622,
+      "name": "Golett",
+      "img": "https://www.serebii.net/pokemon/art/622.png"
+    },
+    {
+      "id": 623,
+      "name": "Golurk",
+      "img": "https://www.serebii.net/pokemon/art/623.png"
+    }
+  ]
+}
