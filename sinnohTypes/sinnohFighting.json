@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 391,
+      "name": "Monferno",
+      "img": "https://www.serebii.net/pokemon/art/391.png"
+    },
+    {
+      "id": 392,
+      "name": "Infernape",
+      "img": "https://www.serebii.net/pokemon/art/392.png"
+    },
+    {
+      "id": 447,
+      "name": "Riolu",
+      "img": "https://www.serebii.net/pokemon/art/447.png"
+    },
+    {
+      "id": 448,
+      "name": "Lucario",
+      "img": "https://www.serebii.net/pokemon/art/448.png"
+    },
+    {
+      "id": 453,
+      "name": "Croagunk",
+      "img": "https://www.serebii.net/pokemon/art/453.png"
+    },
+    {
+      "id": 454,
+      "name": "Toxicroak",
+      "img": "https://www.serebii.net/pokemon/art/454.png"
+    },
+    {
+      "id": 475,
+      "name": "Gallade",
+      "img": "https://www.serebii.net/pokemon/art/475.png"
+    }
+  ]
+}
