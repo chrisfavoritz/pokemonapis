@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 835,
+      "name": "Yamper",
+      "img": "https://www.serebii.net/pokemon/art/835.png"
+    },
+    {
+      "id": 836,
+      "name": "Boltund",
+      "img": "https://www.serebii.net/pokemon/art/836.png"
+    },
+    {
+      "id": 848,
+      "name": "Toxel",
+      "img": "https://www.serebii.net/pokemon/art/848.png"
+    },
+    {
+      "id": 849,
+      "name": "Toxtricity",
+      "img": "https://www.serebii.net/pokemon/art/849.png"
+    },
+    {
+      "id": "849",
+      "name": "Toxtricity Low Key Form",
+      "img": "https://www.serebii.net/pokemon/art/849-l.png"
+    },
+    {
+      "id": 871,
+      "name": "Pincurchin",
+      "img": "https://www.serebii.net/pokemon/art/871.png"
+    },
+    {
+      "id": 877,
+      "name": "Morpeko",
+      "img": "https://www.serebii.net/pokemon/art/877.png"
+    },
+    {
+      "id": 880,
+      "name": "Dracozolt",
+      "img": "https://www.serebii.net/pokemon/art/880.png"
+    },
+    {
+      "id": 881,
+      "name": "Arctozolt",
+      "img": "https://www.serebii.net/pokemon/art/881.png"
+    },
+    {
+      "id": 894,
+      "name": "Regieleki",
+      "img": "https://www.serebii.net/pokemon/art/894.png"
+    },
+    {
+      "id": 100,
+      "name": "Hisuian Voltorb",
+      "img": "https://www.serebii.net/art/th/100-h.png"
+    },
+    {
+      "id": 101,
+      "name": "Hisuian Electrode",
+      "img": "https://www.serebii.net/art/th/101-h.png"
+    }
+  ]
+}
