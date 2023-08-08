@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "555-gz",
+      "name": "Darmanitan Galar Zen Mode",
+      "img": "https://www.serebii.net/pokemon/art/555-gz.png"
+    },
+    {
+      "id": 813,
+      "name": "Scorbunny",
+      "img": "https://www.serebii.net/pokemon/art/813.png"
+    },
+    {
+      "id": 814,
+      "name": "Raboot",
+      "img": "https://www.serebii.net/pokemon/art/814.png"
+    },
+    {
+      "id": 815,
+      "name": "Cinderace",
+      "img": "https://www.serebii.net/pokemon/art/815.png"
+    },
+    {
+      "id": 838,
+      "name": "Carkol",
+      "img": "https://www.serebii.net/pokemon/art/838.png"
+    },
+    {
+      "id": 839,
+      "name": "Coalossal",
+      "img": "https://www.serebii.net/pokemon/art/839.png"
+    },
+    {
+      "id": 850,
+      "name": "Sizzlipede",
+      "img": "https://www.serebii.net/pokemon/art/850.png"
+    },
+    {
+      "id": 851,
+      "name": "Centiskorch",
+      "img": "https://www.serebii.net/pokemon/art/851.png"
+    },
+    {
+      "id": 58,
+      "name": "Hisuian Growlithe",
+      "img": "https://www.serebii.net/art/th/58-h.png"
+    },
+    {
+      "id": 59,
+      "name": "Hisuian Arcanine",
+      "img": "https://www.serebii.net/art/th/59-h.png"
+    },
+    {
+      "id": 157,
+      "name": "Hisuian Typhlosion",
+      "img": "https://www.serebii.net/art/th/157-h.png"
+    }
+  ]
+}
