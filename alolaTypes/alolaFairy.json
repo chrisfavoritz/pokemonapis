@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": "38-a",
+      "name": "Alolan Ninetales",
+      "img": "https://www.serebii.net/art/th/38-a.png"
+    },
+    {
+      "id": 730,
+      "name": "Primarina",
+      "img": "https://www.serebii.net/pokemon/art/730.png"
+    },
+    {
+      "id": 742,
+      "name": "Cutiefly",
+      "img": "https://www.serebii.net/pokemon/art/742.png"
+    },
+    {
+      "id": 743,
+      "name": "Ribombee",
+      "img": "https://www.serebii.net/pokemon/art/743.png"
+    },
+    {
+      "id": 755,
+      "name": "Morelull",
+      "img": "https://www.serebii.net/pokemon/art/755.png"
+    },
+    {
+      "id": 756,
+      "name": "Shiinotic",
+      "img": "https://www.serebii.net/pokemon/art/756.png"
+    },
+    {
+      "id": 764,
+      "name": "Comfey",
+      "img": "https://www.serebii.net/pokemon/art/764.png"
+    },
+    {
+      "id": 778,
+      "name": "Mimikyu",
+      "img": "https://www.serebii.net/pokemon/art/778.png"
+    },
+    {
+      "id": 785,
+      "name": "Tapu Koko",
+      "img": "https://www.serebii.net/pokemon/art/785.png"
+    },
+    {
+      "id": 786,
+      "name": "Tapu Lele",
+      "img": "https://www.serebii.net/pokemon/art/786.png"
+    },
+    {
+      "id": 787,
+      "name": "Tapu Bulu",
+      "img": "https://www.serebii.net/pokemon/art/787.png"
+    },
+    {
+      "id": 788,
+      "name": "Tapu Fini",
+      "img": "https://www.serebii.net/pokemon/art/788.png"
+    },
+    {
+      "id": 801,
+      "name": "Magearna",
+      "img": "https://www.serebii.net/pokemon/art/801.png"
+    }
+  ]
+}
