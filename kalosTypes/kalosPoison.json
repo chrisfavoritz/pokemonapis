@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "003-m",
+      "name": "Mega Venusaur",
+      "img": "https://www.serebii.net/pokemon/art/003-m.png"
+    },
+    {
+      "id": "015-m",
+      "name": "Mega Beedrill",
+      "img": "https://www.serebii.net/pokemon/art/015-m.png"
+    },
+    {
+      "id": "094-m",
+      "name": "Mega Gengar",
+      "img": "https://www.serebii.net/pokemon/art/094-m.png"
+    },
+    {
+      "id": 690,
+      "name": "Skrelp",
+      "img": "https://www.serebii.net/pokemon/art/690.png"
+    },
+    {
+      "id": 691,
+      "name": "Dragalge",
+      "img": "https://www.serebii.net/pokemon/art/691.png"
+    }
+  ]
+}
