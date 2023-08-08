@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": 396,
+      "name": "Starly",
+      "img": "https://www.serebii.net/pokemon/art/396.png"
+    },
+    {
+      "id": 397,
+      "name": "Staravia",
+      "img": "https://www.serebii.net/pokemon/art/397.png"
+    },
+    {
+      "id": 398,
+      "name": "Staraptor",
+      "img": "https://www.serebii.net/pokemon/art/398.png"
+    },
+    {
+      "id": 399,
+      "name": "Bidoof",
+      "img": "https://www.serebii.net/pokemon/art/399.png"
+    },
+    {
+      "id": 400,
+      "name": "Bibarel",
+      "img": "https://www.serebii.net/pokemon/art/400.png"
+    },
+    {
+      "id": 424,
+      "name": "Ambipom",
+      "img": "https://www.serebii.net/pokemon/art/424.png"
+    },
+    {
+      "id": 427,
+      "name": "Buneary",
+      "img": "https://www.serebii.net/pokemon/art/427.png"
+    },
+    {
+      "id": 428,
+      "name": "Lopunny",
+      "img": "https://www.serebii.net/pokemon/art/428.png"
+    },
+    {
+      "id": 431,
+      "name": "Glameow",
+      "img": "https://www.serebii.net/pokemon/art/431.png"
+    },
+    {
+      "id": 432,
+      "name": "Purugly",
+      "img": "https://www.serebii.net/pokemon/art/432.png"
+    },
+    {
+      "id": 440,
+      "name": "Happiny",
+      "img": "https://www.serebii.net/pokemon/art/440.png"
+    },
+    {
+      "id": 441,
+      "name": "Chatot",
+      "img": "https://www.serebii.net/pokemon/art/441.png"
+    },
+    {
+      "id": 446,
+      "name": "Munchlax",
+      "img": "https://www.serebii.net/pokemon/art/446.png"
+    },
+    {
+      "id": 463,
+      "name": "Lickilicky",
+      "img": "https://www.serebii.net/pokemon/art/463.png"
+    },
+    {
+      "id": 474,
+      "name": "Porygon-Z",
+      "img": "https://www.serebii.net/pokemon/art/474.png"
+    },
+    {
+      "id": 486,
+      "name": "Regigigas",
+      "img": "https://www.serebii.net/pokemon/art/486.png"
+    },
+    {
+      "id": 493,
+      "name": "Arceus",
+      "img": "https://www.serebii.net/pokemon/art/493.png"
+    }
+  ]
+}
