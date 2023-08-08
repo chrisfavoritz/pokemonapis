@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": 810,
+      "name": "Grookey",
+      "img": "https://www.serebii.net/pokemon/art/810.png"
+    },
+    {
+      "id": 811,
+      "name": "Thwackey",
+      "img": "https://www.serebii.net/pokemon/art/811.png"
+    },
+    {
+      "id": 812,
+      "name": "Rillaboom",
+      "img": "https://www.serebii.net/pokemon/art/812.png"
+    },
+    {
+      "id": 829,
+      "name": "Gossifleur",
+      "img": "https://www.serebii.net/pokemon/art/829.png"
+    },
+    {
+      "id": 830,
+      "name": "Eldegoss",
+      "img": "https://www.serebii.net/pokemon/art/830.png"
+    },
+    {
+      "id": 840,
+      "name": "Applin",
+      "img": "https://www.serebii.net/pokemon/art/840.png"
+    },
+    {
+      "id": 841,
+      "name": "Flapple",
+      "img": "https://www.serebii.net/pokemon/art/841.png"
+    },
+    {
+      "id": 842,
+      "name": "Appletun",
+      "img": "https://www.serebii.net/pokemon/art/842.png"
+    },
+    {
+      "id": 893,
+      "name": "Zarude",
+      "img": "https://www.serebii.net/pokemon/art/893.png"
+    },
+    {
+      "id": 898,
+      "name": "Calyrex",
+      "img": "https://www.serebii.net/pokemon/art/898.png"
+    },
+    {
+      "id": 100,
+      "name": "Hisuian Voltorb",
+      "img": "https://www.serebii.net/art/th/100-h.png"
+    },
+    {
+      "id": 101,
+      "name": "Hisuian Electrode",
+      "img": "https://www.serebii.net/art/th/101-h.png"
+    },
+    {
+      "id": 549,
+      "name": "Hisuian Lilligant",
+      "img": "https://www.serebii.net/art/th/549-h.png"
+    },
+    {
+      "id": 724,
+      "name": "Hisuian Decidueye",
+      "img": "https://www.serebii.net/art/th/724-h.png"
+    }
+  ]
+}
