@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 974,
+      "name": "Cetoddle",
+      "img": "https://www.serebii.net/pokemon/art/974.png"
+    },
+    {
+      "id": 975,
+      "name": "Cetitan",
+      "img": "https://www.serebii.net/pokemon/art/975.png"
+    },
+    {
+      "id": 991,
+      "name": "Iron Bundle",
+      "img": "https://www.serebii.net/pokemon/art/991.png"
+    },
+    {
+      "id": 996,
+      "name": "Frigibax",
+      "img": "https://www.serebii.net/pokemon/art/996.png"
+    },
+    {
+      "id": 997,
+      "name": "Arctibax",
+      "img": "https://www.serebii.net/pokemon/art/997.png"
+    },
+    {
+      "id": 998,
+      "name": "Baxcalibur",
+      "img": "https://www.serebii.net/pokemon/art/998.png"
+    },
+    {
+      "id": 1002,
+      "name": "Chien-Pao",
+      "img": "https://www.serebii.net/pokemon/art/1002.png"
+    }
+  ]
+}
