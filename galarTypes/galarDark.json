@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": "146-g",
+      "name": "Galarian Moltres",
+      "img": "https://www.serebii.net/swordshield/pokemon/146-g.png"
+    },
+    {
+      "id": "263-g",
+      "name": "Galarian Zigzagoon",
+      "img": "https://www.serebii.net/swordshield/pokemon/263-g.png"
+    },
+    {
+      "id": "264-g",
+      "name": "Galarian Linoone",
+      "img": "https://www.serebii.net/swordshield/pokemon/264-g.png"
+    },
+    {
+      "id": 827,
+      "name": "Nickit",
+      "img": "https://www.serebii.net/pokemon/art/827.png"
+    },
+    {
+      "id": 828,
+      "name": "Thievul",
+      "img": "https://www.serebii.net/pokemon/art/828.png"
+    },
+    {
+      "id": 859,
+      "name": "Impidimp",
+      "img": "https://www.serebii.net/pokemon/art/859.png"
+    },
+    {
+      "id": 860,
+      "name": "Morgrem",
+      "img": "https://www.serebii.net/pokemon/art/860.png"
+    },
+    {
+      "id": 861,
+      "name": "Grimmsnarl",
+      "img": "https://www.serebii.net/pokemon/art/861.png"
+    },
+    {
+      "id": 862,
+      "name": "Obstagoon",
+      "img": "https://www.serebii.net/pokemon/art/862.png"
+    },
+    {
+      "id": 877,
+      "name": "Morpeko",
+      "img": "https://www.serebii.net/pokemon/art/877.png"
+    },
+    {
+      "id": 891,
+      "name": "Urshifu Single Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/891.png"
+    },
+    {
+      "id": 893,
+      "name": "Zarude",
+      "img": "https://www.serebii.net/pokemon/art/893.png"
+    },
+    {
+      "id": 211,
+      "name": "Hisuian Qwilfish",
+      "img": "https://www.serebii.net/art/th/211-h.png"
+    },
+    {
+      "id": 503,
+      "name": "Hisuian Samurott",
+      "img": "https://www.serebii.net/art/th/503-h.png"
+    },
+    {
+      "id": 904,
+      "name": "Overqwil",
+      "img": "https://www.serebii.net/pokemon/art/904.png"
+    }
+  ]
+}
