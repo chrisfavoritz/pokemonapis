@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": "77-g",
+      "name": "Galarian Ponyta",
+      "img": "https://www.serebii.net/swordshield/pokemon/077-g.png"
+    },
+    {
+      "id": "78-g",
+      "name": "Galarian Rapidash",
+      "img": "https://www.serebii.net/swordshield/pokemon/078-g.png"
+    },
+    {
+      "id": "79-g",
+      "name": "Galarian Slowpoke",
+      "img": "https://www.serebii.net/swordshield/pokemon/079-g.png"
+    },
+    {
+      "id": "80-g",
+      "name": "Galarian Slowbro",
+      "img": "https://www.serebii.net/swordshield/pokemon/080-g.png"
+    },
+    {
+      "id": "122-g",
+      "name": "Galarian Mr. Mime",
+      "img": "https://www.serebii.net/swordshield/pokemon/122-g.png"
+    },
+    {
+      "id": "144-g",
+      "name": "Galarian Articuno",
+      "img": "https://www.serebii.net/swordshield/pokemon/144-g.png"
+    },
+    {
+      "id": "199-g",
+      "name": "Galarian Slowking",
+      "img": "https://www.serebii.net/swordshield/pokemon/199-g.png"
+    },
+    {
+      "id": 825,
+      "name": "Dottler",
+      "img": "https://www.serebii.net/pokemon/art/825.png"
+    },
+    {
+      "id": 826,
+      "name": "Orbeetle",
+      "img": "https://www.serebii.net/pokemon/art/826.png"
+    },
+    {
+      "id": 856,
+      "name": "Hatenna",
+      "img": "https://www.serebii.net/pokemon/art/856.png"
+    },
+    {
+      "id": 857,
+      "name": "Hattrem",
+      "img": "https://www.serebii.net/pokemon/art/857.png"
+    },
+    {
+      "id": 858,
+      "name": "Hatterene",
+      "img": "https://www.serebii.net/pokemon/art/858.png"
+    },
+    {
+      "id": 866,
+      "name": "Mr. Rime",
+      "img": "https://www.serebii.net/pokemon/art/866.png"
+    },
+    {
+      "id": 876,
+      "name": "Indeedee",
+      "img": "https://www.serebii.net/pokemon/art/876.png"
+    },
+    {
+      "id": "898",
+      "name": "Calyrex",
+      "img": "https://www.serebii.net/pokemon/art/898.png"
+    },
+    {
+      "id": "898-i",
+      "name": "Calyrex Ice Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-i.png"
+    },
+    {
+      "id": "898-s",
+      "name": "Calyrex Shadow Rider",
+      "img": "https://www.serebii.net/pokemon/art/898-s.png"
+    },
+    {
+      "id": 628,
+      "name": "Hisuian Braviary",
+      "img": "https://www.serebii.net/art/th/628-h.png"
+    },
+    {
+      "id": 899,
+      "name": "Wyrdeer",
+      "img": "https://www.serebii.net/art/th/899.png"
+    }
+  ]
+}
