@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 165,
+      "name": "Ledyba",
+      "img": "https://www.serebii.net/pokemon/art/165.png"
+    },
+    {
+      "id": 166,
+      "name": "Ledian",
+      "img": "https://www.serebii.net/pokemon/art/166.png"
+    },
+    {
+      "id": 167,
+      "name": "Spinarak",
+      "img": "https://www.serebii.net/pokemon/art/167.png"
+    },
+    {
+      "id": 168,
+      "name": "Ariados",
+      "img": "https://www.serebii.net/pokemon/art/168.png"
+    },
+    {
+      "id": 193,
+      "name": "Yanma",
+      "img": "https://www.serebii.net/pokemon/art/193.png"
+    },
+    {
+      "id": 204,
+      "name": "Pineco",
+      "img": "https://www.serebii.net/pokemon/art/204.png"
+    },
+    {
+      "id": 205,
+      "name": "Forretress",
+      "img": "https://www.serebii.net/pokemon/art/205.png"
+    },
+    {
+      "id": 212,
+      "name": "Scizor",
+      "img": "https://www.serebii.net/pokemon/art/212.png"
+    },
+    {
+      "id": 213,
+      "name": "Shuckle",
+      "img": "https://www.serebii.net/pokemon/art/213.png"
+    },
+    {
+      "id": 214,
+      "name": "Heracross",
+      "img": "https://www.serebii.net/pokemon/art/214.png"
+    }
+  ]
+}
