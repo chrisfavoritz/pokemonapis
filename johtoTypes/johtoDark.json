@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 197,
+      "name": "Umbreon",
+      "img": "https://www.serebii.net/pokemon/art/197.png"
+    },
+    {
+      "id": 198,
+      "name": "Murkrow",
+      "img": "https://www.serebii.net/pokemon/art/198.png"
+    },
+    {
+      "id": 215,
+      "name": "Sneasel",
+      "img": "https://www.serebii.net/pokemon/art/215.png"
+    },
+    {
+      "id": 228,
+      "name": "Houndour",
+      "img": "https://www.serebii.net/pokemon/art/228.png"
+    },
+    {
+      "id": 229,
+      "name": "Houndoom",
+      "img": "https://www.serebii.net/pokemon/art/229.png"
+    },
+    {
+      "id": 248,
+      "name": "Tyranitar",
+      "img": "https://www.serebii.net/pokemon/art/248.png"
+    }
+  ]
+}
