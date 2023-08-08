@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 834,
+      "name": "Drednaw",
+      "img": "https://www.serebii.net/pokemon/art/834.png"
+    },
+    {
+      "id": 837,
+      "name": "Rolycoly",
+      "img": "https://www.serebii.net/pokemon/art/837.png"
+    },
+    {
+      "id": 838,
+      "name": "Carkol",
+      "img": "https://www.serebii.net/pokemon/art/838.png"
+    },
+    {
+      "id": 839,
+      "name": "Coalossal",
+      "img": "https://www.serebii.net/pokemon/art/839.png"
+    },
+    {
+      "id": 874,
+      "name": "Stonjourner",
+      "img": "https://www.serebii.net/pokemon/art/874.png"
+    },
+    {
+      "id": 58,
+      "name": "Hisuian Growlithe",
+      "img": "https://www.serebii.net/art/th/58-h.png"
+    },
+    {
+      "id": 59,
+      "name": "Hisuian Arcanine",
+      "img": "https://www.serebii.net/art/th/59-h.png"
+    },
+    {
+      "id": 713,
+      "name": "Hisuian Avalugg",
+      "img": "https://www.serebii.net/art/th/713-h.png"
+    },
+    {
+      "id": 900,
+      "name": "Kleavor",
+      "img": "https://www.serebii.net/art/th/900.png"
+    }
+  ]
+}
