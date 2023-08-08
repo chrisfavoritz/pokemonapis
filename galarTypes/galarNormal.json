@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "263-g",
+      "name": "Galarian Zigzagoon",
+      "img": "https://www.serebii.net/swordshield/pokemon/263-g.png"
+    },
+    {
+      "id": "264-g",
+      "name": "Galarian Linoone",
+      "img": "https://www.serebii.net/swordshield/pokemon/264-g.png"
+    },
+    {
+      "id": 819,
+      "name": "Skwovet",
+      "img": "https://www.serebii.net/pokemon/art/819.png"
+    },
+    {
+      "id": 820,
+      "name": "Greedent",
+      "img": "https://www.serebii.net/pokemon/art/820.png"
+    },
+    {
+      "id": 831,
+      "name": "Wooloo",
+      "img": "https://www.serebii.net/pokemon/art/831.png"
+    },
+    {
+      "id": 832,
+      "name": "Dubwool",
+      "img": "https://www.serebii.net/pokemon/art/832.png"
+    },
+    {
+      "id": 862,
+      "name": "Obstagoon",
+      "img": "https://www.serebii.net/pokemon/art/862.png"
+    },
+    {
+      "id": 876,
+      "name": "Indeedee",
+      "img": "https://www.serebii.net/pokemon/art/876.png"
+    },
+    {
+      "id": 570,
+      "name": "Hisuian Zorua",
+      "img": "https://www.serebii.net/art/th/570-h.png"
+    },
+    {
+      "id": 571,
+      "name": "Hisuian Zoroark",
+      "img": "https://www.serebii.net/art/th/571-h.png"
+    },
+    {
+      "id": 899,
+      "name": "Wyrdeer",
+      "img": "https://www.serebii.net/pokemon/art/899.png"
+    },
+    {
+      "id": 901,
+      "name": "Ursaluna",
+      "img": "https://www.serebii.net/pokemon/art/901.png"
+    }
+  ]
+}
