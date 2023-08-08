@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 522,
+      "name": "Blitzle",
+      "img": "https://www.serebii.net/pokemon/art/522.png"
+    },
+    {
+      "id": 523,
+      "name": "Zebstrika",
+      "img": "https://www.serebii.net/pokemon/art/523.png"
+    },
+    {
+      "id": 587,
+      "name": "Emolga",
+      "img": "https://www.serebii.net/pokemon/art/587.png"
+    },
+    {
+      "id": 595,
+      "name": "Joltik",
+      "img": "https://www.serebii.net/pokemon/art/595.png"
+    },
+    {
+      "id": 596,
+      "name": "Galvantula",
+      "img": "https://www.serebii.net/pokemon/art/596.png"
+    },
+    {
+      "id": 602,
+      "name": "Tynamo",
+      "img": "https://www.serebii.net/pokemon/art/602.png"
+    },
+    {
+      "id": 603,
+      "name": "Eelektrik",
+      "img": "https://www.serebii.net/pokemon/art/603.png"
+    },
+    {
+      "id": 604,
+      "name": "Eelektross",
+      "img": "https://www.serebii.net/pokemon/art/604.png"
+    },
+    {
+      "id": 618,
+      "name": "Stunfisk",
+      "img": "https://www.serebii.net/pokemon/art/618.png"
+    },
+    {
+      "id": 642,
+      "name": "Thundurus",
+      "img": "https://www.serebii.net/pokemon/art/642.png"
+    },
+    {
+      "id": "642-t",
+      "name": "Thundurus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/642-t.png"
+    },
+    {
+      "id": 644,
+      "name": "Zekrom",
+      "img": "https://www.serebii.net/pokemon/art/644.png"
+    }
+  ]
+}
