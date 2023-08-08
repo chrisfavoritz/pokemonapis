@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 509,
+      "name": "Purrloin",
+      "img": "https://www.serebii.net/pokemon/art/509.png"
+    },
+    {
+      "id": 510,
+      "name": "Liepard",
+      "img": "https://www.serebii.net/pokemon/art/510.png"
+    },
+    {
+      "id": 551,
+      "name": "Sandile",
+      "img": "https://www.serebii.net/pokemon/art/551.png"
+    },
+    {
+      "id": 552,
+      "name": "Krokorok",
+      "img": "https://www.serebii.net/pokemon/art/552.png"
+    },
+    {
+      "id": 553,
+      "name": "Krookodile",
+      "img": "https://www.serebii.net/pokemon/art/553.png"
+    },
+    {
+      "id": 559,
+      "name": "Scraggy",
+      "img": "https://www.serebii.net/pokemon/art/559.png"
+    },
+    {
+      "id": 560,
+      "name": "Scrafty",
+      "img": "https://www.serebii.net/pokemon/art/560.png"
+    },
+    {
+      "id": 570,
+      "name": "Zorua",
+      "img": "https://www.serebii.net/pokemon/art/570.png"
+    },
+    {
+      "id": 571,
+      "name": "Zoroark",
+      "img": "https://www.serebii.net/pokemon/art/571.png"
+    },
+    {
+      "id": 624,
+      "name": "Pawniard",
+      "img": "https://www.serebii.net/pokemon/art/624.png"
+    },
+    {
+      "id": 625,
+      "name": "Bisharp",
+      "img": "https://www.serebii.net/pokemon/art/625.png"
+    },
+    {
+      "id": 629,
+      "name": "Vullaby",
+      "img": "https://www.serebii.net/pokemon/art/629.png"
+    },
+    {
+      "id": 630,
+      "name": "Mandibuzz",
+      "img": "https://www.serebii.net/pokemon/art/630.png"
+    },
+    {
+      "id": 633,
+      "name": "Deino",
+      "img": "https://www.serebii.net/pokemon/art/633.png"
+    },
+    {
+      "id": 634,
+      "name": "Zweilous",
+      "img": "https://www.serebii.net/pokemon/art/634.png"
+    },
+    {
+      "id": 635,
+      "name": "Hydreigon",
+      "img": "https://www.serebii.net/pokemon/art/635.png"
+    }
+  ]
+}
