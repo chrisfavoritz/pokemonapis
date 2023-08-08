@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 389,
+      "name": "Torterra",
+      "img": "https://www.serebii.net/pokemon/art/389.png"
+    },
+    {
+      "id": "413-s",
+      "name": "Wormadam Sandy Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413-c.png"
+    },
+    {
+      "id": 423,
+      "name": "Gastrodon",
+      "img": "https://www.serebii.net/pokemon/art/423.png"
+    },
+    {
+      "id": 443,
+      "name": "Gible",
+      "img": "https://www.serebii.net/pokemon/art/443.png"
+    },
+    {
+      "id": 444,
+      "name": "Gabite",
+      "img": "https://www.serebii.net/pokemon/art/444.png"
+    },
+    {
+      "id": 445,
+      "name": "Garchomp",
+      "img": "https://www.serebii.net/pokemon/art/445.png"
+    },
+    {
+      "id": 449,
+      "name": "Hippopotas",
+      "img": "https://www.serebii.net/pokemon/art/449.png"
+    },
+    {
+      "id": 450,
+      "name": "Hippowdon",
+      "img": "https://www.serebii.net/pokemon/art/450.png"
+    },
+    {
+      "id": 464,
+      "name": "Rhyperior",
+      "img": "https://www.serebii.net/pokemon/art/464.png"
+    },
+    {
+      "id": 472,
+      "name": "Gliscor",
+      "img": "https://www.serebii.net/pokemon/art/472.png"
+    },
+    {
+      "id": 473,
+      "name": "Mamoswine",
+      "img": "https://www.serebii.net/pokemon/art/473.png"
+    }
+  ]
+}
