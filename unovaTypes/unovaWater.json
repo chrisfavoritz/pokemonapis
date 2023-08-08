@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": 501,
+      "name": "Oshawott",
+      "img": "https://www.serebii.net/pokemon/art/501.png"
+    },
+    {
+      "id": 502,
+      "name": "Dewott",
+      "img": "https://www.serebii.net/pokemon/art/502.png"
+    },
+    {
+      "id": 503,
+      "name": "Samurott",
+      "img": "https://www.serebii.net/pokemon/art/503.png"
+    },
+    {
+      "id": 515,
+      "name": "Panpour",
+      "img": "https://www.serebii.net/pokemon/art/515.png"
+    },
+    {
+      "id": 516,
+      "name": "Simipour",
+      "img": "https://www.serebii.net/pokemon/art/516.png"
+    },
+    {
+      "id": 535,
+      "name": "Tympole",
+      "img": "https://www.serebii.net/pokemon/art/535.png"
+    },
+    {
+      "id": 536,
+      "name": "Palpitoad",
+      "img": "https://www.serebii.net/pokemon/art/536.png"
+    },
+    {
+      "id": 537,
+      "name": "Seismitoad",
+      "img": "https://www.serebii.net/pokemon/art/537.png"
+    },
+    {
+      "id": "550",
+      "name": "Basculin Red-Striped Form",
+      "img": "https://www.serebii.net/pokemon/art/550.png"
+    },
+    {
+      "id": "550-b",
+      "name": "Basculin Blue-Striped Form",
+      "img": "https://www.serebii.net/pokemon/art/550-b.png"
+    },
+    {
+      "id": 564,
+      "name": "Tirtouga",
+      "img": "https://www.serebii.net/pokemon/art/564.png"
+    },
+    {
+      "id": 565,
+      "name": "Carracosta",
+      "img": "https://www.serebii.net/pokemon/art/565.png"
+    },
+    {
+      "id": 580,
+      "name": "Ducklett",
+      "img": "https://www.serebii.net/pokemon/art/580.png"
+    },
+    {
+      "id": 581,
+      "name": "Swanna",
+      "img": "https://www.serebii.net/pokemon/art/581.png"
+    },
+    {
+      "id": 592,
+      "name": "Frillish",
+      "img": "https://www.serebii.net/pokemon/art/592.png"
+    },
+    {
+      "id": 593,
+      "name": "Jellicent",
+      "img": "https://www.serebii.net/pokemon/art/593.png"
+    },
+    {
+      "id": 594,
+      "name": "Alomomola",
+      "img": "https://www.serebii.net/pokemon/art/594.png"
+    },
+    {
+      "id": "647",
+      "name": "Keldeo",
+      "img": "https://www.serebii.net/pokemon/art/647.png"
+    },
+    {
+      "id": "647-r",
+      "name": "Keldeo Resolute Form",
+      "img": "https://www.serebii.net/pokemon/art/647-r.png"
+    }
+  ]
+}
