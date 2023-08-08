@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "80-g",
+      "name": "Galarian Slowbro",
+      "img": "https://www.serebii.net/swordshield/pokemon/080-g.png"
+    },
+    {
+      "id": "110-g",
+      "name": "Galarian Weezing",
+      "img": "https://www.serebii.net/swordshield/pokemon/110-g.png"
+    },
+    {
+      "id": "199-g",
+      "name": "Galarian Slowking",
+      "img": "https://www.serebii.net/swordshield/pokemon/199-g.png"
+    },
+    {
+      "id": 848,
+      "name": "Toxel",
+      "img": "https://www.serebii.net/pokemon/art/848.png"
+    },
+    {
+      "id": 849,
+      "name": "Toxtricity",
+      "img": "https://www.serebii.net/pokemon/art/849.png"
+    },
+    {
+      "id": "849",
+      "name": "Toxtricity Low Key Form",
+      "img": "https://www.serebii.net/pokemon/art/849-l.png"
+    },
+    {
+      "id": 890,
+      "name": "Eternatus",
+      "img": "https://www.serebii.net/pokemon/art/890.png"
+    },
+    {
+      "id": 211,
+      "name": "Hisuian Qwilfish",
+      "img": "https://www.serebii.net/art/th/211-h.png"
+    },
+    {
+      "id": 215,
+      "name": "Hisuian Sneasel",
+      "img": "https://www.serebii.net/art/th/215-h.png"
+    },
+    {
+      "id": 903,
+      "name": "Sneasler",
+      "img": "https://www.serebii.net/art/th/903.png"
+    },
+    {
+      "id": 904,
+      "name": "Overqwil",
+      "img": "https://www.serebii.net/art/th/904.png"
+    }
+  ]
+}
