@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 406,
+      "name": "Budew",
+      "img": "https://www.serebii.net/pokemon/art/406.png"
+    },
+    {
+      "id": 407,
+      "name": "Roserade",
+      "img": "https://www.serebii.net/pokemon/art/407.png"
+    },
+    {
+      "id": 434,
+      "name": "Stunky",
+      "img": "https://www.serebii.net/pokemon/art/434.png"
+    },
+    {
+      "id": 435,
+      "name": "Skuntank",
+      "img": "https://www.serebii.net/pokemon/art/435.png"
+    },
+    {
+      "id": 451,
+      "name": "Skorupi",
+      "img": "https://www.serebii.net/pokemon/art/451.png"
+    },
+    {
+      "id": 452,
+      "name": "Drapion",
+      "img": "https://www.serebii.net/pokemon/art/452.png"
+    },
+    {
+      "id": 453,
+      "name": "Croagunk",
+      "img": "https://www.serebii.net/pokemon/art/453.png"
+    },
+    {
+      "id": 454,
+      "name": "Toxicroak",
+      "img": "https://www.serebii.net/pokemon/art/454.png"
+    }
+  ]
+}
