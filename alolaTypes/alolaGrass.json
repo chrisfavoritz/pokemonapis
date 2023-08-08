@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "103-a",
+      "name": "Alolan Exeggutor",
+      "img": "https://www.serebii.net/art/th/103-a.png"
+    },
+    {
+      "id": 722,
+      "name": "Rowlet",
+      "img": "https://www.serebii.net/pokemon/art/722.png"
+    },
+    {
+      "id": 723,
+      "name": "Dartrix",
+      "img": "https://www.serebii.net/pokemon/art/723.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/pokemon/art/724.png"
+    },
+    {
+      "id": 753,
+      "name": "Fomantis",
+      "img": "https://www.serebii.net/pokemon/art/753.png"
+    },
+    {
+      "id": 754,
+      "name": "Lurantis",
+      "img": "https://www.serebii.net/pokemon/art/754.png"
+    },
+    {
+      "id": 755,
+      "name": "Morelull",
+      "img": "https://www.serebii.net/pokemon/art/755.png"
+    },
+    {
+      "id": 756,
+      "name": "Shiinotic",
+      "img": "https://www.serebii.net/pokemon/art/756.png"
+    },
+    {
+      "id": 761,
+      "name": "Bounsweet",
+      "img": "https://www.serebii.net/pokemon/art/761.png"
+    },
+    {
+      "id": 762,
+      "name": "Steenee",
+      "img": "https://www.serebii.net/pokemon/art/762.png"
+    },
+    {
+      "id": 763,
+      "name": "Tsareena",
+      "img": "https://www.serebii.net/pokemon/art/763.png"
+    },
+    {
+      "id": 781,
+      "name": "Dhelmise",
+      "img": "https://www.serebii.net/pokemon/art/781.png"
+    },
+    {
+      "id": 787,
+      "name": "Tapu Bulu",
+      "img": "https://www.serebii.net/pokemon/art/787.png"
+    },
+    {
+      "id": 798,
+      "name": "Kartana",
+      "img": "https://www.serebii.net/pokemon/art/798.png"
+    }
+  ]
+}
