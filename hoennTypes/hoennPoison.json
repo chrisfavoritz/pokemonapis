@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 269,
+      "name": "Dustox",
+      "img": "https://www.serebii.net/pokemon/art/269.png"
+    },
+    {
+      "id": 315,
+      "name": "Roselia",
+      "img": "https://www.serebii.net/pokemon/art/315.png"
+    },
+    {
+      "id": 316,
+      "name": "Gulpin",
+      "img": "https://www.serebii.net/pokemon/art/316.png"
+    },
+    {
+      "id": 317,
+      "name": "Swalot",
+      "img": "https://www.serebii.net/pokemon/art/317.png"
+    },
+    {
+      "id": 336,
+      "name": "Seviper",
+      "img": "https://www.serebii.net/pokemon/art/336.png"
+    }
+  ]
+}
