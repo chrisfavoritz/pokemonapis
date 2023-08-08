@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "362-m",
+      "name": "Mega Glalie",
+      "img": "https://www.serebii.net/pokemon/art/362-m.png"
+    },
+    {
+      "id": "460-m",
+      "name": "Mega Abomasnow",
+      "img": "https://www.serebii.net/pokemon/art/460-m.png"
+    },
+    {
+      "id": 698,
+      "name": "Amaura",
+      "img": "https://www.serebii.net/pokemon/art/698.png"
+    },
+    {
+      "id": 699,
+      "name": "Aurorus",
+      "img": "https://www.serebii.net/pokemon/art/699.png"
+    },
+    {
+      "id": 712,
+      "name": "Bergmite",
+      "img": "https://www.serebii.net/pokemon/art/712.png"
+    },
+    {
+      "id": 713,
+      "name": "Avalugg",
+      "img": "https://www.serebii.net/pokemon/art/713.png"
+    }
+  ]
+}
