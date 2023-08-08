@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 530,
+      "name": "Excadrill",
+      "img": "https://www.serebii.net/pokemon/art/530.png"
+    },
+    {
+      "id": 589,
+      "name": "Escavalier",
+      "img": "https://www.serebii.net/pokemon/art/589.png"
+    },
+    {
+      "id": 597,
+      "name": "Ferroseed",
+      "img": "https://www.serebii.net/pokemon/art/597.png"
+    },
+    {
+      "id": 598,
+      "name": "Ferrothorn",
+      "img": "https://www.serebii.net/pokemon/art/598.png"
+    },
+    {
+      "id": 599,
+      "name": "Klink",
+      "img": "https://www.serebii.net/pokemon/art/599.png"
+    },
+    {
+      "id": 600,
+      "name": "Klang",
+      "img": "https://www.serebii.net/pokemon/art/600.png"
+    },
+    {
+      "id": 601,
+      "name": "Klinklang",
+      "img": "https://www.serebii.net/pokemon/art/601.png"
+    },
+    {
+      "id": 624,
+      "name": "Pawniard",
+      "img": "https://www.serebii.net/pokemon/art/624.png"
+    },
+    {
+      "id": 625,
+      "name": "Bisharp",
+      "img": "https://www.serebii.net/pokemon/art/625.png"
+    },
+    {
+      "id": 632,
+      "name": "Durant",
+      "img": "https://www.serebii.net/pokemon/art/632.png"
+    },
+    {
+      "id": 638,
+      "name": "Cobalion",
+      "img": "https://www.serebii.net/pokemon/art/638.png"
+    },
+    {
+      "id": 649,
+      "name": "Genesect",
+      "img": "https://www.serebii.net/pokemon/art/649.png"
+    }
+  ]
+}
