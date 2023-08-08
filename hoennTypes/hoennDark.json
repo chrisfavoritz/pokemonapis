@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 261,
+      "name": "Poochyena",
+      "img": "https://www.serebii.net/pokemon/art/261.png"
+    },
+    {
+      "id": 262,
+      "name": "Mightyena",
+      "img": "https://www.serebii.net/pokemon/art/262.png"
+    },
+    {
+      "id": 274,
+      "name": "Nuzleaf",
+      "img": "https://www.serebii.net/pokemon/art/274.png"
+    },
+    {
+      "id": 275,
+      "name": "Shiftry",
+      "img": "https://www.serebii.net/pokemon/art/275.png"
+    },
+    {
+      "id": 302,
+      "name": "Sableye",
+      "img": "https://www.serebii.net/pokemon/art/302.png"
+    },
+    {
+      "id": 318,
+      "name": "Carvanha",
+      "img": "https://www.serebii.net/pokemon/art/318.png"
+    },
+    {
+      "id": 319,
+      "name": "Sharpedo",
+      "img": "https://www.serebii.net/pokemon/art/319.png"
+    },
+    {
+      "id": 332,
+      "name": "Cacturne",
+      "img": "https://www.serebii.net/pokemon/art/332.png"
+    },
+    {
+      "id": 342,
+      "name": "Crawdaunt",
+      "img": "https://www.serebii.net/pokemon/art/342.png"
+    },
+    {
+      "id": 359,
+      "name": "Absol",
+      "img": "https://www.serebii.net/pokemon/art/359.png"
+    }
+  ]
+}
