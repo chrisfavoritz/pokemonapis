@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 524,
+      "name": "Roggenrola",
+      "img": "https://www.serebii.net/pokemon/art/524.png"
+    },
+    {
+      "id": 525,
+      "name": "Boldore",
+      "img": "https://www.serebii.net/pokemon/art/525.png"
+    },
+    {
+      "id": 526,
+      "name": "Gigalith",
+      "img": "https://www.serebii.net/pokemon/art/526.png"
+    },
+    {
+      "id": 557,
+      "name": "Dwebble",
+      "img": "https://www.serebii.net/pokemon/art/557.png"
+    },
+    {
+      "id": 558,
+      "name": "Crustle",
+      "img": "https://www.serebii.net/pokemon/art/558.png"
+    },
+    {
+      "id": 564,
+      "name": "Tirtouga",
+      "img": "https://www.serebii.net/pokemon/art/564.png"
+    },
+    {
+      "id": 565,
+      "name": "Carracosta",
+      "img": "https://www.serebii.net/pokemon/art/565.png"
+    },
+    {
+      "id": 566,
+      "name": "Archen",
+      "img": "https://www.serebii.net/pokemon/art/566.png"
+    },
+    {
+      "id": 567,
+      "name": "Archeops",
+      "img": "https://www.serebii.net/pokemon/art/567.png"
+    },
+    {
+      "id": 639,
+      "name": "Terrakion",
+      "img": "https://www.serebii.net/pokemon/art/639.png"
+    }
+  ]
+}
