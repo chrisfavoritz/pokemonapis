@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 215,
+      "name": "Sneasel",
+      "img": "https://www.serebii.net/pokemon/art/215.png"
+    },
+    {
+      "id": 220,
+      "name": "Swinub",
+      "img": "https://www.serebii.net/pokemon/art/220.png"
+    },
+    {
+      "id": 221,
+      "name": "Piloswine",
+      "img": "https://www.serebii.net/pokemon/art/221.png"
+    },
+    {
+      "id": 225,
+      "name": "Delibird",
+      "img": "https://www.serebii.net/pokemon/art/225.png"
+    },
+    {
+      "id": 238,
+      "name": "Smoochum",
+      "img": "https://www.serebii.net/pokemon/art/238.png"
+    }
+  ]
+}
