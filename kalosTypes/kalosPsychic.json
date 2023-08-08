@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": "065-m",
+      "name": "Mega Alakazam",
+      "img": "https://www.serebii.net/pokemon/art/065-m.png"
+    },
+    {
+      "id": "080-m",
+      "name": "Mega Slowbro",
+      "img": "https://www.serebii.net/pokemon/art/080-m.png"
+    },
+    {
+      "id": "150-mx",
+      "name": "Mega Mewtwo X",
+      "img": "https://www.serebii.net/pokemon/art/150-mx.png"
+    },
+    {
+      "id": "150-my",
+      "name": "Mega Mewtwo Y",
+      "img": "https://www.serebii.net/pokemon/art/150-my.png"
+    },
+    {
+      "id": "282-m",
+      "name": "Mega Gardevoir",
+      "img": "https://www.serebii.net/pokemon/art/282-m.png"
+    },
+    {
+      "id": "308-m",
+      "name": "Mega Medicham",
+      "img": "https://www.serebii.net/pokemon/art/308-m.png"
+    },
+    {
+      "id": "376-m",
+      "name": "Mega Metagross",
+      "img": "https://www.serebii.net/pokemon/art/376-m.png"
+    },
+    {
+      "id": "380-m",
+      "name": "Mega Latias",
+      "img": "https://www.serebii.net/pokemon/art/380-m.png"
+    },
+    {
+      "id": "381-m",
+      "name": "Mega Latios",
+      "img": "https://www.serebii.net/pokemon/art/381-m.png"
+    },
+    {
+      "id": "475-m",
+      "name": "Mega Gallade",
+      "img": "https://www.serebii.net/pokemon/art/475-m.png"
+    },
+    {
+      "id": 655,
+      "name": "Delphox",
+      "img": "https://www.serebii.net/pokemon/art/655.png"
+    },
+    {
+      "id": 677,
+      "name": "Espurr",
+      "img": "https://www.serebii.net/pokemon/art/677.png"
+    },
+    {
+      "id": 678,
+      "name": "Meowstic",
+      "img": "https://www.serebii.net/pokemon/art/678.png"
+    },
+    {
+      "id": 686,
+      "name": "Inkay",
+      "img": "https://www.serebii.net/pokemon/art/686.png"
+    },
+    {
+      "id": 687,
+      "name": "Malamar",
+      "img": "https://www.serebii.net/pokemon/art/687.png"
+    },
+    {
+      "id": "720",
+      "name": "Hoopa Confined",
+      "img": "https://www.serebii.net/pokemon/art/720.png"
+    },
+    {
+      "id": "720-u",
+      "name": "Hoopa Unbound",
+      "img": "https://www.serebii.net/pokemon/art/720-u.png"
+    }
+  ]
+}
