@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 936,
+      "name": "Armarouge",
+      "img": "https://www.serebii.net/pokemon/art/936.png"
+    },
+    {
+      "id": 954,
+      "name": "Rabsca",
+      "img": "https://www.serebii.net/pokemon/art/954.png"
+    },
+    {
+      "id": 955,
+      "name": "Flittle",
+      "img": "https://www.serebii.net/pokemon/art/955.png"
+    },
+    {
+      "id": 956,
+      "name": "Espathra",
+      "img": "https://www.serebii.net/pokemon/art/956.png"
+    },
+    {
+      "id": 976,
+      "name": "Veluza",
+      "img": "https://www.serebii.net/pokemon/art/976.png"
+    },
+    {
+      "id": 981,
+      "name": "Farigiraf",
+      "img": "https://www.serebii.net/pokemon/art/981.png"
+    },
+    {
+      "id": 985,
+      "name": "Scream Tail",
+      "img": "https://www.serebii.net/pokemon/art/985.png"
+    },
+    {
+      "id": 1010,
+      "name": "Iron Leaves",
+      "img": "https://www.serebii.net/pokemon/art/1010.png"
+    }
+  ]
+}
