@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": 161,
+      "name": "Sentret",
+      "img": "https://www.serebii.net/pokemon/art/161.png"
+    },
+    {
+      "id": 162,
+      "name": "Furret",
+      "img": "https://www.serebii.net/pokemon/art/162.png"
+    },
+    {
+      "id": 163,
+      "name": "Hoothoot",
+      "img": "https://www.serebii.net/pokemon/art/163.png"
+    },
+    {
+      "id": 164,
+      "name": "Noctowl",
+      "img": "https://www.serebii.net/pokemon/art/164.png"
+    },
+    {
+      "id": 174,
+      "name": "Igglybuff",
+      "img": "https://www.serebii.net/pokemon/art/174.png"
+    },
+    {
+      "id": 190,
+      "name": "Aipom",
+      "img": "https://www.serebii.net/pokemon/art/190.png"
+    },
+    {
+      "id": 203,
+      "name": "Girafarig",
+      "img": "https://www.serebii.net/pokemon/art/203.png"
+    },
+    {
+      "id": 206,
+      "name": "Dunsparce",
+      "img": "https://www.serebii.net/pokemon/art/206.png"
+    },
+    {
+      "id": 216,
+      "name": "Teddiursa",
+      "img": "https://www.serebii.net/pokemon/art/216.png"
+    },
+    {
+      "id": 217,
+      "name": "Ursaring",
+      "img": "https://www.serebii.net/pokemon/art/217.png"
+    },
+    {
+      "id": 233,
+      "name": "Porygon2",
+      "img": "https://www.serebii.net/pokemon/art/233.png"
+    },
+    {
+      "id": 234,
+      "name": "Stantler",
+      "img": "https://www.serebii.net/pokemon/art/234.png"
+    },
+    {
+      "id": 235,
+      "name": "Smeargle",
+      "img": "https://www.serebii.net/pokemon/art/235.png"
+    },
+    {
+      "id": 241,
+      "name": "Miltank",
+      "img": "https://www.serebii.net/pokemon/art/241.png"
+    },
+    {
+      "id": 242,
+      "name": "Blissey",
+      "img": "https://www.serebii.net/pokemon/art/242.png"
+    }
+  ]
+}
