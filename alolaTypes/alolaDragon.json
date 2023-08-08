@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "103-a",
+      "name": "Alolan Exeggutor",
+      "img": "https://www.serebii.net/art/th/103-a.png"
+    },
+    {
+      "id": 776,
+      "name": "Turtonator",
+      "img": "https://www.serebii.net/pokemon/art/776.png"
+    },
+    {
+      "id": 780,
+      "name": "Drampa",
+      "img": "https://www.serebii.net/pokemon/art/780.png"
+    },
+    {
+      "id": 782,
+      "name": "Jangmo-o",
+      "img": "https://www.serebii.net/pokemon/art/782.png"
+    },
+    {
+      "id": 783,
+      "name": "Hakamo-o",
+      "img": "https://www.serebii.net/pokemon/art/783.png"
+    },
+    {
+      "id": 784,
+      "name": "Kommo-o",
+      "img": "https://www.serebii.net/pokemon/art/784.png"
+    },
+    {
+      "id": 799,
+      "name": "Guzzlord",
+      "img": "https://www.serebii.net/pokemon/art/799.png"
+    },
+    {
+      "id": "800-u",
+      "name": "Ultra Necrozma",
+      "img": "https://www.serebii.net/pokemon/art/800-u.png"
+    },
+    {
+      "id": 804,
+      "name": "Naganadel",
+      "img": "https://www.serebii.net/pokemon/art/804.png"
+    }
+  ]
+}
