@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "50-a",
+      "name": "Alolan Diglett",
+      "img": "https://www.serebii.net/art/th/50-a.png"
+    },
+    {
+      "id": "51-a",
+      "name": "Alolan Dugtrio",
+      "img": "https://www.serebii.net/art/th/51-a.png"
+    },
+    {
+      "id": 749,
+      "name": "Mudbray",
+      "img": "https://www.serebii.net/pokemon/art/749.png"
+    },
+    {
+      "id": 750,
+      "name": "Mudsdale",
+      "img": "https://www.serebii.net/pokemon/art/750.png"
+    },
+    {
+      "id": 769,
+      "name": "Sandygast",
+      "img": "https://www.serebii.net/pokemon/art/769.png"
+    },
+    {
+      "id": 770,
+      "name": "Palossand",
+      "img": "https://www.serebii.net/pokemon/art/770.png"
+    }
+  ]
+}
