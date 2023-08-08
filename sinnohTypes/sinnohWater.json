@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": 393,
+      "name": "Piplup",
+      "img": "https://www.serebii.net/pokemon/art/393.png"
+    },
+    {
+      "id": 394,
+      "name": "Prinplup",
+      "img": "https://www.serebii.net/pokemon/art/394.png"
+    },
+    {
+      "id": 395,
+      "name": "Empoleon",
+      "img": "https://www.serebii.net/pokemon/art/395.png"
+    },
+    {
+      "id": 400,
+      "name": "Bibarel",
+      "img": "https://www.serebii.net/pokemon/art/400.png"
+    },
+    {
+      "id": 418,
+      "name": "Buizel",
+      "img": "https://www.serebii.net/pokemon/art/418.png"
+    },
+    {
+      "id": 419,
+      "name": "Floatzel",
+      "img": "https://www.serebii.net/pokemon/art/419.png"
+    },
+    {
+      "id": 422,
+      "name": "Shellos",
+      "img": "https://www.serebii.net/pokemon/art/422.png"
+    },
+    {
+      "id": 423,
+      "name": "Gastrodon",
+      "img": "https://www.serebii.net/pokemon/art/423.png"
+    },
+    {
+      "id": 456,
+      "name": "Finneon",
+      "img": "https://www.serebii.net/pokemon/art/456.png"
+    },
+    {
+      "id": 457,
+      "name": "Lumineon",
+      "img": "https://www.serebii.net/pokemon/art/457.png"
+    },
+    {
+      "id": 458,
+      "name": "Mantyke",
+      "img": "https://www.serebii.net/pokemon/art/458.png"
+    },
+    {
+      "id": "479-w",
+      "name": "Rotom Wash Form",
+      "img": "https://www.serebii.net/pokemon/art/479-w.png"
+    },
+    {
+      "id": 484,
+      "name": "Palkia",
+      "img": "https://www.serebii.net/pokemon/art/484.png"
+    },
+    {
+      "id": 489,
+      "name": "Phione",
+      "img": "https://www.serebii.net/pokemon/art/489.png"
+    },
+    {
+      "id": 490,
+      "name": "Manaphy",
+      "img": "https://www.serebii.net/pokemon/art/490.png"
+    }
+  ]
+}
