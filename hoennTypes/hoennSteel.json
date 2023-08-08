@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": 81,
+      "name": "Magnemite",
+      "img": "https://www.serebii.net/pokemon/art/081.png"
+    },
+    {
+      "id": 82,
+      "name": "Magneton",
+      "img": "https://www.serebii.net/pokemon/art/082.png"
+    },
+    {
+      "id": 205,
+      "name": "Forretress",
+      "img": "https://www.serebii.net/pokemon/art/205.png"
+    },
+    {
+      "id": 208,
+      "name": "Steelix",
+      "img": "https://www.serebii.net/pokemon/art/208.png"
+    },
+    {
+      "id": 212,
+      "name": "Scizor",
+      "img": "https://www.serebii.net/pokemon/art/212.png"
+    },
+    {
+      "id": 227,
+      "name": "Skarmory",
+      "img": "https://www.serebii.net/pokemon/art/227.png"
+    },
+    {
+      "id": 303,
+      "name": "Mawile",
+      "img": "https://www.serebii.net/pokemon/art/303.png"
+    },
+    {
+      "id": 304,
+      "name": "Aron",
+      "img": "https://www.serebii.net/pokemon/art/304.png"
+    },
+    {
+      "id": 305,
+      "name": "Lairon",
+      "img": "https://www.serebii.net/pokemon/art/305.png"
+    },
+    {
+      "id": 306,
+      "name": "Aggron",
+      "img": "https://www.serebii.net/pokemon/art/306.png"
+    },
+    {
+      "id": 374,
+      "name": "Beldum",
+      "img": "https://www.serebii.net/pokemon/art/374.png"
+    },
+    {
+      "id": 375,
+      "name": "Metang",
+      "img": "https://www.serebii.net/pokemon/art/375.png"
+    },
+    {
+      "id": 376,
+      "name": "Metagross",
+      "img": "https://www.serebii.net/pokemon/art/376.png"
+    },
+    {
+      "id": 379,
+      "name": "Registeel",
+      "img": "https://www.serebii.net/pokemon/art/379.png"
+    },
+    {
+      "id": 385,
+      "name": "Jirachi",
+      "img": "https://www.serebii.net/pokemon/art/385.png"
+    }
+  ]
+}
