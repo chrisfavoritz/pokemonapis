@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "562-g",
+      "name": "Galarian Yamask",
+      "img": "https://www.serebii.net/swordshield/pokemon/562-g.png"
+    },
+    {
+      "id": "618-g",
+      "name": "Galarian Stunfisk",
+      "img": "https://www.serebii.net/swordshield/pokemon/618-g.png"
+    },
+    {
+      "id": 843,
+      "name": "Silicobra",
+      "img": "https://www.serebii.net/pokemon/art/843.png"
+    },
+    {
+      "id": 844,
+      "name": "Sandaconda",
+      "img": "https://www.serebii.net/pokemon/art/844.png"
+    },
+    {
+      "id": 867,
+      "name": "Runerigus",
+      "img": "https://www.serebii.net/pokemon/art/867.png"
+    },
+    {
+      "id": 901,
+      "name": "Ursaluna",
+      "img": "https://www.serebii.net/art/th/901.png"
+    }
+  ]
+}
