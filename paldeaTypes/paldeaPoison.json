@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "194-p",
+      "name": "Paldean Wooper",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/194-p.png"
+    },
+    {
+      "id": 944,
+      "name": "Shroodle",
+      "img": "https://www.serebii.net/pokemon/art/944.png"
+    },
+    {
+      "id": 945,
+      "name": "Grafaiai",
+      "img": "https://www.serebii.net/pokemon/art/945.png"
+    },
+    {
+      "id": 965,
+      "name": "Varoom",
+      "img": "https://www.serebii.net/pokemon/art/965.png"
+    },
+    {
+      "id": 966,
+      "name": "Revavroom",
+      "img": "https://www.serebii.net/pokemon/art/966.png"
+    },
+    {
+      "id": 969,
+      "name": "Glimmet",
+      "img": "https://www.serebii.net/pokemon/art/969.png"
+    },
+    {
+      "id": 970,
+      "name": "Glimmora",
+      "img": "https://www.serebii.net/pokemon/art/970.png"
+    },
+    {
+      "id": 980,
+      "name": "Clodsire",
+      "img": "https://www.serebii.net/pokemon/art/980.png"
+    },{
+      "id": 994,
+      "name": "Iron Moth",
+      "img": "https://www.serebii.net/pokemon/art/994.png"
+    }
+  ]
+}
