@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 540,
+      "name": "Sewaddle",
+      "img": "https://www.serebii.net/pokemon/art/540.png"
+    },
+    {
+      "id": 541,
+      "name": "Swadloon",
+      "img": "https://www.serebii.net/pokemon/art/541.png"
+    },
+    {
+      "id": 542,
+      "name": "Leavanny",
+      "img": "https://www.serebii.net/pokemon/art/542.png"
+    },
+    {
+      "id": 543,
+      "name": "Venipede",
+      "img": "https://www.serebii.net/pokemon/art/543.png"
+    },
+    {
+      "id": 544,
+      "name": "Whirlipede",
+      "img": "https://www.serebii.net/pokemon/art/544.png"
+    },
+    {
+      "id": 545,
+      "name": "Scolipede",
+      "img": "https://www.serebii.net/pokemon/art/545.png"
+    },
+    {
+      "id": 557,
+      "name": "Dwebble",
+      "img": "https://www.serebii.net/pokemon/art/557.png"
+    },
+    {
+      "id": 558,
+      "name": "Crustle",
+      "img": "https://www.serebii.net/pokemon/art/558.png"
+    },
+    {
+      "id": 588,
+      "name": "Karrablast",
+      "img": "https://www.serebii.net/pokemon/art/588.png"
+    },
+    {
+      "id": 589,
+      "name": "Escavalier",
+      "img": "https://www.serebii.net/pokemon/art/589.png"
+    },
+    {
+      "id": 595,
+      "name": "Joltik",
+      "img": "https://www.serebii.net/pokemon/art/595.png"
+    },
+    {
+      "id": 596,
+      "name": "Galvantula",
+      "img": "https://www.serebii.net/pokemon/art/596.png"
+    },
+    {
+      "id": 616,
+      "name": "Shelmet",
+      "img": "https://www.serebii.net/pokemon/art/616.png"
+    },
+    {
+      "id": 617,
+      "name": "Accelgor",
+      "img": "https://www.serebii.net/pokemon/art/617.png"
+    },
+    {
+      "id": 632,
+      "name": "Durant",
+      "img": "https://www.serebii.net/pokemon/art/632.png"
+    },
+    {
+      "id": 636,
+      "name": "Larvesta",
+      "img": "https://www.serebii.net/pokemon/art/636.png"
+    },
+    {
+      "id": 637,
+      "name": "Volcarona",
+      "img": "https://www.serebii.net/pokemon/art/637.png"
+    },
+    {
+      "id": 649,
+      "name": "Genesect",
+      "img": "https://www.serebii.net/pokemon/art/649.png"
+    }
+  ]
+}
