@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": "009-m",
+      "name": "Mega Blastoise",
+      "img": "https://www.serebii.net/pokemon/art/009-m.png"
+    },
+    {
+      "id": "080-m",
+      "name": "Mega Slowbro",
+      "img": "https://www.serebii.net/pokemon/art/080-m.png"
+    },
+    {
+      "id": "130-m",
+      "name": "Mega Gyarados",
+      "img": "https://www.serebii.net/pokemon/art/130-m.png"
+    },
+    {
+      "id": "260-m",
+      "name": "Mega Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260-m.png"
+    },
+    {
+      "id": "319-m",
+      "name": "Mega Sharpedo",
+      "img": "https://www.serebii.net/pokemon/art/319-m.png"
+    },
+    {
+      "id": "382-p",
+      "name": "Primal Kyogre",
+      "img": "https://www.serebii.net/pokemon/art/382-m.png"
+    },
+    {
+      "id": 656,
+      "name": "Froakie",
+      "img": "https://www.serebii.net/pokemon/art/656.png"
+    },
+    {
+      "id": 657,
+      "name": "Frogadier",
+      "img": "https://www.serebii.net/pokemon/art/657.png"
+    },
+    {
+      "id": 658,
+      "name": "Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658.png"
+    },
+    {
+      "id": "658-a",
+      "name": "Greninja Ash-Greninja",
+      "img": "https://www.serebii.net/pokemon/art/658-a.png"
+    },
+    {
+      "id": 688,
+      "name": "Binacle",
+      "img": "https://www.serebii.net/pokemon/art/688.png"
+    },
+    {
+      "id": 689,
+      "name": "Barbaracle",
+      "img": "https://www.serebii.net/pokemon/art/689.png"
+    },
+    {
+      "id": 690,
+      "name": "Skrelp",
+      "img": "https://www.serebii.net/pokemon/art/690.png"
+    },
+    {
+      "id": 691,
+      "name": "Dragalge",
+      "img": "https://www.serebii.net/pokemon/art/691.png"
+    },
+    {
+      "id": 692,
+      "name": "Clauncher",
+      "img": "https://www.serebii.net/pokemon/art/692.png"
+    },
+    {
+      "id": 693,
+      "name": "Clawitzer",
+      "img": "https://www.serebii.net/pokemon/art/693.png"
+    },
+    {
+      "id": 721,
+      "name": "Volcanion",
+      "img": "https://www.serebii.net/pokemon/art/721.png"
+    }
+  ]
+}
