@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 152,
+      "name": "Chikorita",
+      "img": "https://www.serebii.net/pokemon/art/152.png"
+    },
+    {
+      "id": 153,
+      "name": "Bayleef",
+      "img": "https://www.serebii.net/pokemon/art/153.png"
+    },
+    {
+      "id": 154,
+      "name": "Meganium",
+      "img": "https://www.serebii.net/pokemon/art/154.png"
+    },
+    {
+      "id": 182,
+      "name": "Bellossom",
+      "img": "https://www.serebii.net/pokemon/art/182.png"
+    },
+    {
+      "id": 187,
+      "name": "Hoppip",
+      "img": "https://www.serebii.net/pokemon/art/187.png"
+    },
+    {
+      "id": 188,
+      "name": "Skiploom",
+      "img": "https://www.serebii.net/pokemon/art/188.png"
+    },
+    {
+      "id": 189,
+      "name": "Jumpluff",
+      "img": "https://www.serebii.net/pokemon/art/189.png"
+    },
+    {
+      "id": 191,
+      "name": "Sunkern",
+      "img": "https://www.serebii.net/pokemon/art/191.png"
+    },
+    {
+      "id": 192,
+      "name": "Sunflora",
+      "img": "https://www.serebii.net/pokemon/art/192.png"
+    },
+    {
+      "id": 251,
+      "name": "Celebi",
+      "img": "https://www.serebii.net/pokemon/art/251.png"
+    }
+  ]
+}
