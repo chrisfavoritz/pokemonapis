@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "105-a",
+      "name": "Alolan Marowak",
+      "img": "https://www.serebii.net/art/th/105-a.png"
+    },
+    {
+      "id": 724,
+      "name": "Decidueye",
+      "img": "https://www.serebii.net/pokemon/art/724.png"
+    },
+    {
+      "id": "741-s",
+      "name": "Oricorio Sensu Style",
+      "img": "https://www.serebii.net/pokemon/art/741-s.png"
+    },
+    {
+      "id": 769,
+      "name": "Sandygast",
+      "img": "https://www.serebii.net/pokemon/art/769.png"
+    },
+    {
+      "id": 770,
+      "name": "Palossand",
+      "img": "https://www.serebii.net/pokemon/art/770.png"
+    },
+    {
+      "id": 778,
+      "name": "Mimikyu",
+      "img": "https://www.serebii.net/pokemon/art/778.png"
+    },
+    {
+      "id": 781,
+      "name": "Dhelmise",
+      "img": "https://www.serebii.net/pokemon/art/781.png"
+    },
+    {
+      "id": 792,
+      "name": "Lunala",
+      "img": "https://www.serebii.net/pokemon/art/792.png"
+    },
+    {
+      "id": "800-w",
+      "name": "Necrozma Dawn Wings",
+      "img": "https://www.serebii.net/pokemon/art/800-dw.png"
+    },
+    {
+      "id": 801,
+      "name": "Marshadow",
+      "img": "https://www.serebii.net/pokemon/art/801.png"
+    },
+    {
+      "id": 806,
+      "name": "Blacephalon",
+      "img": "https://www.serebii.net/pokemon/art/806.png"
+    }
+  ]
+}
