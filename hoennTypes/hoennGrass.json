@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": 252,
+      "name": "Treecko",
+      "img": "https://www.serebii.net/pokemon/art/252.png"
+    },
+    {
+      "id": 253,
+      "name": "Grovyle",
+      "img": "https://www.serebii.net/pokemon/art/253.png"
+    },
+    {
+      "id": 254,
+      "name": "Sceptile",
+      "img": "https://www.serebii.net/pokemon/art/254.png"
+    },
+    {
+      "id": 270,
+      "name": "Lotad",
+      "img": "https://www.serebii.net/pokemon/art/270.png"
+    },
+    {
+      "id": 271,
+      "name": "Lombre",
+      "img": "https://www.serebii.net/pokemon/art/271.png"
+    },
+    {
+      "id": 272,
+      "name": "Ludicolo",
+      "img": "https://www.serebii.net/pokemon/art/272.png"
+    },
+    {
+      "id": 273,
+      "name": "Seedot",
+      "img": "https://www.serebii.net/pokemon/art/273.png"
+    },
+    {
+      "id": 274,
+      "name": "Nuzleaf",
+      "img": "https://www.serebii.net/pokemon/art/274.png"
+    },
+    {
+      "id": 275,
+      "name": "Shiftry",
+      "img": "https://www.serebii.net/pokemon/art/275.png"
+    },
+    {
+      "id": 285,
+      "name": "Shroomish",
+      "img": "https://www.serebii.net/pokemon/art/285.png"
+    },
+    {
+      "id": 286,
+      "name": "Breloom",
+      "img": "https://www.serebii.net/pokemon/art/286.png"
+    },
+    {
+      "id": 315,
+      "name": "Roselia",
+      "img": "https://www.serebii.net/pokemon/art/315.png"
+    },
+    {
+      "id": 331,
+      "name": "Cacnea",
+      "img": "https://www.serebii.net/pokemon/art/331.png"
+    },
+    {
+      "id": 332,
+      "name": "Cacturne",
+      "img": "https://www.serebii.net/pokemon/art/332.png"
+    },
+    {
+      "id": 345,
+      "name": "Lileep",
+      "img": "https://www.serebii.net/pokemon/art/345.png"
+    },
+    {
+      "id": 346,
+      "name": "Cradily",
+      "img": "https://www.serebii.net/pokemon/art/346.png"
+    },
+    {
+      "id": 357,
+      "name": "Tropius",
+      "img": "https://www.serebii.net/pokemon/art/357.png"
+    }
+  ]
+}
