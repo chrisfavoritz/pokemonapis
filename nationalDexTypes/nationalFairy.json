@@ -131,11 +131,6 @@
       "img": "https://www.serebii.net/pokemon/art/531-m.png"
     },
     {
-      "id": "719-m",
-      "name": "Mega Diancie",
-      "img": "https://www.serebii.net/pokemon/art/719-m.png"
-    },
-    {
       "id": 669,
       "name": "Flabébé",
       "img": "https://www.serebii.net/pokemon/art/669.png"
@@ -199,6 +194,11 @@
       "id": 719,
       "name": "Diancie",
       "img": "https://www.serebii.net/pokemon/art/719.png"
+    },
+    {
+      "id": "719-m",
+      "name": "Mega Diancie",
+      "img": "https://www.serebii.net/pokemon/art/719-m.png"
     },
     {
       "id": "38-a",
