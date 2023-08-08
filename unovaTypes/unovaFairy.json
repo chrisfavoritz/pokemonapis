@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": 35,
+      "name": "Clefairy",
+      "img": "https://www.serebii.net/pokemon/art/035.png"
+    },
+    {
+      "id": 36,
+      "name": "Clefable",
+      "img": "https://www.serebii.net/pokemon/art/036.png"
+    },
+    {
+      "id": 39,
+      "name": "Jigglypuff",
+      "img": "https://www.serebii.net/pokemon/art/039.png"
+    },
+    {
+      "id": 40,
+      "name": "Wigglytuff",
+      "img": "https://www.serebii.net/pokemon/art/040.png"
+    },
+    {
+      "id": 122,
+      "name": "Mr. Mime",
+      "img": "https://www.serebii.net/pokemon/art/122.png"
+    },
+    {
+      "id": 173,
+      "name": "Cleffa",
+      "img": "https://www.serebii.net/pokemon/art/173.png"
+    },
+    {
+      "id": 174,
+      "name": "Igglybuff",
+      "img": "https://www.serebii.net/pokemon/art/174.png"
+    },
+    {
+      "id": 175,
+      "name": "Togepi",
+      "img": "https://www.serebii.net/pokemon/art/175.png"
+    },
+    {
+      "id": 176,
+      "name": "Togetic",
+      "img": "https://www.serebii.net/pokemon/art/176.png"
+    },
+    {
+      "id": 183,
+      "name": "Marill",
+      "img": "https://www.serebii.net/pokemon/art/183.png"
+    },
+    {
+      "id": 184,
+      "name": "Azumarill",
+      "img": "https://www.serebii.net/pokemon/art/184.png"
+    },
+    {
+      "id": 209,
+      "name": "Snubbull",
+      "img": "https://www.serebii.net/pokemon/art/209.png"
+    },
+    {
+      "id": 210,
+      "name": "Granbull",
+      "img": "https://www.serebii.net/pokemon/art/210.png"
+    },
+    {
+      "id": 280,
+      "name": "Ralts",
+      "img": "https://www.serebii.net/pokemon/art/280.png"
+    },
+    {
+      "id": 281,
+      "name": "Kirlia",
+      "img": "https://www.serebii.net/pokemon/art/281.png"
+    },
+    {
+      "id": 282,
+      "name": "Gardevoir",
+      "img": "https://www.serebii.net/pokemon/art/282.png"
+    },
+    {
+      "id": 298,
+      "name": "Azurill",
+      "img": "https://www.serebii.net/pokemon/art/298.png"
+    },
+    {
+      "id": 303,
+      "name": "Mawile",
+      "img": "https://www.serebii.net/pokemon/art/303.png"
+    },
+    {
+      "id": 439,
+      "name": "Mime Jr.",
+      "img": "https://www.serebii.net/pokemon/art/439.png"
+    },
+    {
+      "id": 468,
+      "name": "Togekiss",
+      "img": "https://www.serebii.net/pokemon/art/468.png"
+    },
+    {
+      "id": 546,
+      "name": "Cottonee",
+      "img": "https://www.serebii.net/pokemon/art/546.png"
+    },
+    {
+      "id": 547,
+      "name": "Whimsicott",
+      "img": "https://www.serebii.net/pokemon/art/547.png"
+    }
+  ]
+}
