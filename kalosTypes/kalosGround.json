@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "208-m",
+      "name": "Mega Steelix",
+      "img": "https://www.serebii.net/pokemon/art/208-m.png"
+    },
+    {
+      "id": "260-m",
+      "name": "Mega Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260-m.png"
+    },
+    {
+      "id": "323-m",
+      "name": "Mega Camerupt",
+      "img": "https://www.serebii.net/pokemon/art/323-m.png"
+    },
+    {
+      "id": "383-p",
+      "name": "Primal Groudon",
+      "img": "https://www.serebii.net/pokemon/art/383-m.png"
+    },
+    {
+      "id": "445-m",
+      "name": "Mega Garchomp",
+      "img": "https://www.serebii.net/pokemon/art/445-m.png"
+    },
+    {
+      "id": 660,
+      "name": "Diggersby",
+      "img": "https://www.serebii.net/pokemon/art/660.png"
+    },
+    {
+      "id": "718",
+      "name": "Zygarde 10% Forme",
+      "img": "https://www.serebii.net/pokemon/art/718-10.png"
+    },
+    {
+      "id": "718",
+      "name": "Zygarde 50% Forme",
+      "img": "https://www.serebii.net/pokemon/art/718.png"
+    },
+    {
+      "id": "718-c",
+      "name": "Zygarde Complete Forme",
+      "img": "https://www.serebii.net/pokemon/art/718-c.png"
+    }
+  ]
+}
