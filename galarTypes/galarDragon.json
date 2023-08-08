@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": 840,
+      "name": "Applin",
+      "img": "https://www.serebii.net/pokemon/art/840.png"
+    },
+    {
+      "id": 841,
+      "name": "Flapple",
+      "img": "https://www.serebii.net/pokemon/art/841.png"
+    },
+    {
+      "id": 842,
+      "name": "Appletun",
+      "img": "https://www.serebii.net/pokemon/art/842.png"
+    },
+    {
+      "id": 880,
+      "name": "Dracozolt",
+      "img": "https://www.serebii.net/pokemon/art/880.png"
+    },
+    {
+      "id": 882,
+      "name": "Dracovish",
+      "img": "https://www.serebii.net/pokemon/art/882.png"
+    },
+    {
+      "id": 884,
+      "name": "Duraludon",
+      "img": "https://www.serebii.net/pokemon/art/884.png"
+    },
+    {
+      "id": 885,
+      "name": "Dreepy",
+      "img": "https://www.serebii.net/pokemon/art/885.png"
+    },
+    {
+      "id": 886,
+      "name": "Drakloak",
+      "img": "https://www.serebii.net/pokemon/art/886.png"
+    },
+    {
+      "id": 887,
+      "name": "Dragapult",
+      "img": "https://www.serebii.net/pokemon/art/887.png"
+    },
+    {
+      "id": 890,
+      "name": "Eternatus",
+      "img": "https://www.serebii.net/pokemon/art/890.png"
+    },
+    {
+      "id": 895,
+      "name": "Regidrago",
+      "img": "https://www.serebii.net/pokemon/art/895.png"
+    },
+    {
+      "id": 483,
+      "name": "Origin Dialga",
+      "img": "https://www.serebii.net/art/th/483-o.png"
+    },
+    {
+      "id": 484,
+      "name": "Origin Palkia",
+      "img": "https://www.serebii.net/art/th/484-o.png"
+    },
+    {
+      "id": 705,
+      "name": "Hisuian Sliggoo",
+      "img": "https://www.serebii.net/art/th/705-h.png"
+    },
+    {
+      "id": 706,
+      "name": "Hisuian Goodra",
+      "img": "https://www.serebii.net/art/th/706-h.png"
+    }
+  ]
+}
