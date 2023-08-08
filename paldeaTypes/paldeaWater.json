@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "128-a",
+      "name": "Paldean Tauros Aqua Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-a.png"
+    },
+    {
+      "id": 912,
+      "name": "Quaxly",
+      "img": "https://www.serebii.net/pokemon/art/912.png"
+    },
+    {
+      "id": 913,
+      "name": "Quaxwell",
+      "img": "https://www.serebii.net/pokemon/art/913.png"
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "img": "https://www.serebii.net/pokemon/art/914.png"
+    },
+    {
+      "id": 960,
+      "name": "Wiglett",
+      "img": "https://www.serebii.net/pokemon/art/960.png"
+    },
+    {
+      "id": 961,
+      "name": "Wugtrio",
+      "img": "https://www.serebii.net/pokemon/art/961.png"
+    },
+    {
+      "id": 963,
+      "name": "Finizen",
+      "img": "https://www.serebii.net/pokemon/art/963.png"
+    },
+    {
+      "id": "964",
+      "name": "Palafin Zero Form",
+      "img": "https://www.serebii.net/pokemon/art/964.png"
+    },
+    {
+      "id": "964-h",
+      "name": "Palafin Hero Form",
+      "img": "https://www.serebii.net/pokemon/art/964-h.png"
+    },
+    {
+      "id": 976,
+      "name": "Veluza",
+      "img": "https://www.serebii.net/pokemon/art/976.png"
+    },
+    {
+      "id": 977,
+      "name": "Dondozo",
+      "img": "https://www.serebii.net/pokemon/art/977.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Curly Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Droopy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-d.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Stretchy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-s.png"
+    },
+    {
+      "id": 991,
+      "name": "Iron Bundle",
+      "img": "https://www.serebii.net/pokemon/art/991.png"
+    },
+    {
+      "id": 1009,
+      "name": "Walking Wake",
+      "img": "https://www.serebii.net/pokemon/art/1009.png"
+    }
+  ]
+}
