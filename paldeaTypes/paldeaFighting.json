@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": "128-t",
+      "name": "Paldean Tauros Combat Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-p.png"
+    },
+    {
+      "id": "128-b",
+      "name": "Paldean Tauros Blaze Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-b.png"
+    },
+    {
+      "id": "128-a",
+      "name": "Paldean Tauros Aqua Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-a.png"
+    },
+    {
+      "id": 914,
+      "name": "Quaquaval",
+      "img": "https://www.serebii.net/pokemon/art/914.png"
+    },
+    {
+      "id": 922,
+      "name": "Pawmo",
+      "img": "https://www.serebii.net/pokemon/art/922.png"
+    },
+    {
+      "id": 923,
+      "name": "Pawmot",
+      "img": "https://www.serebii.net/pokemon/art/923.png"
+    },
+    {
+      "id": 973,
+      "name": "Flamigo",
+      "img": "https://www.serebii.net/pokemon/art/973.png"
+    },
+    {
+      "id": 979,
+      "name": "Annihilape",
+      "img": "https://www.serebii.net/pokemon/art/979.png"
+    },
+    {
+      "id": 984,
+      "name": "Great Tusk",
+      "img": "https://www.serebii.net/pokemon/art/984.png"
+    },
+    {
+      "id": 988,
+      "name": "Slither Wing",
+      "img": "https://www.serebii.net/pokemon/art/988.png"
+    },
+    {
+      "id": 992,
+      "name": "Iron Hands",
+      "img": "https://www.serebii.net/pokemon/art/992.png"
+    },
+    {
+      "id": 1006,
+      "name": "Iron Valiant",
+      "img": "https://www.serebii.net/pokemon/art/1006.png"
+    },
+    {
+      "id": 1007,
+      "name": "Koraidon",
+      "img": "https://www.serebii.net/pokemon/art/1007.png"
+    }
+  ]
+}
