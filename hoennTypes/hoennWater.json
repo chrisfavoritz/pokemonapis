@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": 258,
+      "name": "Mudkip",
+      "img": "https://www.serebii.net/pokemon/art/258.png"
+    },
+    {
+      "id": 259,
+      "name": "Marshtomp",
+      "img": "https://www.serebii.net/pokemon/art/259.png"
+    },
+    {
+      "id": 260,
+      "name": "Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260.png"
+    },
+    {
+      "id": 270,
+      "name": "Lotad",
+      "img": "https://www.serebii.net/pokemon/art/270.png"
+    },
+    {
+      "id": 271,
+      "name": "Lombre",
+      "img": "https://www.serebii.net/pokemon/art/271.png"
+    },
+    {
+      "id": 272,
+      "name": "Ludicolo",
+      "img": "https://www.serebii.net/pokemon/art/272.png"
+    },
+    {
+      "id": 278,
+      "name": "Wingull",
+      "img": "https://www.serebii.net/pokemon/art/278.png"
+    },
+    {
+      "id": 279,
+      "name": "Pelipper",
+      "img": "https://www.serebii.net/pokemon/art/279.png"
+    },
+    {
+      "id": 283,
+      "name": "Surskit",
+      "img": "https://www.serebii.net/pokemon/art/283.png"
+    },
+    {
+      "id": 318,
+      "name": "Carvanha",
+      "img": "https://www.serebii.net/pokemon/art/318.png"
+    },
+    {
+      "id": 319,
+      "name": "Sharpedo",
+      "img": "https://www.serebii.net/pokemon/art/319.png"
+    },
+    {
+      "id": 320,
+      "name": "Wailmer",
+      "img": "https://www.serebii.net/pokemon/art/320.png"
+    },
+    {
+      "id": 321,
+      "name": "Wailord",
+      "img": "https://www.serebii.net/pokemon/art/321.png"
+    },
+    {
+      "id": 339,
+      "name": "Barboach",
+      "img": "https://www.serebii.net/pokemon/art/339.png"
+    },
+    {
+      "id": 340,
+      "name": "Whiscash",
+      "img": "https://www.serebii.net/pokemon/art/340.png"
+    },
+    {
+      "id": 341,
+      "name": "Corphish",
+      "img": "https://www.serebii.net/pokemon/art/341.png"
+    },
+    {
+      "id": 342,
+      "name": "Crawdaunt",
+      "img": "https://www.serebii.net/pokemon/art/342.png"
+    },
+    {
+      "id": 349,
+      "name": "Feebas",
+      "img": "https://www.serebii.net/pokemon/art/349.png"
+    },
+    {
+      "id": 350,
+      "name": "Milotic",
+      "img": "https://www.serebii.net/pokemon/art/350.png"
+    },
+    {
+      "id": 363,
+      "name": "Spheal",
+      "img": "https://www.serebii.net/pokemon/art/363.png"
+    },
+    {
+      "id": 364,
+      "name": "Sealeo",
+      "img": "https://www.serebii.net/pokemon/art/364.png"
+    },
+    {
+      "id": 365,
+      "name": "Walrein",
+      "img": "https://www.serebii.net/pokemon/art/365.png"
+    },
+    {
+      "id": 366,
+      "name": "Clamperl",
+      "img": "https://www.serebii.net/pokemon/art/366.png"
+    },
+    {
+      "id": 367,
+      "name": "Huntail",
+      "img": "https://www.serebii.net/pokemon/art/367.png"
+    },
+    {
+      "id": 368,
+      "name": "Gorebyss",
+      "img": "https://www.serebii.net/pokemon/art/368.png"
+    },
+    {
+      "id": 369,
+      "name": "Relicanth",
+      "img": "https://www.serebii.net/pokemon/art/369.png"
+    },
+    {
+      "id": 370,
+      "name": "Luvdisc",
+      "img": "https://www.serebii.net/pokemon/art/370.png"
+    },
+    {
+      "id": 382,
+      "name": "Kyogre",
+      "img": "https://www.serebii.net/pokemon/art/382.png"
+    }
+  ]
+}
