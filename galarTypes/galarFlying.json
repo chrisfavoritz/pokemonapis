@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "144-g",
+      "name": "Galarian Articuno",
+      "img": "https://www.serebii.net/swordshield/pokemon/144-g.png"
+    },
+    {
+      "id": "145-g",
+      "name": "Galarian Zapdos",
+      "img": "https://www.serebii.net/swordshield/pokemon/145-g.png"
+    },
+    {
+      "id": "146-g",
+      "name": "Galarian Moltres",
+      "img": "https://www.serebii.net/swordshield/pokemon/146-g.png"
+    },
+    {
+      "id": 821,
+      "name": "Rookidee",
+      "img": "https://www.serebii.net/pokemon/art/821.png"
+    },
+    {
+      "id": 822,
+      "name": "Corvisquire",
+      "img": "https://www.serebii.net/pokemon/art/822.png"
+    },
+    {
+      "id": 823,
+      "name": "Corviknight",
+      "img": "https://www.serebii.net/pokemon/art/823.png"
+    },
+    {
+      "id": 845,
+      "name": "Cramorant",
+      "img": "https://www.serebii.net/pokemon/art/845.png"
+    },
+    {
+      "id": 628,
+      "name": "Hisuian Braviary",
+      "img": "https://www.serebii.net/art/th/628-h.png"
+    },
+    {
+      "id": "905",
+      "name": "Enamorus Incarnate Forme",
+      "img": "https://www.serebii.net/pokemon/art/905.png"
+    },
+    {
+      "id": "905-t",
+      "name": "Enamorus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/905-s.png"
+    }
+  ]
+}
