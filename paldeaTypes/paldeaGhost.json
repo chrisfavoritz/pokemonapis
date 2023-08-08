@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 911,
+      "name": "Skeledirge",
+      "img": "https://www.serebii.net/pokemon/art/911.png"
+    },
+    {
+      "id": 937,
+      "name": "Ceruledge",
+      "img": "https://www.serebii.net/pokemon/art/937.png"
+    },
+    {
+      "id": 946,
+      "name": "Bramblin",
+      "img": "https://www.serebii.net/pokemon/art/946.png"
+    },
+    {
+      "id": 947,
+      "name": "Brambleghast",
+      "img": "https://www.serebii.net/pokemon/art/947.png"
+    },
+    {
+      "id": 971,
+      "name": "Greavard",
+      "img": "https://www.serebii.net/pokemon/art/971.png"
+    },
+    {
+      "id": 972,
+      "name": "Houndstone",
+      "img": "https://www.serebii.net/pokemon/art/972.png"
+    },
+    {
+      "id": 979,
+      "name": "Annihilape",
+      "img": "https://www.serebii.net/pokemon/art/979.png"
+    },
+    {
+      "id": 987,
+      "name": "Flutter Mane",
+      "img": "https://www.serebii.net/pokemon/art/987.png"
+    },
+    {
+      "id": 999,
+      "name": "Gimmighoul",
+      "img": "https://www.serebii.net/pokemon/art/999.png"
+    },
+    {
+      "id": 1000,
+      "name": "Gholdengo",
+      "img": "https://www.serebii.net/pokemon/art/1000.png"
+    }
+  ]
+}
