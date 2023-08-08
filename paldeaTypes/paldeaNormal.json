@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": 915,
+      "name": "Lechonk",
+      "img": "https://www.serebii.net/pokemon/art/915.png"
+    },
+    {
+      "id": 916,
+      "name": "Oinkologne",
+      "img": "https://www.serebii.net/pokemon/art/916.png"
+    },
+    {
+      "id": 924,
+      "name": "Tandemaus",
+      "img": "https://www.serebii.net/pokemon/art/924.png"
+    },
+    {
+      "id": 925,
+      "name": "Maushold",
+      "img": "https://www.serebii.net/pokemon/art/925.png"
+    },
+    {
+      "id": 928,
+      "name": "Smoliv",
+      "img": "https://www.serebii.net/pokemon/art/928.png"
+    },
+    {
+      "id": 929,
+      "name": "Dolliv",
+      "img": "https://www.serebii.net/pokemon/art/929.png"
+    },
+    {
+      "id": 930,
+      "name": "Arboliva",
+      "img": "https://www.serebii.net/pokemon/art/930.png"
+    },
+    {
+      "id": 931,
+      "name": "Squawkabilly",
+      "img": "https://www.serebii.net/pokemon/art/931.png"
+    },
+    {
+      "id": 944,
+      "name": "Shroodle",
+      "img": "https://www.serebii.net/pokemon/art/944.png"
+    },
+    {
+      "id": 945,
+      "name": "Grafaiai",
+      "img": "https://www.serebii.net/pokemon/art/945.png"
+    },
+    {
+      "id": 967,
+      "name": "Cyclizar",
+      "img": "https://www.serebii.net/pokemon/art/967.png"
+    },
+    {
+      "id": 981,
+      "name": "Farigiraf",
+      "img": "https://www.serebii.net/pokemon/art/981.png"
+    },
+    {
+      "id": 982,
+      "name": "Dudunsparce",
+      "img": "https://www.serebii.net/pokemon/art/982.png"
+    }
+  ]
+}
