@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 299,
+      "name": "Nosepass",
+      "img": "https://www.serebii.net/pokemon/art/299.png"
+    },
+    {
+      "id": 304,
+      "name": "Aron",
+      "img": "https://www.serebii.net/pokemon/art/304.png"
+    },
+    {
+      "id": 305,
+      "name": "Lairon",
+      "img": "https://www.serebii.net/pokemon/art/305.png"
+    },
+    {
+      "id": 306,
+      "name": "Aggron",
+      "img": "https://www.serebii.net/pokemon/art/306.png"
+    },
+    {
+      "id": 337,
+      "name": "Lunatone",
+      "img": "https://www.serebii.net/pokemon/art/337.png"
+    },
+    {
+      "id": 338,
+      "name": "Solrock",
+      "img": "https://www.serebii.net/pokemon/art/338.png"
+    },
+    {
+      "id": 345,
+      "name": "Lileep",
+      "img": "https://www.serebii.net/pokemon/art/345.png"
+    },
+    {
+      "id": 346,
+      "name": "Cradily",
+      "img": "https://www.serebii.net/pokemon/art/346.png"
+    },
+    {
+      "id": 347,
+      "name": "Anorith",
+      "img": "https://www.serebii.net/pokemon/art/347.png"
+    },
+    {
+      "id": 348,
+      "name": "Armaldo",
+      "img": "https://www.serebii.net/pokemon/art/348.png"
+    },
+    {
+      "id": 369,
+      "name": "Relicanth",
+      "img": "https://www.serebii.net/pokemon/art/369.png"
+    },
+    {
+      "id": 377,
+      "name": "Regirock",
+      "img": "https://www.serebii.net/pokemon/art/377.png"
+    }
+  ]
+}
