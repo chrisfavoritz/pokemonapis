@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 185,
+      "name": "Sudowoodo",
+      "img": "https://www.serebii.net/pokemon/art/185.png"
+    },
+    {
+      "id": 213,
+      "name": "Shuckle",
+      "img": "https://www.serebii.net/pokemon/art/213.png"
+    },
+    {
+      "id": 219,
+      "name": "Magcargo",
+      "img": "https://www.serebii.net/pokemon/art/219.png"
+    },
+    {
+      "id": 222,
+      "name": "Corsola",
+      "img": "https://www.serebii.net/pokemon/art/222.png"
+    },
+    {
+      "id": 246,
+      "name": "Larvitar",
+      "img": "https://www.serebii.net/pokemon/art/246.png"
+    },
+    {
+      "id": 247,
+      "name": "Pupitar",
+      "img": "https://www.serebii.net/pokemon/art/247.png"
+    },
+    {
+      "id": 248,
+      "name": "Tyranitar",
+      "img": "https://www.serebii.net/pokemon/art/248.png"
+    }
+  ]
+}
