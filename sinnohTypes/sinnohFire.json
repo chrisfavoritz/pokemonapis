@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 390,
+      "name": "Chimchar",
+      "img": "https://www.serebii.net/pokemon/art/390.png"
+    },
+    {
+      "id": 391,
+      "name": "Monferno",
+      "img": "https://www.serebii.net/pokemon/art/391.png"
+    },
+    {
+      "id": 392,
+      "name": "Infernape",
+      "img": "https://www.serebii.net/pokemon/art/392.png"
+    },
+    {
+      "id": 467,
+      "name": "Magmortar",
+      "img": "https://www.serebii.net/pokemon/art/467.png"
+    },
+    {
+      "id": "479-h",
+      "name": "Rotom Heat Form",
+      "img": "https://www.serebii.net/pokemon/art/479-h.png"
+    },
+    {
+      "id": 485,
+      "name": "Heatran",
+      "img": "https://www.serebii.net/pokemon/art/485.png"
+    }
+  ]
+}
