@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 917,
+      "name": "Tarountula",
+      "img": "https://www.serebii.net/pokemon/art/917.png"
+    },
+    {
+      "id": 918,
+      "name": "Spidops",
+      "img": "https://www.serebii.net/pokemon/art/918.png"
+    },
+    {
+      "id": 919,
+      "name": "Nymble",
+      "img": "https://www.serebii.net/pokemon/art/919.png"
+    },
+    {
+      "id": 920,
+      "name": "Lokix",
+      "img": "https://www.serebii.net/pokemon/art/920.png"
+    },
+    {
+      "id": 953,
+      "name": "Rellor",
+      "img": "https://www.serebii.net/pokemon/art/953.png"
+    },
+    {
+      "id": 954,
+      "name": "Rabsca",
+      "img": "https://www.serebii.net/pokemon/art/954.png"
+    },
+    {
+      "id": 988,
+      "name": "Slither Wing",
+      "img": "https://www.serebii.net/pokemon/art/988.png"
+    }
+  ]
+}
