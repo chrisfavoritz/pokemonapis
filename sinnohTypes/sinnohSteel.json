@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 395,
+      "name": "Empoleon",
+      "img": "https://www.serebii.net/pokemon/art/395.png"
+    },
+    {
+      "id": 410,
+      "name": "Shieldon",
+      "img": "https://www.serebii.net/pokemon/art/410.png"
+    },
+    {
+      "id": 411,
+      "name": "Bastiodon",
+      "img": "https://www.serebii.net/pokemon/art/411.png"
+    },
+    {
+      "id": "413-t",
+      "name": "Wormadam Trash Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413-t.png"
+    },
+    {
+      "id": 436,
+      "name": "Bronzor",
+      "img": "https://www.serebii.net/pokemon/art/436.png"
+    },
+    {
+      "id": 437,
+      "name": "Bronzong",
+      "img": "https://www.serebii.net/pokemon/art/437.png"
+    },
+    {
+      "id": 448,
+      "name": "Lucario",
+      "img": "https://www.serebii.net/pokemon/art/448.png"
+    },
+    {
+      "id": 462,
+      "name": "Magnezone",
+      "img": "https://www.serebii.net/pokemon/art/462.png"
+    },
+    {
+      "id": 476,
+      "name": "Probopass",
+      "img": "https://www.serebii.net/pokemon/art/476.png"
+    },
+    {
+      "id": 483,
+      "name": "Dialga",
+      "img": "https://www.serebii.net/pokemon/art/483.png"
+    },
+    {
+      "id": 485,
+      "name": "Heatran",
+      "img": "https://www.serebii.net/pokemon/art/485.png"
+    }
+  ]
+}
