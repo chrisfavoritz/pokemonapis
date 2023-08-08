@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 459,
+      "name": "Snover",
+      "img": "https://www.serebii.net/pokemon/art/459.png"
+    },
+    {
+      "id": 460,
+      "name": "Abomasnow",
+      "img": "https://www.serebii.net/pokemon/art/460.png"
+    },
+    {
+      "id": 461,
+      "name": "Weavile",
+      "img": "https://www.serebii.net/pokemon/art/461.png"
+    },
+    {
+      "id": 471,
+      "name": "Glaceon",
+      "img": "https://www.serebii.net/pokemon/art/471.png"
+    },
+    {
+      "id": 473,
+      "name": "Mamoswine",
+      "img": "https://www.serebii.net/pokemon/art/473.png"
+    },
+    {
+      "id": 478,
+      "name": "Froslass",
+      "img": "https://www.serebii.net/pokemon/art/478.png"
+    },
+    {
+      "id": "479-f",
+      "name": "Rotom Frost Form",
+      "img": "https://www.serebii.net/pokemon/art/479-f.png"
+    }
+  ]
+}
