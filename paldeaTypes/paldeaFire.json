@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "128-b",
+      "name": "Paldean Tauros Blaze Breed",
+      "img": "https://www.serebii.net/pokemon/art/128-b.png"
+    },
+    {
+      "id": 909,
+      "name": "Fuecoco",
+      "img": "https://www.serebii.net/pokemon/art/909.png"
+    },
+    {
+      "id": 910,
+      "name": "Crocalor",
+      "img": "https://www.serebii.net/pokemon/art/910.png"
+    },
+    {
+      "id": 911,
+      "name": "Skeledirge",
+      "img": "https://www.serebii.net/pokemon/art/911.png"
+    },
+    {
+      "id": 935,
+      "name": "Charcadet",
+      "img": "https://www.serebii.net/pokemon/art/935.png"
+    },
+    {
+      "id": 936,
+      "name": "Armarouge",
+      "img": "https://www.serebii.net/pokemon/art/936.png"
+    },
+    {
+      "id": 937,
+      "name": "Ceruledge",
+      "img": "https://www.serebii.net/pokemon/art/937.png"
+    },
+    {
+      "id": 952,
+      "name": "Scovillain",
+      "img": "https://www.serebii.net/pokemon/art/952.png"
+    },
+    {
+      "id": 994,
+      "name": "Iron Moth",
+      "img": "https://www.serebii.net/pokemon/art/994.png"
+    },
+    {
+      "id": 1004,
+      "name": "Chi-Yu",
+      "img": "https://www.serebii.net/pokemon/art/1004.png"
+    }
+  ]
+}
