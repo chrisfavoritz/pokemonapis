@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "150-mx",
+      "name": "Mega Mewtwo X",
+      "img": "https://www.serebii.net/pokemon/art/150-mx.png"
+    },
+    {
+      "id": "214-m",
+      "name": "Mega Heracross",
+      "img": "https://www.serebii.net/pokemon/art/214-m.png"
+    },
+    {
+      "id": "257-m",
+      "name": "Mega Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257-m.png"
+    },
+    {
+      "id": "308-m",
+      "name": "Mega Medicham",
+      "img": "https://www.serebii.net/pokemon/art/308-m.png"
+    },
+    {
+      "id": "428-m",
+      "name": "Mega Lopunny",
+      "img": "https://www.serebii.net/pokemon/art/428-m.png"
+    },
+    {
+      "id": "448-m",
+      "name": "Mega Lucario",
+      "img": "https://www.serebii.net/pokemon/art/448-m.png"
+    },
+    {
+      "id": "475-m",
+      "name": "Mega Gallade",
+      "img": "https://www.serebii.net/pokemon/art/475-m.png"
+    },
+    {
+      "id": 652,
+      "name": "Chesnaught",
+      "img": "https://www.serebii.net/pokemon/art/652.png"
+    },
+    {
+      "id": 674,
+      "name": "Pancham",
+      "img": "https://www.serebii.net/pokemon/art/674.png"
+    },
+    {
+      "id": 675,
+      "name": "Pangoro",
+      "img": "https://www.serebii.net/pokemon/art/675.png"
+    },
+    {
+      "id": 701,
+      "name": "Hawlucha",
+      "img": "https://www.serebii.net/pokemon/art/701.png"
+    }
+  ]
+}
