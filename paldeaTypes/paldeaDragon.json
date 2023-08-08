@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 967,
+      "name": "Cyclizar",
+      "img": "https://www.serebii.net/pokemon/art/967.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Curly Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Droopy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-d.png"
+    },
+    {
+      "id": "978",
+      "name": "Tatsugiri Stretchy Form",
+      "img": "https://www.serebii.net/scarletviolet/pokemon/new/978-s.png"
+    },
+    {
+      "id": 996,
+      "name": "Frigibax",
+      "img": "https://www.serebii.net/pokemon/art/996.png"
+    },
+    {
+      "id": 997,
+      "name": "Arctibax",
+      "img": "https://www.serebii.net/pokemon/art/997.png"
+    },
+    {
+      "id": 998,
+      "name": "Baxcalibur",
+      "img": "https://www.serebii.net/pokemon/art/998.png"
+    },
+    {
+      "id": 1005,
+      "name": "Roaring Moon",
+      "img": "https://www.serebii.net/pokemon/art/1005.png"
+    },
+    {
+      "id": 1007,
+      "name": "Koraidon",
+      "img": "https://www.serebii.net/pokemon/art/1007.png"
+    },
+    {
+      "id": 1008,
+      "name": "Miraidon",
+      "img": "https://www.serebii.net/pokemon/art/1008.png"
+    },
+    {
+      "id": 1009,
+      "name": "Walking Wake",
+      "img": "https://www.serebii.net/pokemon/art/1009.png"
+    }
+  ]
+}
