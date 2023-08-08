@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 194,
+      "name": "Wooper",
+      "img": "https://www.serebii.net/pokemon/art/194.png"
+    },
+    {
+      "id": 195,
+      "name": "Quagsire",
+      "img": "https://www.serebii.net/pokemon/art/195.png"
+    },
+    {
+      "id": 207,
+      "name": "Gligar",
+      "img": "https://www.serebii.net/pokemon/art/207.png"
+    },
+    {
+      "id": 208,
+      "name": "Steelix",
+      "img": "https://www.serebii.net/pokemon/art/208.png"
+    },
+    {
+      "id": 220,
+      "name": "Swinub",
+      "img": "https://www.serebii.net/pokemon/art/220.png"
+    },
+    {
+      "id": 221,
+      "name": "Piloswine",
+      "img": "https://www.serebii.net/pokemon/art/221.png"
+    },
+    {
+      "id": 231,
+      "name": "Phanpy",
+      "img": "https://www.serebii.net/pokemon/art/231.png"
+    },
+    {
+      "id": 232,
+      "name": "Donphan",
+      "img": "https://www.serebii.net/pokemon/art/232.png"
+    },
+    {
+      "id": 246,
+      "name": "Larvitar",
+      "img": "https://www.serebii.net/pokemon/art/246.png"
+    },
+    {
+      "id": 247,
+      "name": "Pupitar",
+      "img": "https://www.serebii.net/pokemon/art/247.png"
+    }
+  ]
+}
