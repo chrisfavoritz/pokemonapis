@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": 259,
+      "name": "Marshtomp",
+      "img": "https://www.serebii.net/pokemon/art/259.png"
+    },
+    {
+      "id": 260,
+      "name": "Swampert",
+      "img": "https://www.serebii.net/pokemon/art/260.png"
+    },
+    {
+      "id": 290,
+      "name": "Nincada",
+      "img": "https://www.serebii.net/pokemon/art/290.png"
+    },
+    {
+      "id": 322,
+      "name": "Numel",
+      "img": "https://www.serebii.net/pokemon/art/322.png"
+    },
+    {
+      "id": 323,
+      "name": "Camerupt",
+      "img": "https://www.serebii.net/pokemon/art/323.png"
+    },
+    {
+      "id": 328,
+      "name": "Trapinch",
+      "img": "https://www.serebii.net/pokemon/art/328.png"
+    },
+    {
+      "id": 329,
+      "name": "Vibrava",
+      "img": "https://www.serebii.net/pokemon/art/329.png"
+    },
+    {
+      "id": 330,
+      "name": "Flygon",
+      "img": "https://www.serebii.net/pokemon/art/330.png"
+    },
+    {
+      "id": 339,
+      "name": "Barboach",
+      "img": "https://www.serebii.net/pokemon/art/339.png"
+    },
+    {
+      "id": 340,
+      "name": "Whiscash",
+      "img": "https://www.serebii.net/pokemon/art/340.png"
+    },
+    {
+      "id": 343,
+      "name": "Baltoy",
+      "img": "https://www.serebii.net/pokemon/art/343.png"
+    },
+    {
+      "id": 344,
+      "name": "Claydol",
+      "img": "https://www.serebii.net/pokemon/art/344.png"
+    },
+    {
+      "id": 383,
+      "name": "Groudon",
+      "img": "https://www.serebii.net/pokemon/art/383.png"
+    }
+  ]
+}
