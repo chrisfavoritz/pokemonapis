@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "006-mx",
+      "name": "Mega Charizard X",
+      "img": "https://www.serebii.net/pokemon/art/006-mx.png"
+    },
+    {
+      "id": "181-m",
+      "name": "Mega Ampharos",
+      "img": "https://www.serebii.net/pokemon/art/181-m.png"
+    },
+    {
+      "id": "254-m",
+      "name": "Mega Sceptile",
+      "img": "https://www.serebii.net/pokemon/art/254-m.png"
+    },
+    {
+      "id": "334-m",
+      "name": "Mega Altaria",
+      "img": "https://www.serebii.net/pokemon/art/334-m.png"
+    },
+    {
+      "id": "373-m",
+      "name": "Mega Salamence",
+      "img": "https://www.serebii.net/pokemon/art/373-m.png"
+    },
+    {
+      "id": "380-m",
+      "name": "Mega Latias",
+      "img": "https://www.serebii.net/pokemon/art/380-m.png"
+    },
+    {
+      "id": "381-m",
+      "name": "Mega Latios",
+      "img": "https://www.serebii.net/pokemon/art/381-m.png"
+    },
+    {
+      "id": "384-m",
+      "name": "Mega Rayquaza",
+      "img": "https://www.serebii.net/pokemon/art/384-m.png"
+    },
+    {
+      "id": "445-m",
+      "name": "Mega Garchomp",
+      "img": "https://www.serebii.net/pokemon/art/445-m.png"
+    },
+    {
+      "id": 691,
+      "name": "Dragalge",
+      "img": "https://www.serebii.net/pokemon/art/691.png"
+    },
+    {
+      "id": 696,
+      "name": "Tyrunt",
+      "img": "https://www.serebii.net/pokemon/art/696.png"
+    },
+    {
+      "id": 697,
+      "name": "Tyrantrum",
+      "img": "https://www.serebii.net/pokemon/art/697.png"
+    },
+    {
+      "id": 704,
+      "name": "Goomy",
+      "img": "https://www.serebii.net/pokemon/art/704.png"
+    },
+    {
+      "id": 705,
+      "name": "Sliggoo",
+      "img": "https://www.serebii.net/pokemon/art/705.png"
+    },
+    {
+      "id": 706,
+      "name": "Goodra",
+      "img": "https://www.serebii.net/pokemon/art/706.png"
+    },
+    {
+      "id": 714,
+      "name": "Noibat",
+      "img": "https://www.serebii.net/pokemon/art/714.png"
+    },
+    {
+      "id": 715,
+      "name": "Noivern",
+      "img": "https://www.serebii.net/pokemon/art/715.png"
+    },
+    {
+      "id": "718",
+      "name": "Zygarde 10% Forme",
+      "img": "https://www.serebii.net/pokemon/art/718-10.png"
+    },
+    {
+      "id": "718",
+      "name": "Zygarde 50% Forme",
+      "img": "https://www.serebii.net/pokemon/art/718.png"
+    },
+    {
+      "id": "718-c",
+      "name": "Zygarde Complete Forme",
+      "img": "https://www.serebii.net/pokemon/art/718-c.png"
+    }
+  ]
+}
