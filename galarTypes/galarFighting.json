@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "145-g",
+      "name": "Galarian Zapdos",
+      "img": "https://www.serebii.net/swordshield/pokemon/145-g.png"
+    },
+    {
+      "id": 852,
+      "name": "Clobbopus",
+      "img": "https://www.serebii.net/pokemon/art/852.png"
+    },
+    {
+      "id": 853,
+      "name": "Grapploct",
+      "img": "https://www.serebii.net/pokemon/art/853.png"
+    },
+    {
+      "id": 865,
+      "name": "Sirfetch'd",
+      "img": "https://www.serebii.net/pokemon/art/865.png"
+    },
+    {
+      "id": 870,
+      "name": "Falinks",
+      "img": "https://www.serebii.net/pokemon/art/870.png"
+    },
+    {
+      "id": "889",
+      "name": "Zamazenta Hero of Many Battles",
+      "img": "https://www.serebii.net/pokemon/art/889.png"
+    },
+    {
+      "id": "889-c",
+      "name": "Zamazenta Crowned Shield",
+      "img": "https://www.serebii.net/pokemon/art/889-c.png"
+    },
+    {
+      "id": 891,
+      "name": "Kubfu",
+      "img": "https://www.serebii.net/pokemon/art/891.png"
+    },
+    {
+      "id": "892",
+      "name": "Urshifu Single Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/892.png"
+    },
+    {
+      "id": "892-r",
+      "name": "Urshifu Rapid Strike Style",
+      "img": "https://www.serebii.net/pokemon/art/892-r.png"
+    },
+    {
+      "id": 215,
+      "name": "Hisuian Sneasel",
+      "img": "https://www.serebii.net/art/th/215-h.png"
+    },
+    {
+      "id": 549,
+      "name": "Hisuian Lilligant",
+      "img": "https://www.serebii.net/art/th/549-h.png"
+    },
+    {
+      "id": 724,
+      "name": "Hisuian Decidueye",
+      "img": "https://www.serebii.net/art/th/724-h.png"
+    },
+    {
+      "id": 903,
+      "name": "Sneasler",
+      "img": "https://www.serebii.net/art/th/903.png"
+    }
+  ]
+}
