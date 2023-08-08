@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "78-g",
+      "name": "Galarian Rapidash",
+      "img": "https://www.serebii.net/swordshield/pokemon/078-g.png"
+    },
+    {
+      "id": "110-g",
+      "name": "Galarian Weezing",
+      "img": "https://www.serebii.net/swordshield/pokemon/110-g.png"
+    },
+    {
+      "id": 858,
+      "name": "Hatterene",
+      "img": "https://www.serebii.net/pokemon/art/858.png"
+    },
+    {
+      "id": 859,
+      "name": "Impidimp",
+      "img": "https://www.serebii.net/pokemon/art/859.png"
+    },
+    {
+      "id": 860,
+      "name": "Morgrem",
+      "img": "https://www.serebii.net/pokemon/art/860.png"
+    },
+    {
+      "id": 861,
+      "name": "Grimmsnarl",
+      "img": "https://www.serebii.net/pokemon/art/861.png"
+    },
+    {
+      "id": 868,
+      "name": "Milcery",
+      "img": "https://www.serebii.net/pokemon/art/868.png"
+    },
+    {
+      "id": 869,
+      "name": "Alcremie",
+      "img": "https://www.serebii.net/pokemon/art/869.png"
+    },
+    {
+      "id": "888",
+      "name": "Zacian",
+      "img": "https://www.serebii.net/pokemon/art/888.png"
+    },
+    {
+      "id": "888-c",
+      "name": "Zacian Crowned Sword",
+      "img": "https://www.serebii.net/pokemon/art/888-c.png"
+    },
+    {
+      "id": "905",
+      "name": "Enamorus",
+      "img": "https://www.serebii.net/pokemon/art/905.png"
+    },
+    {
+      "id": "905-t",
+      "name": "Enamorus Therian Forme",
+      "img": "https://www.serebii.net/pokemon/art/905-s.png"
+    }
+  ]
+}
