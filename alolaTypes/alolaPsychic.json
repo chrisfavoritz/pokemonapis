@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "26-a",
+      "name": "Alolan Raichu",
+      "img": "https://www.serebii.net/art/th/26-a.png"
+    },
+    {
+      "id": "741-pa",
+      "name": "Oricorio Pa'u Style",
+      "img": "https://www.serebii.net/pokemon/art/741-pau.png"
+    },
+    {
+      "id": 765,
+      "name": "Oranguru",
+      "img": "https://www.serebii.net/pokemon/art/765.png"
+    },
+    {
+      "id": 779,
+      "name": "Bruxish",
+      "img": "https://www.serebii.net/pokemon/art/779.png"
+    },
+    {
+      "id": 786,
+      "name": "Tapu Lele",
+      "img": "https://www.serebii.net/pokemon/art/786.png"
+    },
+    {
+      "id": 789,
+      "name": "Cosmog",
+      "img": "https://www.serebii.net/pokemon/art/789.png"
+    },
+    {
+      "id": 790,
+      "name": "Cosmoem",
+      "img": "https://www.serebii.net/pokemon/art/790.png"
+    },
+    {
+      "id": 791,
+      "name": "Solgaleo",
+      "img": "https://www.serebii.net/pokemon/art/791.png"
+    },
+    {
+      "id": 792,
+      "name": "Lunala",
+      "img": "https://www.serebii.net/pokemon/art/792.png"
+    },
+    {
+      "id": "800",
+      "name": "Necrozma",
+      "img": "https://www.serebii.net/pokemon/art/800.png"
+    },
+    {
+      "id": "800-d",
+      "name": "Necrozma Dusk Mane",
+      "img": "https://www.serebii.net/pokemon/art/800-dm.png"
+    },
+    {
+      "id": "800-w",
+      "name": "Necrozma Dawn Wings",
+      "img": "https://www.serebii.net/pokemon/art/800-dw.png"
+    },
+    {
+      "id": "800-u",
+      "name": "Necrozma Ultra Necrozma",
+      "img": "https://www.serebii.net/pokemon/art/800-u.png"
+    },
+    {
+      "id": 806,
+      "name": "Blacephalon",
+      "img": "https://www.serebii.net/pokemon/art/806.png"
+    },
+    {
+      "id": 807,
+      "name": "Meltan",
+      "img": "https://www.serebii.net/pokemon/art/807.png"
+    },
+    {
+      "id": 808,
+      "name": "Melmetal",
+      "img": "https://www.serebii.net/pokemon/art/808.png"
+    }
+  ]
+}
