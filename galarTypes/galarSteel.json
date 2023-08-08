@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "52-g",
+      "name": "Galarian Meowth",
+      "img": "https://www.serebii.net/swordshield/pokemon/052-g.png"
+    },
+    {
+      "id": "618-g",
+      "name": "Galarian Stunfisk",
+      "img": "https://www.serebii.net/swordshield/pokemon/618-g.png"
+    },
+    {
+      "id": 823,
+      "name": "Corviknight",
+      "img": "https://www.serebii.net/pokemon/art/823.png"
+    },
+    {
+      "id": 863,
+      "name": "Perrserker",
+      "img": "https://www.serebii.net/pokemon/art/863.png"
+    },
+    {
+      "id": 878,
+      "name": "Cufant",
+      "img": "https://www.serebii.net/pokemon/art/878.png"
+    },
+    {
+      "id": 879,
+      "name": "Copperajah",
+      "img": "https://www.serebii.net/pokemon/art/879.png"
+    },
+    {
+      "id": 884,
+      "name": "Duraludon",
+      "img": "https://www.serebii.net/pokemon/art/884.png"
+    },
+    {
+      "id": "888-c",
+      "name": "Zacian Crowned Sword",
+      "img": "https://www.serebii.net/pokemon/art/888-c.png"
+    },
+    {
+      "id": "889-c",
+      "name": "Zamazenta Crowned Shield",
+      "img": "https://www.serebii.net/pokemon/art/889-c.png"
+    },
+    {
+      "id": 483,
+      "name": "Origin Dialga",
+      "img": "https://www.serebii.net/art/th/483-o.png"
+    },
+    {
+      "id": 705,
+      "name": "Hisuian Sliggoo",
+      "img": "https://www.serebii.net/art/th/705-h.png"
+    },
+    {
+      "id": 706,
+      "name": "Hisuian Goodra",
+      "img": "https://www.serebii.net/art/th/706-h.png"
+    }
+  ]
+}
