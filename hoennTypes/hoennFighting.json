@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 256,
+      "name": "Combusken",
+      "img": "https://www.serebii.net/pokemon/art/256.png"
+    },
+    {
+      "id": 257,
+      "name": "Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257.png"
+    },
+    {
+      "id": 286,
+      "name": "Breloom",
+      "img": "https://www.serebii.net/pokemon/art/286.png"
+    },
+    {
+      "id": 296,
+      "name": "Makuhita",
+      "img": "https://www.serebii.net/pokemon/art/296.png"
+    },
+    {
+      "id": 297,
+      "name": "Hariyama",
+      "img": "https://www.serebii.net/pokemon/art/297.png"
+    },
+    {
+      "id": 307,
+      "name": "Meditite",
+      "img": "https://www.serebii.net/pokemon/art/307.png"
+    },
+    {
+      "id": 308,
+      "name": "Medicham",
+      "img": "https://www.serebii.net/pokemon/art/308.png"
+    }
+  ]
+}
