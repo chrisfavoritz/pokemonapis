@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "26-a",
+      "name": "Alolan Raichu",
+      "img": "https://www.serebii.net/art/th/26-a.png"
+    },
+    {
+      "id": "74-a",
+      "name": "Alolan Geodude",
+      "img": "https://www.serebii.net/art/th/74-a.png"
+    },
+    {
+      "id": "75-a",
+      "name": "Alolan Graveler",
+      "img": "https://www.serebii.net/art/th/75-a.png"
+    },
+    {
+      "id": "76-a",
+      "name": "Alolan Golem",
+      "img": "https://www.serebii.net/art/th/76-a.png"
+    },
+    {
+      "id": 737,
+      "name": "Charjabug",
+      "img": "https://www.serebii.net/pokemon/art/737.png"
+    },
+    {
+      "id": 738,
+      "name": "Vikavolt",
+      "img": "https://www.serebii.net/pokemon/art/738.png"
+    },
+    {
+      "id": "741-p",
+      "name": "Oricorio Pom-Pom Style",
+      "img": "https://www.serebii.net/pokemon/art/741-p.png"
+    },
+    {
+      "id": 777,
+      "name": "Togedemaru",
+      "img": "https://www.serebii.net/pokemon/art/777.png"
+    },
+    {
+      "id": 785,
+      "name": "Tapu Koko",
+      "img": "https://www.serebii.net/pokemon/art/785.png"
+    },
+    {
+      "id": 796,
+      "name": "Xurkitree",
+      "img": "https://www.serebii.net/pokemon/art/796.png"
+    },
+    {
+      "id": 807,
+      "name": "Zeraora",
+      "img": "https://www.serebii.net/pokemon/art/807.png"
+    }
+  ]
+}
