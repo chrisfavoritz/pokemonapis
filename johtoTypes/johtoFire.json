@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 155,
+      "name": "Cyndaquil",
+      "img": "https://www.serebii.net/pokemon/art/155.png"
+    },
+    {
+      "id": 156,
+      "name": "Quilava",
+      "img": "https://www.serebii.net/pokemon/art/156.png"
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "img": "https://www.serebii.net/pokemon/art/157.png"
+    },
+    {
+      "id": 218,
+      "name": "Slugma",
+      "img": "https://www.serebii.net/pokemon/art/218.png"
+    },
+    {
+      "id": 219,
+      "name": "Magcargo",
+      "img": "https://www.serebii.net/pokemon/art/219.png"
+    },
+    {
+      "id": 228,
+      "name": "Houndour",
+      "img": "https://www.serebii.net/pokemon/art/228.png"
+    },
+    {
+      "id": 229,
+      "name": "Houndoom",
+      "img": "https://www.serebii.net/pokemon/art/229.png"
+    },
+    {
+      "id": 240,
+      "name": "Magby",
+      "img": "https://www.serebii.net/pokemon/art/240.png"
+    },
+    {
+      "id": 244,
+      "name": "Entei",
+      "img": "https://www.serebii.net/pokemon/art/244.png"
+    },
+    {
+      "id": 250,
+      "name": "Ho-Oh",
+      "img": "https://www.serebii.net/pokemon/art/250.png"
+    }
+  ]
+}
