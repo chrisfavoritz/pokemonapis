@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 543,
+      "name": "Venipede",
+      "img": "https://www.serebii.net/pokemon/art/543.png"
+    },
+    {
+      "id": 544,
+      "name": "Whirlipede",
+      "img": "https://www.serebii.net/pokemon/art/544.png"
+    },
+    {
+      "id": 545,
+      "name": "Scolipede",
+      "img": "https://www.serebii.net/pokemon/art/545.png"
+    },
+    {
+      "id": 568,
+      "name": "Trubbish",
+      "img": "https://www.serebii.net/pokemon/art/568.png"
+    },
+    {
+      "id": 569,
+      "name": "Garbodor",
+      "img": "https://www.serebii.net/pokemon/art/569.png"
+    },
+    {
+      "id": 590,
+      "name": "Foongus",
+      "img": "https://www.serebii.net/pokemon/art/590.png"
+    },
+    {
+      "id": 591,
+      "name": "Amoonguss",
+      "img": "https://www.serebii.net/pokemon/art/591.png"
+    }
+  ]
+}
