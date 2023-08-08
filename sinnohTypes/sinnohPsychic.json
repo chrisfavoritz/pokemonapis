@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 433,
+      "name": "Chingling",
+      "img": "https://www.serebii.net/pokemon/art/433.png"
+    },
+    {
+      "id": 436,
+      "name": "Bronzor",
+      "img": "https://www.serebii.net/pokemon/art/436.png"
+    },
+    {
+      "id": 437,
+      "name": "Bronzong",
+      "img": "https://www.serebii.net/pokemon/art/437.png"
+    },
+    {
+      "id": 439,
+      "name": "Mime Jr.",
+      "img": "https://www.serebii.net/pokemon/art/439.png"
+    },
+    {
+      "id": 475,
+      "name": "Gallade",
+      "img": "https://www.serebii.net/pokemon/art/475.png"
+    },
+    {
+      "id": 480,
+      "name": "Uxie",
+      "img": "https://www.serebii.net/pokemon/art/480.png"
+    },
+    {
+      "id": 481,
+      "name": "Mesprit",
+      "img": "https://www.serebii.net/pokemon/art/481.png"
+    },
+    {
+      "id": 482,
+      "name": "Azelf",
+      "img": "https://www.serebii.net/pokemon/art/482.png"
+    },
+    {
+      "id": 488,
+      "name": "Cresselia",
+      "img": "https://www.serebii.net/pokemon/art/488.png"
+    }
+  ]
+}
