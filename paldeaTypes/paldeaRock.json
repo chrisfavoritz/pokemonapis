@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 932,
+      "name": "Nacli",
+      "img": "https://www.serebii.net/pokemon/art/932.png"
+    },
+    {
+      "id": 933,
+      "name": "Naclstack",
+      "img": "https://www.serebii.net/pokemon/art/933.png"
+    },
+    {
+      "id": 934,
+      "name": "Garganacl",
+      "img": "https://www.serebii.net/pokemon/art/934.png"
+    },
+    {
+      "id": 950,
+      "name": "Klawf",
+      "img": "https://www.serebii.net/pokemon/art/950.png"
+    },
+    {
+      "id": 969,
+      "name": "Glimmet",
+      "img": "https://www.serebii.net/pokemon/art/969.png"
+    },
+    {
+      "id": 970,
+      "name": "Glimmora",
+      "img": "https://www.serebii.net/pokemon/art/970.png"
+    },
+    {
+      "id": 995,
+      "name": "Iron Thorns",
+      "img": "https://www.serebii.net/pokemon/art/995.png"
+    }
+  ]
+}
