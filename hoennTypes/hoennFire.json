@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 255,
+      "name": "Torchic",
+      "img": "https://www.serebii.net/pokemon/art/255.png"
+    },
+    {
+      "id": 256,
+      "name": "Combusken",
+      "img": "https://www.serebii.net/pokemon/art/256.png"
+    },
+    {
+      "id": 257,
+      "name": "Blaziken",
+      "img": "https://www.serebii.net/pokemon/art/257.png"
+    },
+    {
+      "id": 322,
+      "name": "Numel",
+      "img": "https://www.serebii.net/pokemon/art/322.png"
+    },
+    {
+      "id": 323,
+      "name": "Camerupt",
+      "img": "https://www.serebii.net/pokemon/art/323.png"
+    },
+    {
+      "id": 324,
+      "name": "Torkoal",
+      "img": "https://www.serebii.net/pokemon/art/324.png"
+    }
+  ]
+}
