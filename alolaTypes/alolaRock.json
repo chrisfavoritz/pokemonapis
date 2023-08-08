@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "74-a",
+      "name": "Alolan Geodude",
+      "img": "https://www.serebii.net/art/th/74-a.png"
+    },
+    {
+      "id": "75-a",
+      "name": "Alolan Graveler",
+      "img": "https://www.serebii.net/art/th/75-a.png"
+    },
+    {
+      "id": "76-a",
+      "name": "Alolan Golem",
+      "img": "https://www.serebii.net/art/th/76-a.png"
+    },
+    {
+      "id": 696,
+      "name": "Rockruff",
+      "img": "https://www.serebii.net/pokemon/art/696.png"
+    },
+    {
+      "id": 697,
+      "name": "Lycanroc",
+      "img": "https://www.serebii.net/pokemon/art/697.png"
+    },
+    {
+      "id": "745-m",
+      "name": "Lycanroc Midnight Form",
+      "img": "https://www.serebii.net/pokemon/art/745-m.png"
+    },
+    {
+      "id": "745-d",
+      "name": "Lycanroc Dusk Form",
+      "img": "https://www.serebii.net/pokemon/art/745-d.png"
+    },
+    {
+      "id": "774",
+      "name": "Minior",
+      "img": "https://www.serebii.net/pokemon/art/774.png"
+    },
+    {
+      "id": "774-r",
+      "name": "Minior Core Form",
+      "img": "https://www.serebii.net/pokemon/art/774-c.png"
+    },
+    {
+      "id": 793,
+      "name": "Nihilego",
+      "img": "https://www.serebii.net/pokemon/art/793.png"
+    },
+    {
+      "id": 805,
+      "name": "Stakataka",
+      "img": "https://www.serebii.net/pokemon/art/805.png"
+    }
+  ]
+}
