@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 931,
+      "name": "Squawkabilly",
+      "img": "https://www.serebii.net/pokemon/art/931.png"
+    },
+    {
+      "id": 940,
+      "name": "Wattrel",
+      "img": "https://www.serebii.net/pokemon/art/940.png"
+    },
+    {
+      "id": 941,
+      "name": "Kilowattrel",
+      "img": "https://www.serebii.net/pokemon/art/941.png"
+    },
+    {
+      "id": 962,
+      "name": "Bombirdier",
+      "img": "https://www.serebii.net/pokemon/art/962.png"
+    },
+    {
+      "id": 973,
+      "name": "Flamigo",
+      "img": "https://www.serebii.net/pokemon/art/973.png"
+    },
+    {
+      "id": 993,
+      "name": "Iron Jugulis",
+      "img": "https://www.serebii.net/pokemon/art/993.png"
+    }
+  ]
+}
