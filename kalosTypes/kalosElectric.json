@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": "181-m",
+      "name": "Mega Ampharos",
+      "img": "https://www.serebii.net/pokemon/art/181-m.png"
+    },
+    {
+      "id": "310-m",
+      "name": "Mega Manectric",
+      "img": "https://www.serebii.net/pokemon/art/310-m.png"
+    },
+    {
+      "id": 694,
+      "name": "Helioptile",
+      "img": "https://www.serebii.net/pokemon/art/694.png"
+    },
+    {
+      "id": 695,
+      "name": "Heliolisk",
+      "img": "https://www.serebii.net/pokemon/art/695.png"
+    },
+    {
+      "id": 702,
+      "name": "Dedenne",
+      "img": "https://www.serebii.net/pokemon/art/702.png"
+    }
+  ]
+}
