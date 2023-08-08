@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": 263,
+      "name": "Zigzagoon",
+      "img": "https://www.serebii.net/pokemon/art/263.png"
+    },
+    {
+      "id": 264,
+      "name": "Linoone",
+      "img": "https://www.serebii.net/pokemon/art/264.png"
+    },
+    {
+      "id": 276,
+      "name": "Taillow",
+      "img": "https://www.serebii.net/pokemon/art/276.png"
+    },
+    {
+      "id": 277,
+      "name": "Swellow",
+      "img": "https://www.serebii.net/pokemon/art/277.png"
+    },
+    {
+      "id": 287,
+      "name": "Slakoth",
+      "img": "https://www.serebii.net/pokemon/art/287.png"
+    },
+    {
+      "id": 288,
+      "name": "Vigoroth",
+      "img": "https://www.serebii.net/pokemon/art/288.png"
+    },
+    {
+      "id": 289,
+      "name": "Slaking",
+      "img": "https://www.serebii.net/pokemon/art/289.png"
+    },
+    {
+      "id": 293,
+      "name": "Whismur",
+      "img": "https://www.serebii.net/pokemon/art/293.png"
+    },
+    {
+      "id": 294,
+      "name": "Loudred",
+      "img": "https://www.serebii.net/pokemon/art/294.png"
+    },
+    {
+      "id": 295,
+      "name": "Exploud",
+      "img": "https://www.serebii.net/pokemon/art/295.png"
+    },
+    {
+      "id": 298,
+      "name": "Azurill",
+      "img": "https://www.serebii.net/pokemon/art/298.png"
+    },
+    {
+      "id": 300,
+      "name": "Skitty",
+      "img": "https://www.serebii.net/pokemon/art/300.png"
+    },
+    {
+      "id": 301,
+      "name": "Delcatty",
+      "img": "https://www.serebii.net/pokemon/art/301.png"
+    },
+    {
+      "id": 327,
+      "name": "Spinda",
+      "img": "https://www.serebii.net/pokemon/art/327.png"
+    },
+    {
+      "id": 333,
+      "name": "Swablu",
+      "img": "https://www.serebii.net/pokemon/art/333.png"
+    },
+    {
+      "id": 335,
+      "name": "Zangoose",
+      "img": "https://www.serebii.net/pokemon/art/335.png"
+    },
+    {
+      "id": 351,
+      "name": "Castform",
+      "img": "https://www.serebii.net/pokemon/art/351.png"
+    },
+    {
+      "id": 352,
+      "name": "Kecleon",
+      "img": "https://www.serebii.net/pokemon/art/352.png"
+    }
+  ]
+}
