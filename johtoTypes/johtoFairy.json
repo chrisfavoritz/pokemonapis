@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 173,
+      "name": "Cleffa",
+      "img": "https://www.serebii.net/pokemon/art/173.png"
+    },
+    {
+      "id": 174,
+      "name": "Igglybuff",
+      "img": "https://www.serebii.net/pokemon/art/174.png"
+    },
+    {
+      "id": 175,
+      "name": "Togepi",
+      "img": "https://www.serebii.net/pokemon/art/175.png"
+    },
+    {
+      "id": 176,
+      "name": "Togetic",
+      "img": "https://www.serebii.net/pokemon/art/176.png"
+    },
+    {
+      "id": 183,
+      "name": "Marill",
+      "img": "https://www.serebii.net/pokemon/art/183.png"
+    },
+    {
+      "id": 184,
+      "name": "Azumarill",
+      "img": "https://www.serebii.net/pokemon/art/184.png"
+    },
+    {
+      "id": 209,
+      "name": "Snubbull",
+      "img": "https://www.serebii.net/pokemon/art/209.png"
+    },
+    {
+      "id": 210,
+      "name": "Granbull",
+      "img": "https://www.serebii.net/pokemon/art/210.png"
+    }
+  ]
+}
