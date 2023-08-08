@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "208-m",
+      "name": "Mega Steelix",
+      "img": "https://www.serebii.net/pokemon/art/208-m.png"
+    },
+    {
+      "id": "212-m",
+      "name": "Mega Scizor",
+      "img": "https://www.serebii.net/pokemon/art/212-m.png"
+    },
+    {
+      "id": "303-m",
+      "name": "Mega Mawile",
+      "img": "https://www.serebii.net/pokemon/art/303-m.png"
+    },
+    {
+      "id": "306-m",
+      "name": "Mega Aggron",
+      "img": "https://www.serebii.net/pokemon/art/306-m.png"
+    },
+    {
+      "id": "376-m",
+      "name": "Mega Metagross",
+      "img": "https://www.serebii.net/pokemon/art/376-m.png"
+    },
+    {
+      "id": "448-m",
+      "name": "Mega Lucario",
+      "img": "https://www.serebii.net/pokemon/art/448-m.png"
+    },
+    {
+      "id": 679,
+      "name": "Honedge",
+      "img": "https://www.serebii.net/pokemon/art/679.png"
+    },
+    {
+      "id": 680,
+      "name": "Doublade",
+      "img": "https://www.serebii.net/pokemon/art/680.png"
+    },
+    {
+      "id": 681,
+      "name": "Aegislash",
+      "img": "https://www.serebii.net/pokemon/art/681.png"
+    },
+    {
+      "id": 707,
+      "name": "Klefki",
+      "img": "https://www.serebii.net/pokemon/art/707.png"
+    }
+  ]
+}
