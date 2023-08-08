@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 408,
+      "name": "Cranidos",
+      "img": "https://www.serebii.net/pokemon/art/408.png"
+    },
+    {
+      "id": 409,
+      "name": "Rampardos",
+      "img": "https://www.serebii.net/pokemon/art/409.png"
+    },
+    {
+      "id": 410,
+      "name": "Shieldon",
+      "img": "https://www.serebii.net/pokemon/art/410.png"
+    },
+    {
+      "id": 411,
+      "name": "Bastiodon",
+      "img": "https://www.serebii.net/pokemon/art/411.png"
+    },
+    {
+      "id": 438,
+      "name": "Bonsly",
+      "img": "https://www.serebii.net/pokemon/art/438.png"
+    },
+    {
+      "id": 464,
+      "name": "Rhyperior",
+      "img": "https://www.serebii.net/pokemon/art/464.png"
+    },
+    {
+      "id": 476,
+      "name": "Probopass",
+      "img": "https://www.serebii.net/pokemon/art/476.png"
+    }
+  ]
+}
