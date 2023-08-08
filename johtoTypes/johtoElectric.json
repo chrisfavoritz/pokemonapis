@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 170,
+      "name": "Chinchou",
+      "img": "https://www.serebii.net/pokemon/art/170.png"
+    },
+    {
+      "id": 171,
+      "name": "Lanturn",
+      "img": "https://www.serebii.net/pokemon/art/171.png"
+    },
+    {
+      "id": 172,
+      "name": "Pichu",
+      "img": "https://www.serebii.net/pokemon/art/172.png"
+    },
+    {
+      "id": 179,
+      "name": "Mareep",
+      "img": "https://www.serebii.net/pokemon/art/179.png"
+    },
+    {
+      "id": 180,
+      "name": "Flaaffy",
+      "img": "https://www.serebii.net/pokemon/art/180.png"
+    },
+    {
+      "id": 181,
+      "name": "Ampharos",
+      "img": "https://www.serebii.net/pokemon/art/181.png"
+    },
+    {
+      "id": 239,
+      "name": "Elekid",
+      "img": "https://www.serebii.net/pokemon/art/239.png"
+    },
+    {
+      "id": 243,
+      "name": "Raikou",
+      "img": "https://www.serebii.net/pokemon/art/243.png"
+    }
+  ]
+}
