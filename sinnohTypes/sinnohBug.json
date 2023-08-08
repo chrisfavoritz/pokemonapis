@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": 401,
+      "name": "Kricketot",
+      "img": "https://www.serebii.net/pokemon/art/401.png"
+    },
+    {
+      "id": 402,
+      "name": "Kricketune",
+      "img": "https://www.serebii.net/pokemon/art/402.png"
+    },
+    {
+      "id": "412",
+      "name": "Burmy Plant Cloak",
+      "img": "https://www.serebii.net/pokemon/art/412-p.png"
+    },
+    {
+      "id": "412-s",
+      "name": "Burmy Sandy Cloak",
+      "img": "https://www.serebii.net/pokemon/art/412-s.png"
+    },
+    {
+      "id": "412-t",
+      "name": "Burmy Trash Cloak",
+      "img": "https://www.serebii.net/pokemon/art/412-t.png"
+    },
+    {
+      "id": "413",
+      "name": "Wormadam Plant Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413.png"
+    },
+    {
+      "id": "413-s",
+      "name": "Wormadam Sandy Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413-c.png"
+    },
+    {
+      "id": "413-t",
+      "name": "Wormadam Trash Cloak",
+      "img": "https://www.serebii.net/pokemon/art/413-t.png"
+    },
+    {
+      "id": 414,
+      "name": "Mothim",
+      "img": "https://www.serebii.net/pokemon/art/414.png"
+    },
+    {
+      "id": 415,
+      "name": "Combee",
+      "img": "https://www.serebii.net/pokemon/art/415.png"
+    },
+    {
+      "id": 416,
+      "name": "Vespiquen",
+      "img": "https://www.serebii.net/pokemon/art/416.png"
+    },
+    {
+      "id": 451,
+      "name": "Skorupi",
+      "img": "https://www.serebii.net/pokemon/art/451.png"
+    },
+    {
+      "id": 469,
+      "name": "Yanmega",
+      "img": "https://www.serebii.net/pokemon/art/469.png"
+    }
+  ]
+}
