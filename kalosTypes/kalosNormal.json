@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "018-m",
+      "name": "Mega Pidgeot",
+      "img": "https://www.serebii.net/pokemon/art/018-m.png"
+    },
+    {
+      "id": "115-m",
+      "name": "Mega Kangaskhan",
+      "img": "https://www.serebii.net/pokemon/art/115-m.png"
+    },
+    {
+      "id": "428-m",
+      "name": "Mega Lopunny",
+      "img": "https://www.serebii.net/pokemon/art/428-m.png"
+    },
+    {
+      "id": "531-m",
+      "name": "Mega Audino",
+      "img": "https://www.serebii.net/pokemon/art/531-m.png"
+    },
+    {
+      "id": 659,
+      "name": "Bunnelby",
+      "img": "https://www.serebii.net/pokemon/art/659.png"
+    },
+    {
+      "id": 660,
+      "name": "Diggersby",
+      "img": "https://www.serebii.net/pokemon/art/660.png"
+    },
+    {
+      "id": 661,
+      "name": "Fletchling",
+      "img": "https://www.serebii.net/pokemon/art/661.png"
+    },
+    {
+      "id": 667,
+      "name": "Litleo",
+      "img": "https://www.serebii.net/pokemon/art/667.png"
+    },
+    {
+      "id": 668,
+      "name": "Pyroar",
+      "img": "https://www.serebii.net/pokemon/art/668.png"
+    },
+    {
+      "id": 676,
+      "name": "Furfrou",
+      "img": "https://www.serebii.net/pokemon/art/676.png"
+    },
+    {
+      "id": 694,
+      "name": "Helioptile",
+      "img": "https://www.serebii.net/pokemon/art/694.png"
+    },
+    {
+      "id": 695,
+      "name": "Heliolisk",
+      "img": "https://www.serebii.net/pokemon/art/695.png"
+    }
+  ]
+}
