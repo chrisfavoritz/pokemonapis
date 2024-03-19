@@ -419,6 +419,11 @@
       "id": 1008,
       "name": "Miraidon",
       "img": "https://www.serebii.net/pokemon/art/1008.png"
+    },
+    {
+      "id": 1021,
+      "name": "Raging Bolt",
+      "img": "https://www.serebii.net/pokemon/art/1021.png"
     }
   ]
 }
