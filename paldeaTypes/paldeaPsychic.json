@@ -39,6 +39,21 @@
       "id": 1010,
       "name": "Iron Leaves",
       "img": "https://www.serebii.net/pokemon/art/1010.png"
+    },
+    {
+      "id": 1015,
+      "name": "Munkidori",
+      "img": "https://www.serebii.net/pokemon/art/1015.png"
+    },
+    {
+      "id": 1022,
+      "name": "Iron Boulder",
+      "img": "https://www.serebii.net/pokemon/art/1022.png"
+    },
+    {
+      "id": 1023,
+      "name": "Iron Crown",
+      "img": "https://www.serebii.net/pokemon/art/1023.png"
     }
   ]
 }
