@@ -155,6 +155,11 @@
       "num": "1008",
       "name": "Miraidon",
       "img": "https://www.serebii.net/pokemon/art/1008.png"
+    },
+    {
+      "id": 1024,
+      "name": "Terapagos",
+      "img": "https://www.serebii.net/pokemon/art/1024.png"
     }
   ]
 }
