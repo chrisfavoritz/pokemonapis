@@ -162,19 +162,18 @@
     },
     {
       "id": 21,
-      "num": 809,
       "name": "Melmetal",
       "img": "https://www.serebii.net/pokemon/art/809.png",
-      "type": ["Steel"],
-      "next_evolution": []
     },
     {
       "id": 22,
-      "num": 893,
       "name": "Zarude",
       "img": "https://www.serebii.net/pokemon/art/893.png",
-      "type": ["Dark", "Grass"],
-      "next_evolution": []
+    },
+    {
+      "id": 1025,
+      "name": "Pecharunt",
+      "img": "https://www.serebii.net/pokemon/art/1025.png"
     }
   ]
 }
