@@ -424,6 +424,11 @@
       "id": 995,
       "name": "Iron Thorns",
       "img": "https://www.serebii.net/pokemon/art/995.png"
+    },
+    {
+      "id": 1022,
+      "name": "Iron Boulder",
+      "img": "https://www.serebii.net/pokemon/art/1022.png"
     }
   ]
 }
