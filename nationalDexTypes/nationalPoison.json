@@ -449,10 +449,31 @@
       "id": 980,
       "name": "Clodsire",
       "img": "https://www.serebii.net/pokemon/art/980.png"
-    },{
+    },
+    {
       "id": 994,
       "name": "Iron Moth",
       "img": "https://www.serebii.net/pokemon/art/994.png"
+    },
+    {
+      "id": 1014,
+      "name": "Okidogi",
+      "img": "https://www.serebii.net/pokemon/art/1014.png"
+    },
+    {
+      "id": 1015,
+      "name": "Munkidori",
+      "img": "https://www.serebii.net/pokemon/art/1015.png"
+    },
+    {
+      "id": 1016,
+      "name": "Fezandipiti",
+      "img": "https://www.serebii.net/pokemon/art/1016.png"
+    },
+    {
+      "id": 1025,
+      "name": "Pecharunt",
+      "img": "https://www.serebii.net/pokemon/art/1025.png"
     }
   ]
 }
